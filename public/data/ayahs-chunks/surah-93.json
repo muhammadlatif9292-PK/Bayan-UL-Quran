@@ -1,0 +1,589 @@
+{
+  "ayahs": [
+    {
+      "id": "93:1",
+      "surah": 93,
+      "ayahNum": 1,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَٱلضُّحَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "DHw"
+        ],
+        "lemmas_present": [
+          "DuHFY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَٱلضُّحَىٰ"
+    },
+    {
+      "id": "93:2",
+      "surah": 93,
+      "ayahNum": 2,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "lyl",
+          "sjw"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "layol",
+          "sajaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَٱلَّيۡلِ إِذَا سَجَىٰ"
+    },
+    {
+      "id": "93:3",
+      "surah": 93,
+      "ayahNum": 3,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qly",
+          "rbb",
+          "wdE"
+        ],
+        "lemmas_present": [
+          "maA",
+          "qalaY`",
+          "rab~",
+          "wad~aEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+    },
+    {
+      "id": "93:4",
+      "surah": 93,
+      "ayahNum": 4,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awl",
+          "Axr",
+          "xyr"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "A^xir",
+          "ka",
+          "min",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ"
+    },
+    {
+      "id": "93:5",
+      "surah": 93,
+      "ayahNum": 5,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "ETw",
+          "rDw",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">aEoTaY`",
+          "rab~",
+          "r~aDiYa",
+          "sawof"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ"
+    },
+    {
+      "id": "93:6",
+      "surah": 93,
+      "ayahNum": 6,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Awy",
+          "wjd",
+          "ytm"
+        ],
+        "lemmas_present": [
+          "'aAwaY`^",
+          "lam",
+          "wajada",
+          "yatiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ"
+    },
+    {
+      "id": "93:7",
+      "surah": 93,
+      "ayahNum": 7,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Dll",
+          "hdy",
+          "wjd"
+        ],
+        "lemmas_present": [
+          "DaA^l~",
+          "hadaY",
+          "wajada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ"
+    },
+    {
+      "id": "93:8",
+      "surah": 93,
+      "ayahNum": 8,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eyl",
+          "gny",
+          "wjd"
+        ],
+        "lemmas_present": [
+          ">agonaY`",
+          "EaA^}il",
+          "wajada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ"
+    },
+    {
+      "id": "93:9",
+      "surah": 93,
+      "ayahNum": 9,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "qhr",
+          "ytm"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "laA",
+          "taqoharo",
+          "yatiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ"
+    },
+    {
+      "id": "93:10",
+      "surah": 93,
+      "ayahNum": 10,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "nhr",
+          "sAl"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "laA",
+          "saA^}il",
+          "tanoharo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ"
+    },
+    {
+      "id": "93:11",
+      "surah": 93,
+      "ayahNum": 11,
+      "surahName": "Ad-Duha",
+      "surahNameArabic": "الضحى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Hours",
+      "arabicText": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hdv",
+          "nEm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "niEomap",
+          "rab~",
+          "tuHad~ivu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 11,
+      "learnedState": "new",
+      "text": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ"
+    }
+  ]
+}

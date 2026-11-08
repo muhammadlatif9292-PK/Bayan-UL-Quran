@@ -1,0 +1,1104 @@
+{
+  "ayahs": [
+    {
+      "id": "92:1",
+      "surah": 92,
+      "ayahNum": 1,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "g$w",
+          "lyl"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "ga$iya",
+          "layol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ"
+    },
+    {
+      "id": "92:2",
+      "surah": 92,
+      "ayahNum": 2,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jlw",
+          "nhr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "nahaAr",
+          "tajal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ"
+    },
+    {
+      "id": "92:3",
+      "surah": 92,
+      "ayahNum": 3,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "*kr",
+          "Anv",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "*akar",
+          ">unvaY`",
+          "maA",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ"
+    },
+    {
+      "id": "92:4",
+      "surah": 92,
+      "ayahNum": 4,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$tt",
+          "sEy"
+        ],
+        "lemmas_present": [
+          "$at~aY`",
+          "<in~",
+          "saEoy"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ"
+    },
+    {
+      "id": "92:5",
+      "surah": 92,
+      "ayahNum": 5,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "ETw",
+          "wqy"
+        ],
+        "lemmas_present": [
+          ">aEoTaY`",
+          ">am~aA",
+          "man",
+          "{t~aqaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ"
+    },
+    {
+      "id": "92:6",
+      "surah": 92,
+      "ayahNum": 6,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hsn",
+          "Sdq"
+        ],
+        "lemmas_present": [
+          "HusonaY`",
+          "Sad~aqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ"
+    },
+    {
+      "id": "92:7",
+      "surah": 92,
+      "ayahNum": 7,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ysr"
+        ],
+        "lemmas_present": [
+          "yas~ara",
+          "yusoraY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ"
+    },
+    {
+      "id": "92:8",
+      "surah": 92,
+      "ayahNum": 8,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "bxl",
+          "gny"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "baxila",
+          "man",
+          "{sotagonaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ"
+    },
+    {
+      "id": "92:9",
+      "surah": 92,
+      "ayahNum": 9,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hsn",
+          "k*b"
+        ],
+        "lemmas_present": [
+          "HusonaY`",
+          "ka*~aba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ"
+    },
+    {
+      "id": "92:10",
+      "surah": 92,
+      "ayahNum": 10,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Esr",
+          "ysr"
+        ],
+        "lemmas_present": [
+          "EusoraY`",
+          "yas~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ"
+    },
+    {
+      "id": "92:11",
+      "surah": 92,
+      "ayahNum": 11,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "gny",
+          "mwl",
+          "rdy"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">agonato",
+          "Ean",
+          "maA",
+          "maAl",
+          "tarad~aY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
+    },
+    {
+      "id": "92:12",
+      "surah": 92,
+      "ayahNum": 12,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "إِنَّ عَلَيۡنَا لَلۡهُدَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "hdy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EalaY`",
+          "hudFY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "إِنَّ عَلَيۡنَا لَلۡهُدَىٰ"
+    },
+    {
+      "id": "92:13",
+      "surah": 92,
+      "ayahNum": 13,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Awl",
+          "Axr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aw~al",
+          "A^xir",
+          "naA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ"
+    },
+    {
+      "id": "92:14",
+      "surah": 92,
+      "ayahNum": 14,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "lZy",
+          "n*r",
+          "nwr"
+        ],
+        "lemmas_present": [
+          ">an*ara",
+          "naAr",
+          "talaZ~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ"
+    },
+    {
+      "id": "92:15",
+      "surah": 92,
+      "ayahNum": 15,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$qw",
+          "Sly"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">a$oqaY",
+          "laA",
+          "yaSolaY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى"
+    },
+    {
+      "id": "92:16",
+      "surah": 92,
+      "ayahNum": 16,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "k*b",
+          "wly"
+        ],
+        "lemmas_present": [
+          "ka*~aba",
+          "tawal~aY`",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ"
+    },
+    {
+      "id": "92:17",
+      "surah": 92,
+      "ayahNum": 17,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "jnb",
+          "wqy"
+        ],
+        "lemmas_present": [
+          ">atoqaY",
+          "yujan~abu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى"
+    },
+    {
+      "id": "92:18",
+      "surah": 92,
+      "ayahNum": 18,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "mwl",
+          "zkw"
+        ],
+        "lemmas_present": [
+          "A^taY",
+          "maAl",
+          "tazak~aY`",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ"
+    },
+    {
+      "id": "92:19",
+      "surah": 92,
+      "ayahNum": 19,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "End",
+          "jzy",
+          "nEm"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          "Eind",
+          "jazaY`",
+          "maA",
+          "min",
+          "niEomap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ"
+    },
+    {
+      "id": "92:20",
+      "surah": 92,
+      "ayahNum": 20,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Elw",
+          "bgy",
+          "rbb",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">aEolaY`",
+          "rab~",
+          "wajoh",
+          "{botigaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ"
+    },
+    {
+      "id": "92:21",
+      "surah": 92,
+      "ayahNum": 21,
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Night",
+      "arabicText": "وَلَسَوۡفَ يَرۡضَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "rDw"
+        ],
+        "lemmas_present": [
+          "r~aDiYa",
+          "sawof"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 9,
+      "learnedState": "new",
+      "text": "وَلَسَوۡفَ يَرۡضَىٰ"
+    }
+  ]
+}

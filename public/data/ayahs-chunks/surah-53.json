@@ -1,0 +1,3468 @@
+{
+  "ayahs": [
+    {
+      "id": "53:1",
+      "surah": 53,
+      "ayahNum": 1,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "hwy",
+          "njm"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "hawaY`",
+          "n~ajom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ"
+    },
+    {
+      "id": "53:2",
+      "surah": 53,
+      "ayahNum": 2,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Dll",
+          "SHb",
+          "gwy"
+        ],
+        "lemmas_present": [
+          "Dal~a",
+          "SaAHib",
+          "gawaY`",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ"
+    },
+    {
+      "id": "53:3",
+      "surah": 53,
+      "ayahNum": 3,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "hwy",
+          "nTq"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "hawaA^'",
+          "maA",
+          "yanTiqu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ"
+    },
+    {
+      "id": "53:4",
+      "surah": 53,
+      "ayahNum": 4,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "wHy"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in",
+          ">awoHaY`^",
+          "huwa",
+          "waHoY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ"
+    },
+    {
+      "id": "53:5",
+      "surah": 53,
+      "ayahNum": 5,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$dd",
+          "Elm",
+          "qwy"
+        ],
+        "lemmas_present": [
+          "$adiyd",
+          "Eal~ama",
+          "quw~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ"
+    },
+    {
+      "id": "53:6",
+      "surah": 53,
+      "ayahNum": 6,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "mrr",
+          "swy"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "mir~ap",
+          "{sotawaY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ"
+    },
+    {
+      "id": "53:7",
+      "surah": 53,
+      "ayahNum": 7,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Afq",
+          "Elw"
+        ],
+        "lemmas_present": [
+          ">aEolaY`",
+          ">ufuq",
+          "huwa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ"
+    },
+    {
+      "id": "53:8",
+      "surah": 53,
+      "ayahNum": 8,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dlw",
+          "dnw"
+        ],
+        "lemmas_present": [
+          "danaA",
+          "tadal~aY`",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "ثُمَّ دَنَا فَتَدَلَّىٰ"
+    },
+    {
+      "id": "53:9",
+      "surah": 53,
+      "ayahNum": 9,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dnw",
+          "kwn",
+          "qwb",
+          "qws"
+        ],
+        "lemmas_present": [
+          ">adonaY`",
+          ">aw",
+          "kaAna",
+          "qaAb",
+          "qawosayon"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ"
+    },
+    {
+      "id": "53:10",
+      "surah": 53,
+      "ayahNum": 10,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ebd",
+          "wHy"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">awoHaY`^",
+          "Eabod",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ"
+    },
+    {
+      "id": "53:11",
+      "surah": 53,
+      "ayahNum": 11,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 0.8,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "fAd",
+          "k*b",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "fu&aAd",
+          "ka*aba",
+          "maA",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ"
+    },
+    {
+      "id": "53:12",
+      "surah": 53,
+      "ayahNum": 12,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَفَتُمٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "mry",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "maA",
+          "ra'aA",
+          "tamaAra"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ"
+    },
+    {
+      "id": "53:13",
+      "surah": 53,
+      "ayahNum": 13,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Axr",
+          "nzl",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "A^xar",
+          "nazolap",
+          "qad",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ"
+    },
+    {
+      "id": "53:14",
+      "surah": 53,
+      "ayahNum": 14,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "End",
+          "nhy",
+          "sdr"
+        ],
+        "lemmas_present": [
+          "Eind",
+          "muntahaY`",
+          "sidorap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ"
+    },
+    {
+      "id": "53:15",
+      "surah": 53,
+      "ayahNum": 15,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awy",
+          "End",
+          "jnn"
+        ],
+        "lemmas_present": [
+          "Eind",
+          "jan~ap",
+          "ma>owaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ"
+    },
+    {
+      "id": "53:16",
+      "surah": 53,
+      "ayahNum": 16,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "g$w",
+          "sdr"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "ga$iya",
+          "maA",
+          "sidorap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ"
+    },
+    {
+      "id": "53:17",
+      "surah": 53,
+      "ayahNum": 17,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Tgy",
+          "bSr",
+          "zyg"
+        ],
+        "lemmas_present": [
+          "TagaY`",
+          "baSar",
+          "maA",
+          "zaAga"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ"
+    },
+    {
+      "id": "53:18",
+      "surah": 53,
+      "ayahNum": 18,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "لَقَدۡ رَأَىٰ مِنۡ ءَايٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ayy",
+          "kbr",
+          "rAy",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "kuboraY`",
+          "min",
+          "qad",
+          "ra'aA",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ"
+    },
+    {
+      "id": "53:19",
+      "surah": 53,
+      "ayahNum": 19,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "rAy"
+        ],
+        "lemmas_present": [
+          "ra'aA",
+          "{ll~a`t",
+          "{loEuz~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ"
+    },
+    {
+      "id": "53:20",
+      "surah": 53,
+      "ayahNum": 20,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Axr",
+          "vlv"
+        ],
+        "lemmas_present": [
+          "A^xar",
+          "manaw`p",
+          "v~aAlivap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ"
+    },
+    {
+      "id": "53:21",
+      "surah": 53,
+      "ayahNum": 21,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "*kr",
+          "Anv"
+        ],
+        "lemmas_present": [
+          "*akar",
+          ">unvaY`",
+          "hu",
+          "kumu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ"
+    },
+    {
+      "id": "53:22",
+      "surah": 53,
+      "ayahNum": 22,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Dyz",
+          "qsm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<i*FA",
+          "DiyzaY`^",
+          "qisomap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ"
+    },
+    {
+      "id": "53:23",
+      "surah": 53,
+      "ayahNum": 23,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللّٰهُ بِهَا مِن سُلۡطٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 25,
+        "unique_surface_forms": 25,
+        "unique_lemmas": 21,
+        "unique_roots": 12,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 20,
+        "noun_count": 8,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 4,
+          "Genitive": 3,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Abw",
+          "Alh",
+          "Znn",
+          "hdy",
+          "hwy",
+          "jyA",
+          "nfs",
+          "nzl",
+          "rbb",
+          "slT",
+          "smw",
+          "tbE"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in",
+          ">antumo",
+          ">anzala",
+          "A^baA'",
+          "Zan~",
+          "haA",
+          "hawaY`",
+          "hiYa",
+          "hudFY",
+          "jaA^'a",
+          "maA",
+          "min",
+          "nafos",
+          "qad",
+          "rab~",
+          "sam~aY`",
+          "suloTa`n",
+          "{ll~ah",
+          "{som",
+          "{t~abaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ"
+    },
+    {
+      "id": "53:24",
+      "surah": 53,
+      "ayahNum": 24,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَمۡ لِلۡإِنسٰنِ مَا تَمَنَّىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ans",
+          "mny"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          ">am",
+          "maA",
+          "taman~aY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ"
+    },
+    {
+      "id": "53:25",
+      "surah": 53,
+      "ayahNum": 25,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَلِلّٰهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "Awl",
+          "Axr"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "A^xir",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ"
+    },
+    {
+      "id": "53:26",
+      "surah": 53,
+      "ayahNum": 26,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "۞وَكَم مِّن مَّلَكٖ فِي ٱلسَّمٰوٰتِ لَا تُغۡنِي شَفٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللّٰهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 18,
+        "unique_surface_forms": 18,
+        "unique_lemmas": 17,
+        "unique_roots": 9,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 22.2,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Nominative": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$fE",
+          "$yA",
+          "A*n",
+          "Alh",
+          "bEd",
+          "gny",
+          "mlk",
+          "rDw",
+          "smw"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "$aYo'",
+          "$afa`Eap",
+          "<il~aA",
+          ">a*ina",
+          ">agonato",
+          ">an",
+          "baEod",
+          "fiY",
+          "kam",
+          "laA",
+          "malak",
+          "man",
+          "min",
+          "r~aDiYa",
+          "samaA^'",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "۞وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ"
+    },
+    {
+      "id": "53:27",
+      "surah": 53,
+      "ayahNum": 27,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَـٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Anv",
+          "Axr",
+          "mlk",
+          "smw"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "<in~",
+          ">unvaY`",
+          "A^xir",
+          "laA",
+          "malak",
+          "sam~aY`",
+          "tasomiyap",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَـٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ"
+    },
+    {
+      "id": "53:28",
+      "surah": 53,
+      "ayahNum": 28,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 16,
+        "unique_surface_forms": 15,
+        "unique_lemmas": 14,
+        "unique_roots": 6,
+        "type_token_ratio": 0.9375,
+        "verb_count": 2,
+        "verb_pct": 12.5,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 3
+        },
+        "roots_present": [
+          "$yA",
+          "Elm",
+          "Hqq",
+          "Znn",
+          "gny",
+          "tbE"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "<il~aA",
+          "<in",
+          "<in~",
+          ">agonato",
+          "Eilom",
+          "Haq~",
+          "Zan~",
+          "hi.",
+          "hum",
+          "laA",
+          "maA",
+          "min",
+          "{t~abaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا"
+    },
+    {
+      "id": "53:29",
+      "surah": 53,
+      "ayahNum": 29,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 0.9091,
+        "verb_count": 3,
+        "verb_pct": 27.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "*kr",
+          "ErD",
+          "Hyy",
+          "dnw",
+          "rwd",
+          "wly"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "<il~aA",
+          ">aEoraDa",
+          ">araAda",
+          "Ean",
+          "Hayaw`p",
+          "d~unoyaA",
+          "lam",
+          "man",
+          "tawal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا"
+    },
+    {
+      "id": "53:30",
+      "surah": 53,
+      "ayahNum": 30,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "ذٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 16,
+        "unique_surface_forms": 15,
+        "unique_lemmas": 13,
+        "unique_roots": 6,
+        "type_token_ratio": 0.9375,
+        "verb_count": 2,
+        "verb_pct": 12.5,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Dll",
+          "Elm",
+          "blg",
+          "hdy",
+          "rbb",
+          "sbl"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          ">aEolam",
+          "Dal~a",
+          "Ean",
+          "Eilom",
+          "huwa",
+          "mabolag",
+          "man",
+          "min",
+          "rab~",
+          "sabiyl",
+          "{hotadaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ"
+    },
+    {
+      "id": "53:31",
+      "surah": 53,
+      "ayahNum": 31,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَلِلّٰهِ مَا فِي ٱلسَّمٰوٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 16,
+        "unique_surface_forms": 14,
+        "unique_lemmas": 11,
+        "unique_roots": 7,
+        "type_token_ratio": 0.875,
+        "verb_count": 5,
+        "verb_pct": 31.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4
+        },
+        "roots_present": [
+          "Alh",
+          "ArD",
+          "Eml",
+          "Hsn",
+          "jzy",
+          "smw",
+          "swA"
+        ],
+        "lemmas_present": [
+          ">aHosana",
+          ">aroD",
+          ">asaA^'a",
+          "Eamila",
+          "HusonaY`",
+          "fiY",
+          "jazaY`",
+          "maA",
+          "samaA^'",
+          "{ll~ah",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى"
+    },
+    {
+      "id": "53:32",
+      "surah": 53,
+      "ayahNum": 32,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَـٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 31,
+        "unique_surface_forms": 29,
+        "unique_lemmas": 28,
+        "unique_roots": 17,
+        "type_token_ratio": 0.9355,
+        "verb_count": 4,
+        "verb_pct": 12.9,
+        "noun_count": 14,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 5,
+          "Genitive": 5,
+          "Nominative": 4
+        },
+        "roots_present": [
+          "Amm",
+          "ArD",
+          "Avm",
+          "Elm",
+          "bTn",
+          "fH$",
+          "gfr",
+          "jnb",
+          "jnn",
+          "kbr",
+          "lmm",
+          "n$A",
+          "nfs",
+          "rbb",
+          "wqy",
+          "wsE",
+          "zkw"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "<il~aA",
+          "<in~",
+          "<ivom",
+          ">aEolam",
+          ">ajin~ap",
+          ">an$a>a",
+          ">antumo",
+          ">aroD",
+          ">um~",
+          "baTon",
+          "fa`Hi$ap",
+          "fiY",
+          "huwa",
+          "kabiyrap",
+          "kumo",
+          "laA",
+          "l~amam",
+          "man",
+          "min",
+          "m~agofirap",
+          "nafos",
+          "rab~",
+          "wa`siE",
+          "zak~aY`",
+          "{jotanabu",
+          "{l~a*iY",
+          "{t~aqaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَـٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ"
+    },
+    {
+      "id": "53:33",
+      "surah": 53,
+      "ayahNum": 33,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "rAy",
+          "wly"
+        ],
+        "lemmas_present": [
+          "ra'aA",
+          "tawal~aY`",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ"
+    },
+    {
+      "id": "53:34",
+      "surah": 53,
+      "ayahNum": 34,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ETw",
+          "kdy",
+          "qll"
+        ],
+        "lemmas_present": [
+          ">aEoTaY`",
+          ">akodaY`^",
+          "qaliyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ"
+    },
+    {
+      "id": "53:35",
+      "surah": 53,
+      "ayahNum": 35,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Elm",
+          "End",
+          "gyb",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "Eilom",
+          "Eind",
+          "gayob",
+          "huwa",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ"
+    },
+    {
+      "id": "53:36",
+      "surah": 53,
+      "ayahNum": 36,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHf",
+          "nbA"
+        ],
+        "lemmas_present": [
+          ">am",
+          "SuHuf",
+          "fiY",
+          "lam",
+          "maA",
+          "muwsaY`",
+          "nab~a>a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ"
+    },
+    {
+      "id": "53:37",
+      "surah": 53,
+      "ayahNum": 37,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَإِبۡرٰهِيمَ ٱلَّذِي وَفَّىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "wfy"
+        ],
+        "lemmas_present": [
+          "<iboraAhiym",
+          "waf~aY`^",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ"
+    },
+    {
+      "id": "53:38",
+      "surah": 53,
+      "ayahNum": 38,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Axr",
+          "wzr"
+        ],
+        "lemmas_present": [
+          ">an",
+          "A^xar",
+          "waAzirap",
+          "wizor",
+          "yaziru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ"
+    },
+    {
+      "id": "53:39",
+      "surah": 53,
+      "ayahNum": 39,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَن لَّيۡسَ لِلۡإِنسٰنِ إِلَّا مَا سَعَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ans",
+          "lys",
+          "sEy"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<insa`n",
+          ">an",
+          "l~ayosa",
+          "maA",
+          "saEaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ"
+    },
+    {
+      "id": "53:40",
+      "surah": 53,
+      "ayahNum": 40,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "rAy",
+          "sEy"
+        ],
+        "lemmas_present": [
+          ">an~",
+          "ra'aA",
+          "saEoy",
+          "sawof"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ"
+    },
+    {
+      "id": "53:41",
+      "surah": 53,
+      "ayahNum": 41,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "jzy",
+          "wfy"
+        ],
+        "lemmas_present": [
+          ">awofaY`2",
+          "jazaA^'",
+          "jazaY`",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ"
+    },
+    {
+      "id": "53:42",
+      "surah": 53,
+      "ayahNum": 42,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "nhy",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">an~",
+          "muntahaY`",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ"
+    },
+    {
+      "id": "53:43",
+      "surah": 53,
+      "ayahNum": 43,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "DHk",
+          "bky"
+        ],
+        "lemmas_present": [
+          ">aDoHaka",
+          ">abokaY`",
+          ">an~",
+          "huwa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ"
+    },
+    {
+      "id": "53:44",
+      "surah": 53,
+      "ayahNum": 44,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Hyy",
+          "mwt"
+        ],
+        "lemmas_present": [
+          ">aHoyaA",
+          ">amaAta",
+          ">an~",
+          "huwa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا"
+    },
+    {
+      "id": "53:45",
+      "surah": 53,
+      "ayahNum": 45,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "Anv",
+          "xlq",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "*akar",
+          ">an~",
+          ">unvaY`",
+          "xalaqa",
+          "zawoj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ"
+    },
+    {
+      "id": "53:46",
+      "surah": 53,
+      "ayahNum": 46,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "mny",
+          "nTf"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "min",
+          "n~uTofap",
+          "yumonaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ"
+    },
+    {
+      "id": "53:47",
+      "surah": 53,
+      "ayahNum": 47,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Axr",
+          "n$A"
+        ],
+        "lemmas_present": [
+          ">an~",
+          "A^xar",
+          "EalaY`",
+          "n~a$o>ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ"
+    },
+    {
+      "id": "53:48",
+      "surah": 53,
+      "ayahNum": 48,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "gny",
+          "qny"
+        ],
+        "lemmas_present": [
+          ">agonaY`",
+          ">an~",
+          ">aqonaY`",
+          "huwa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ"
+    },
+    {
+      "id": "53:49",
+      "surah": 53,
+      "ayahNum": 49,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 186,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "$Er",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "$~iEoraY`",
+          ">an~",
+          "huwa",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ"
+    },
+    {
+      "id": "53:50",
+      "surah": 53,
+      "ayahNum": 50,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Awl",
+          "Ewd",
+          "hlk"
+        ],
+        "lemmas_present": [
+          ">aholaka",
+          ">an~",
+          ">aw~al",
+          "EaAd2"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ"
+    },
+    {
+      "id": "53:51",
+      "surah": 53,
+      "ayahNum": 51,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bqy"
+        ],
+        "lemmas_present": [
+          "baqiYa",
+          "maA",
+          "vamuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ"
+    },
+    {
+      "id": "53:52",
+      "surah": 53,
+      "ayahNum": 52,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Tgy",
+          "Zlm",
+          "kwn",
+          "qbl",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aTogaY`",
+          ">aZolam",
+          "humo",
+          "kaAna",
+          "min",
+          "nuwH",
+          "qabol",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ"
+    },
+    {
+      "id": "53:53",
+      "surah": 53,
+      "ayahNum": 53,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Afk",
+          "hwy"
+        ],
+        "lemmas_present": [
+          "hawaY`",
+          "mu&otafikap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ"
+    },
+    {
+      "id": "53:54",
+      "surah": 53,
+      "ayahNum": 54,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "g$w"
+        ],
+        "lemmas_present": [
+          "ga$~aY`",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَغَشَّىٰهَا مَا غَشَّىٰ"
+    },
+    {
+      "id": "53:55",
+      "surah": 53,
+      "ayahNum": 55,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "mry",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "rab~",
+          "tamaAra"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ"
+    },
+    {
+      "id": "53:56",
+      "surah": 53,
+      "ayahNum": 56,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "هٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awl",
+          "n*r"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "ha`*aA",
+          "min",
+          "na*iyr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ"
+    },
+    {
+      "id": "53:57",
+      "surah": 53,
+      "ayahNum": 57,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَزِفَتِ ٱلۡأٓزِفَةُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Azf"
+        ],
+        "lemmas_present": [
+          "'aAzifap",
+          ">azifati"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَزِفَتِ ٱلۡأٓزِفَةُ"
+    },
+    {
+      "id": "53:58",
+      "surah": 53,
+      "ayahNum": 58,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "لَيۡسَ لَهَا مِن دُونِ ٱللّٰهِ كَاشِفَةٌ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Alh",
+          "dwn",
+          "k$f",
+          "lys"
+        ],
+        "lemmas_present": [
+          "duwn",
+          "haA",
+          "kaA$ifap",
+          "l~ayosa",
+          "min",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ"
+    },
+    {
+      "id": "53:59",
+      "surah": 53,
+      "ayahNum": 59,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "أَفَمِنۡ هٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ejb",
+          "Hdv"
+        ],
+        "lemmas_present": [
+          "Eajibu",
+          "Hadiyv",
+          "ha`*aA",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ"
+    },
+    {
+      "id": "53:60",
+      "surah": 53,
+      "ayahNum": 60,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "DHk",
+          "bky"
+        ],
+        "lemmas_present": [
+          "DaHikato",
+          "bakato",
+          "laA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ"
+    },
+    {
+      "id": "53:61",
+      "surah": 53,
+      "ayahNum": 61,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "وَأَنتُمۡ سٰمِدُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "smd"
+        ],
+        "lemmas_present": [
+          ">antumo",
+          "sa`miduwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "وَأَنتُمۡ سَٰمِدُونَ"
+    },
+    {
+      "id": "53:62",
+      "surah": 53,
+      "ayahNum": 62,
+      "surahName": "An-Najm",
+      "surahNameArabic": "النجم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Star",
+      "arabicText": "فَٱسۡجُدُواْۤ لِلّٰهِۤ وَٱعۡبُدُواْ۩",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 187,
+      "manzil": 7,
+      "sajda": true,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "Ebd",
+          "sjd"
+        ],
+        "lemmas_present": [
+          "Eabada",
+          "sajada",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 23,
+      "learnedState": "new",
+      "text": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩"
+    }
+  ]
+}

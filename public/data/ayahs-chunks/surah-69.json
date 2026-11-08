@@ -1,0 +1,2882 @@
+{
+  "ayahs": [
+    {
+      "id": "69:1",
+      "surah": 69,
+      "ayahNum": 1,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "ٱلۡحَآقَّةُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hqq"
+        ],
+        "lemmas_present": [
+          "HaA^q~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "ٱلۡحَآقَّةُ"
+    },
+    {
+      "id": "69:2",
+      "surah": 69,
+      "ayahNum": 2,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "مَا ٱلۡحَآقَّةُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hqq"
+        ],
+        "lemmas_present": [
+          "HaA^q~ap",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "مَا ٱلۡحَآقَّةُ"
+    },
+    {
+      "id": "69:3",
+      "surah": 69,
+      "ayahNum": 3,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hqq",
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "HaA^q~ap",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ"
+    },
+    {
+      "id": "69:4",
+      "surah": 69,
+      "ayahNum": 4,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ewd",
+          "k*b",
+          "qrE"
+        ],
+        "lemmas_present": [
+          "EaAd2",
+          "ka*~aba",
+          "qaAriEap",
+          "vamuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ"
+    },
+    {
+      "id": "69:5",
+      "surah": 69,
+      "ayahNum": 5,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Tgy",
+          "hlk"
+        ],
+        "lemmas_present": [
+          ">aholaka",
+          ">am~aA",
+          "T~aAgiyap",
+          "vamuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ"
+    },
+    {
+      "id": "69:6",
+      "surah": 69,
+      "ayahNum": 6,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Etw",
+          "Ewd",
+          "SrSr",
+          "hlk",
+          "rwH"
+        ],
+        "lemmas_present": [
+          ">aholaka",
+          ">am~aA",
+          "EaAd2",
+          "EaAtiyap",
+          "SaroSar",
+          "riyH"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ"
+    },
+    {
+      "id": "69:7",
+      "surah": 69,
+      "ayahNum": 7,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 15,
+        "unique_surface_forms": 15,
+        "unique_lemmas": 15,
+        "unique_roots": 12,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 13.3,
+        "noun_count": 6,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Accusative": 5,
+          "Genitive": 4,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ejz",
+          "Hsm",
+          "SrE",
+          "lyl",
+          "nxl",
+          "qwm",
+          "rAy",
+          "sbE",
+          "sxr",
+          "vmn",
+          "xwy",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">aEojaAz",
+          "EalaY`",
+          "Husuwm",
+          "SaroEaY`",
+          "fiY",
+          "ka>an~",
+          "layol",
+          "naxol",
+          "qawom",
+          "ra'aA",
+          "saboE",
+          "sax~ara",
+          "vama`niyap",
+          "xaAwiyap",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ"
+    },
+    {
+      "id": "69:8",
+      "surah": 69,
+      "ayahNum": 8,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bqy",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "baAqiyap",
+          "hal",
+          "hum",
+          "min",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ"
+    },
+    {
+      "id": "69:9",
+      "surah": 69,
+      "ayahNum": 9,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكٰتُ بِٱلۡخَاطِئَةِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Afk",
+          "jyA",
+          "qbl",
+          "xTA"
+        ],
+        "lemmas_present": [
+          "firoEawon",
+          "jaA^'a",
+          "man",
+          "mu&otafikap",
+          "qabol",
+          "xaATi}ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ"
+    },
+    {
+      "id": "69:10",
+      "surah": 69,
+      "ayahNum": 10,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ax*",
+          "ESy",
+          "rbb",
+          "rbw",
+          "rsl"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          ">axo*",
+          "EaSaA",
+          "rab~",
+          "rasuwl",
+          "r~aAbiyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً"
+    },
+    {
+      "id": "69:11",
+      "surah": 69,
+      "ayahNum": 11,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنٰكُمۡ فِي ٱلۡجَارِيَةِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hml",
+          "Tgy",
+          "jry",
+          "mwh"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Hamala",
+          "TagaY`",
+          "fiY",
+          "jaAriyap",
+          "lam~aA",
+          "maA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنَٰكُمۡ فِي ٱلۡجَارِيَةِ"
+    },
+    {
+      "id": "69:12",
+      "surah": 69,
+      "ayahNum": 12,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةٗ وَتَعِيَهَآ أُذُنٞ وٰعِيَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "*kr",
+          "A*n",
+          "jEl",
+          "wEy"
+        ],
+        "lemmas_present": [
+          ">u*unN",
+          "jaEala",
+          "kumo",
+          "ta*okirap",
+          "taEiya",
+          "wa`Eiyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةٗ وَتَعِيَهَآ أُذُنٞ وَٰعِيَةٞ"
+    },
+    {
+      "id": "69:13",
+      "surah": 69,
+      "ayahNum": 13,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وٰحِدَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Swr",
+          "nfx",
+          "wHd"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "S~uwr",
+          "fiY",
+          "nafaxa",
+          "nafoxap",
+          "wa`Hidap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ"
+    },
+    {
+      "id": "69:14",
+      "surah": 69,
+      "ayahNum": 14,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةٗ وٰحِدَةٗ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "ArD",
+          "Hml",
+          "dkk",
+          "jbl",
+          "wHd"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          "Hamala",
+          "dak~ap",
+          "duk~ati",
+          "jabal",
+          "wa`Hidap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةٗ وَٰحِدَةٗ"
+    },
+    {
+      "id": "69:15",
+      "surah": 69,
+      "ayahNum": 15,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "wqE"
+        ],
+        "lemmas_present": [
+          "waAqiEap",
+          "waqaEa",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ"
+    },
+    {
+      "id": "69:16",
+      "surah": 69,
+      "ayahNum": 16,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "$qq",
+          "smw",
+          "why"
+        ],
+        "lemmas_present": [
+          "hiYa",
+          "samaA^'",
+          "waAhiyap",
+          "yawoma}i*",
+          "{n$aq~a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ"
+    },
+    {
+      "id": "69:17",
+      "surah": 69,
+      "ayahNum": 17,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمٰنِيَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Er$",
+          "Hml",
+          "fwq",
+          "mlk",
+          "rbb",
+          "rjw",
+          "vmn"
+        ],
+        "lemmas_present": [
+          ">arojaA^}",
+          "EalaY`",
+          "Earo$",
+          "Hamala",
+          "fawoq",
+          "malak",
+          "rab~",
+          "vama`niyap",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ"
+    },
+    {
+      "id": "69:18",
+      "surah": 69,
+      "ayahNum": 18,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "يَوۡمَئِذٖ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "ErD",
+          "xfy"
+        ],
+        "lemmas_present": [
+          "EaraDa",
+          "laA",
+          "min",
+          "xaAfiyap",
+          "yawoma}i*",
+          "yaxofaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "يَوۡمَئِذٖ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةٞ"
+    },
+    {
+      "id": "69:19",
+      "surah": 69,
+      "ayahNum": 19,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَأَمَّا مَنۡ أُوتِيَ كِتٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتٰبِيَهۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "ktb",
+          "qrA",
+          "qwl",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "A^taY",
+          "haA^&um",
+          "kita`b",
+          "man",
+          "qaAla",
+          "qara>a",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتَٰبِيَهۡ"
+    },
+    {
+      "id": "69:20",
+      "surah": 69,
+      "ayahNum": 20,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "إِنِّي ظَنَنتُ أَنِّي مُلٰقٍ حِسَابِيَهۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hsb",
+          "Znn",
+          "lqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">an~",
+          "HisaAb",
+          "Zan~a",
+          "mula`q"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "إِنِّي ظَنَنتُ أَنِّي مُلَٰقٍ حِسَابِيَهۡ"
+    },
+    {
+      "id": "69:21",
+      "surah": 69,
+      "ayahNum": 21,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ey$",
+          "rDw"
+        ],
+        "lemmas_present": [
+          "Eiy$ap",
+          "fiY",
+          "huwa",
+          "raADiyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ"
+    },
+    {
+      "id": "69:22",
+      "surah": 69,
+      "ayahNum": 22,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فِي جَنَّةٍ عَالِيَةٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elw",
+          "jnn"
+        ],
+        "lemmas_present": [
+          "EaAliyap",
+          "fiY",
+          "jan~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فِي جَنَّةٍ عَالِيَةٖ"
+    },
+    {
+      "id": "69:23",
+      "surah": 69,
+      "ayahNum": 23,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "قُطُوفُهَا دَانِيَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "dnw",
+          "qTf"
+        ],
+        "lemmas_present": [
+          "daAniyap",
+          "quTuwf"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "قُطُوفُهَا دَانِيَةٞ"
+    },
+    {
+      "id": "69:24",
+      "surah": 69,
+      "ayahNum": 24,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 37.5,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$rb",
+          "Akl",
+          "hnA",
+          "slf",
+          "xlw",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          ">akala",
+          ">asolafato",
+          "fiY",
+          "haniy^_#",
+          "maA",
+          "xaAliyap",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ"
+    },
+    {
+      "id": "69:25",
+      "surah": 69,
+      "ayahNum": 25,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَأَمَّا مَنۡ أُوتِيَ كِتٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يٰلَيۡتَنِي لَمۡ أُوتَ كِتٰبِيَهۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 30,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$ml",
+          "Aty",
+          "ktb",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "$~imaAl",
+          ">am~aA",
+          "A^taY",
+          "kita`b",
+          "lam",
+          "layot",
+          "man",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُوتَ كِتَٰبِيَهۡ"
+    },
+    {
+      "id": "69:26",
+      "surah": 69,
+      "ayahNum": 26,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hsb",
+          "dry"
+        ],
+        "lemmas_present": [
+          "HisaAb",
+          "lam",
+          "maA",
+          "tadoriY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ"
+    },
+    {
+      "id": "69:27",
+      "surah": 69,
+      "ayahNum": 27,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "يٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "kwn",
+          "qDy"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "layot",
+          "qaADiyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ"
+    },
+    {
+      "id": "69:28",
+      "surah": 69,
+      "ayahNum": 28,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "gny",
+          "mwl"
+        ],
+        "lemmas_present": [
+          ">agonaY`",
+          "Ean",
+          "maA",
+          "maAl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ"
+    },
+    {
+      "id": "69:29",
+      "surah": 69,
+      "ayahNum": 29,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "هَلَكَ عَنِّي سُلۡطٰنِيَهۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "hlk",
+          "slT"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "halaka",
+          "suloTa`n"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ"
+    },
+    {
+      "id": "69:30",
+      "surah": 69,
+      "ayahNum": 30,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "خُذُوهُ فَغُلُّوهُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 206,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Ax*",
+          "gll"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          "gal~a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "خُذُوهُ فَغُلُّوهُ"
+    },
+    {
+      "id": "69:31",
+      "surah": 69,
+      "ayahNum": 31,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Sly",
+          "jHm"
+        ],
+        "lemmas_present": [
+          "Sal~u",
+          "jaHiym",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ"
+    },
+    {
+      "id": "69:32",
+      "surah": 69,
+      "ayahNum": 32,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*rE",
+          "sbE",
+          "slk",
+          "slsl"
+        ],
+        "lemmas_present": [
+          "*aroE",
+          "*iraAE",
+          "fiY",
+          "saboE",
+          "salaka",
+          "silosilap",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ"
+    },
+    {
+      "id": "69:33",
+      "surah": 69,
+      "ayahNum": 33,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللّٰهِ ٱلۡعَظِيمِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Alh",
+          "Amn",
+          "EZm",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "<in~",
+          "EaZiym",
+          "kaAna",
+          "laA",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ"
+    },
+    {
+      "id": "69:34",
+      "surah": 69,
+      "ayahNum": 34,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "HDD",
+          "TEm",
+          "skn"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "TaEaAm",
+          "laA",
+          "misokiyn",
+          "yaHuD~u"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
+    },
+    {
+      "id": "69:35",
+      "surah": 69,
+      "ayahNum": 35,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هٰهُنَا حَمِيمٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hmm",
+          "lys",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "Hamiym",
+          "hu",
+          "hunaA",
+          "l~ayosa",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ"
+    },
+    {
+      "id": "69:36",
+      "surah": 69,
+      "ayahNum": 36,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "TEm",
+          "gsl"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "TaEaAm",
+          "gisoliyn",
+          "laA",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ"
+    },
+    {
+      "id": "69:37",
+      "surah": 69,
+      "ayahNum": 37,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخٰطِـُٔونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Akl",
+          "xTA"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">akala",
+          "laA",
+          "xa`Ti_#iyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ"
+    },
+    {
+      "id": "69:38",
+      "surah": 69,
+      "ayahNum": 38,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "bSr",
+          "qsm"
+        ],
+        "lemmas_present": [
+          ">aboSara",
+          ">aqosamu",
+          "laA",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ"
+    },
+    {
+      "id": "69:39",
+      "surah": 69,
+      "ayahNum": 39,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَمَا لَا تُبۡصِرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "bSr"
+        ],
+        "lemmas_present": [
+          ">aboSara",
+          "laA",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَمَا لَا تُبۡصِرُونَ"
+    },
+    {
+      "id": "69:40",
+      "surah": 69,
+      "ayahNum": 40,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "krm",
+          "qwl",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kariym",
+          "qawol",
+          "rasuwl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ"
+    },
+    {
+      "id": "69:41",
+      "surah": 69,
+      "ayahNum": 41,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَمَا هُوَ بِقَوۡلِ شَاعِرٖۚ قَلِيلٗا مَّا تُؤۡمِنُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$Er",
+          "Amn",
+          "qll",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "$aAEir",
+          "'aAmana",
+          "huwa",
+          "maA",
+          "qaliyl",
+          "qawol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَمَا هُوَ بِقَوۡلِ شَاعِرٖۚ قَلِيلٗا مَّا تُؤۡمِنُونَ"
+    },
+    {
+      "id": "69:42",
+      "surah": 69,
+      "ayahNum": 42,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "khn",
+          "qll",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "kaAhin",
+          "laA",
+          "maA",
+          "qaliyl",
+          "qawol",
+          "ta*ak~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ"
+    },
+    {
+      "id": "69:43",
+      "surah": 69,
+      "ayahNum": 43,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعٰلَمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "nzl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Ea`lamiyn",
+          "min",
+          "rab~",
+          "tanziyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ"
+    },
+    {
+      "id": "69:44",
+      "surah": 69,
+      "ayahNum": 44,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bED",
+          "qwl"
+        ],
+        "lemmas_present": [
+          ">aqaAwiyl",
+          "EalaY`",
+          "baEoD",
+          "law",
+          "taqaw~ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ"
+    },
+    {
+      "id": "69:45",
+      "surah": 69,
+      "ayahNum": 45,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ax*",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          "min",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ"
+    },
+    {
+      "id": "69:46",
+      "surah": 69,
+      "ayahNum": 46,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "qTE",
+          "wtn"
+        ],
+        "lemmas_present": [
+          "min",
+          "quTiEa",
+          "vum~",
+          "watiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ"
+    },
+    {
+      "id": "69:47",
+      "surah": 69,
+      "ayahNum": 47,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حٰجِزِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "AHd",
+          "Hjz"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          "Ean",
+          "Ha`jiziyn",
+          "maA",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَٰجِزِينَ"
+    },
+    {
+      "id": "69:48",
+      "surah": 69,
+      "ayahNum": 48,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*kr",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "mut~aqiyn",
+          "ta*okirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ"
+    },
+    {
+      "id": "69:49",
+      "surah": 69,
+      "ayahNum": 49,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Elm",
+          "k*b"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">an~",
+          "Ealima",
+          "min",
+          "m~uka*~ibiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ"
+    },
+    {
+      "id": "69:50",
+      "surah": 69,
+      "ayahNum": 50,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكٰفِرِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hsr",
+          "kfr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EalaY`",
+          "Hasorap",
+          "ka`firuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ"
+    },
+    {
+      "id": "69:51",
+      "surah": 69,
+      "ayahNum": 51,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hqq",
+          "yqn"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Haq~",
+          "yaqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ"
+    },
+    {
+      "id": "69:52",
+      "surah": 69,
+      "ayahNum": 52,
+      "surahName": "Al-Haqqa",
+      "surahNameArabic": "الحاقة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Reality",
+      "arabicText": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "EZm",
+          "rbb",
+          "sbH",
+          "smw"
+        ],
+        "lemmas_present": [
+          "EaZiym",
+          "rab~",
+          "sab~aHa",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 78,
+      "learnedState": "new",
+      "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
+    }
+  ]
+}

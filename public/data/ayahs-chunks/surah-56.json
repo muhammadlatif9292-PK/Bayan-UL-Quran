@@ -1,0 +1,5136 @@
+{
+  "ayahs": [
+    {
+      "id": "56:1",
+      "surah": 56,
+      "ayahNum": 1,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "wqE"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "waAqiEap",
+          "waqaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ"
+    },
+    {
+      "id": "56:2",
+      "surah": 56,
+      "ayahNum": 2,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "k*b",
+          "lys",
+          "wqE"
+        ],
+        "lemmas_present": [
+          "ka`*ib",
+          "l~ayosa",
+          "waqoEat"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ"
+    },
+    {
+      "id": "56:3",
+      "surah": 56,
+      "ayahNum": 3,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "خَافِضَةٞ رَّافِعَةٌ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "rfE",
+          "xfD"
+        ],
+        "lemmas_present": [
+          "r~aAfiEap",
+          "xaAfiDap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "خَافِضَةٞ رَّافِعَةٌ"
+    },
+    {
+      "id": "56:4",
+      "surah": 56,
+      "ayahNum": 4,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "rjj"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">aroD",
+          "raj~",
+          "ruj~ati"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا"
+    },
+    {
+      "id": "56:5",
+      "surah": 56,
+      "ayahNum": 5,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "bss",
+          "jbl"
+        ],
+        "lemmas_present": [
+          "bas~",
+          "bus~ati",
+          "jabal"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا"
+    },
+    {
+      "id": "56:6",
+      "surah": 56,
+      "ayahNum": 6,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "bvv",
+          "hbw",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "habaA^'",
+          "kaAna",
+          "m~unbav~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا"
+    },
+    {
+      "id": "56:7",
+      "surah": 56,
+      "ayahNum": 7,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَكُنتُمۡ أَزۡوٰجٗا ثَلٰثَةٗ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "kwn",
+          "vlv",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "vala`vap",
+          "zawoj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ"
+    },
+    {
+      "id": "56:8",
+      "surah": 56,
+      "ayahNum": 8,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَأَصۡحٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحٰبُ ٱلۡمَيۡمَنَةِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 0.8,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "maA",
+          "mayomanap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ"
+    },
+    {
+      "id": "56:9",
+      "surah": 56,
+      "ayahNum": 9,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَأَصۡحٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 0.8,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$Am",
+          "SHb"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "ma$o_#amap",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ"
+    },
+    {
+      "id": "56:10",
+      "surah": 56,
+      "ayahNum": 10,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "sbq"
+        ],
+        "lemmas_present": [
+          "saAbiq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ"
+    },
+    {
+      "id": "56:11",
+      "surah": 56,
+      "ayahNum": 11,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qrb"
+        ],
+        "lemmas_present": [
+          ">uwla`^}ik",
+          "muqar~abuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ"
+    },
+    {
+      "id": "56:12",
+      "surah": 56,
+      "ayahNum": 12,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فِي جَنَّـٰتِ ٱلنَّعِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jnn",
+          "nEm"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "jan~ap",
+          "naEiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فِي جَنَّـٰتِ ٱلنَّعِيمِ"
+    },
+    {
+      "id": "56:13",
+      "surah": 56,
+      "ayahNum": 13,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awl",
+          "vll"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "min",
+          "vul~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "56:14",
+      "surah": 56,
+      "ayahNum": 14,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Axr",
+          "qll"
+        ],
+        "lemmas_present": [
+          "A^xir",
+          "min",
+          "qaliyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ"
+    },
+    {
+      "id": "56:15",
+      "surah": 56,
+      "ayahNum": 15,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "srr",
+          "wDn"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "m~awoDuwnap",
+          "surur"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ"
+    },
+    {
+      "id": "56:16",
+      "surah": 56,
+      "ayahNum": 16,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقٰبِلِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "qbl",
+          "wkA"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "mut~aki_#iyn",
+          "m~utaqa`biliyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ"
+    },
+    {
+      "id": "56:17",
+      "surah": 56,
+      "ayahNum": 17,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "يَطُوفُ عَلَيۡهِمۡ وِلۡدٰنٞ مُّخَلَّدُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Twf",
+          "wld",
+          "xld"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "TaAfa",
+          "m~uxal~aduwn",
+          "waliyd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ"
+    },
+    {
+      "id": "56:18",
+      "surah": 56,
+      "ayahNum": 18,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eyn",
+          "kAs",
+          "kwb"
+        ],
+        "lemmas_present": [
+          ">abaAriyq",
+          ">akowaAb",
+          "ka>os",
+          "min",
+          "m~aEiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ"
+    },
+    {
+      "id": "56:19",
+      "surah": 56,
+      "ayahNum": 19,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "SdE",
+          "nzf"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "laA",
+          "yuSad~aEu",
+          "yunzafu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ"
+    },
+    {
+      "id": "56:20",
+      "surah": 56,
+      "ayahNum": 20,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَفٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fkh",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "fa`kihap",
+          "min",
+          "yataxay~aru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ"
+    },
+    {
+      "id": "56:21",
+      "surah": 56,
+      "ayahNum": 21,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$hw",
+          "Tyr",
+          "lHm"
+        ],
+        "lemmas_present": [
+          "Tayor",
+          "laHom",
+          "min",
+          "{$otahato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ"
+    },
+    {
+      "id": "56:22",
+      "surah": 56,
+      "ayahNum": 22,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَحُورٌ عِينٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "Hwr"
+        ],
+        "lemmas_present": [
+          "Eiyn",
+          "Huwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَحُورٌ عِينٞ"
+    },
+    {
+      "id": "56:23",
+      "surah": 56,
+      "ayahNum": 23,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "كَأَمۡثٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "knn",
+          "lAlA",
+          "mvl"
+        ],
+        "lemmas_present": [
+          "lu&olu&",
+          "maval",
+          "m~akonuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ"
+    },
+    {
+      "id": "56:24",
+      "surah": 56,
+      "ayahNum": 24,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eml",
+          "jzy",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "Eamila",
+          "jazaA^'",
+          "kaAna",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ"
+    },
+    {
+      "id": "56:25",
+      "surah": 56,
+      "ayahNum": 25,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Avm",
+          "lgw",
+          "smE"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "laA",
+          "lagow",
+          "samiEa",
+          "ta>oviym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا"
+    },
+    {
+      "id": "56:26",
+      "surah": 56,
+      "ayahNum": 26,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِلَّا قِيلٗا سَلٰمٗا سَلٰمٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 0.75,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "qwl",
+          "slm"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "qiyl",
+          "sala`m"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا"
+    },
+    {
+      "id": "56:27",
+      "surah": 56,
+      "ayahNum": 27,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَأَصۡحٰبُ ٱلۡيَمِينِ مَآ أَصۡحٰبُ ٱلۡيَمِينِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 0.8,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "maA",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ"
+    },
+    {
+      "id": "56:28",
+      "surah": 56,
+      "ayahNum": 28,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "sdr",
+          "xDd"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "m~axoDuwd",
+          "sidor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فِي سِدۡرٖ مَّخۡضُودٖ"
+    },
+    {
+      "id": "56:29",
+      "surah": 56,
+      "ayahNum": 29,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَطَلۡحٖ مَّنضُودٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "TlH",
+          "nDd"
+        ],
+        "lemmas_present": [
+          "TaloH",
+          "m~anDuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَطَلۡحٖ مَّنضُودٖ"
+    },
+    {
+      "id": "56:30",
+      "surah": 56,
+      "ayahNum": 30,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَظِلّٖ مَّمۡدُودٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Zll",
+          "mdd"
+        ],
+        "lemmas_present": [
+          "Zil~",
+          "m~amoduwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَظِلّٖ مَّمۡدُودٖ"
+    },
+    {
+      "id": "56:31",
+      "surah": 56,
+      "ayahNum": 31,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَمَآءٖ مَّسۡكُوبٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "mwh",
+          "skb"
+        ],
+        "lemmas_present": [
+          "maA^'",
+          "m~asokuwb"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَمَآءٖ مَّسۡكُوبٖ"
+    },
+    {
+      "id": "56:32",
+      "surah": 56,
+      "ayahNum": 32,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَفٰكِهَةٖ كَثِيرَةٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "fkh",
+          "kvr"
+        ],
+        "lemmas_present": [
+          "fa`kihap",
+          "kaviyrap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَفَٰكِهَةٖ كَثِيرَةٖ"
+    },
+    {
+      "id": "56:33",
+      "surah": 56,
+      "ayahNum": 33,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "mnE",
+          "qTE"
+        ],
+        "lemmas_present": [
+          "laA",
+          "mamonuwEap",
+          "maqoTuwEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ"
+    },
+    {
+      "id": "56:34",
+      "surah": 56,
+      "ayahNum": 34,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "fr$",
+          "rfE"
+        ],
+        "lemmas_present": [
+          "fira`$",
+          "m~arofuwEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَفُرُشٖ مَّرۡفُوعَةٍ"
+    },
+    {
+      "id": "56:35",
+      "surah": 56,
+      "ayahNum": 35,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِنَّآ أَنشَأۡنٰهُنَّ إِنشَآءٗ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "n$A"
+        ],
+        "lemmas_present": [
+          "<in$aA^'",
+          "<in~",
+          ">an$a>a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ"
+    },
+    {
+      "id": "56:36",
+      "surah": 56,
+      "ayahNum": 36,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَجَعَلۡنٰهُنَّ أَبۡكَارًا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 193,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "bkr",
+          "jEl"
+        ],
+        "lemmas_present": [
+          "bikor",
+          "jaEala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا"
+    },
+    {
+      "id": "56:37",
+      "surah": 56,
+      "ayahNum": 37,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "عُرُبًا أَتۡرَابٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Erb",
+          "trb"
+        ],
+        "lemmas_present": [
+          ">atoraAb",
+          "Eurub"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "عُرُبًا أَتۡرَابٗا"
+    },
+    {
+      "id": "56:38",
+      "surah": 56,
+      "ayahNum": 38,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لِّأَصۡحٰبِ ٱلۡيَمِينِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ"
+    },
+    {
+      "id": "56:39",
+      "surah": 56,
+      "ayahNum": 39,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awl",
+          "vll"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "min",
+          "vul~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "56:40",
+      "surah": 56,
+      "ayahNum": 40,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Axr",
+          "vll"
+        ],
+        "lemmas_present": [
+          "A^xir",
+          "min",
+          "vul~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ"
+    },
+    {
+      "id": "56:41",
+      "surah": 56,
+      "ayahNum": 41,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَأَصۡحٰبُ ٱلشِّمَالِ مَآ أَصۡحٰبُ ٱلشِّمَالِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 0.8,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$ml",
+          "SHb"
+        ],
+        "lemmas_present": [
+          "$~imaAl",
+          ">aSoHa`b",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ"
+    },
+    {
+      "id": "56:42",
+      "surah": 56,
+      "ayahNum": 42,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فِي سَمُومٖ وَحَمِيمٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hmm",
+          "smm"
+        ],
+        "lemmas_present": [
+          "Hamiym",
+          "fiY",
+          "samuwm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فِي سَمُومٖ وَحَمِيمٖ"
+    },
+    {
+      "id": "56:43",
+      "surah": 56,
+      "ayahNum": 43,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hmm",
+          "Zll"
+        ],
+        "lemmas_present": [
+          "Zil~",
+          "min",
+          "yaHomuwm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَظِلّٖ مِّن يَحۡمُومٖ"
+    },
+    {
+      "id": "56:44",
+      "surah": 56,
+      "ayahNum": 44,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "brd",
+          "krm"
+        ],
+        "lemmas_present": [
+          "baArid",
+          "kariym",
+          "laA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَّا بَارِدٖ وَلَا كَرِيمٍ"
+    },
+    {
+      "id": "56:45",
+      "surah": 56,
+      "ayahNum": 45,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذٰلِكَ مُتۡرَفِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "kwn",
+          "qbl",
+          "trf"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          "kaAna",
+          "mutorafiyn",
+          "qabol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ"
+    },
+    {
+      "id": "56:46",
+      "surah": 56,
+      "ayahNum": 46,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "EZm",
+          "Hnv",
+          "Srr",
+          "kwn"
+        ],
+        "lemmas_present": [
+          ">aSar~u",
+          "EaZiym",
+          "EalaY`",
+          "Hinv",
+          "kaAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ"
+    },
+    {
+      "id": "56:47",
+      "surah": 56,
+      "ayahNum": 47,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 44.4,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "EZm",
+          "bEv",
+          "kwn",
+          "mwt",
+          "qwl",
+          "trb"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "<in~",
+          "EaZiym",
+          "kaAna",
+          "m~aAta",
+          "m~aboEuwvuwn",
+          "qaAla",
+          "turaAb"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ"
+    },
+    {
+      "id": "56:48",
+      "surah": 56,
+      "ayahNum": 48,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Abw",
+          "Awl"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "A^baA'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ"
+    },
+    {
+      "id": "56:49",
+      "surah": 56,
+      "ayahNum": 49,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Awl",
+          "Axr",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aw~al",
+          "A^xir",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ"
+    },
+    {
+      "id": "56:50",
+      "surah": 56,
+      "ayahNum": 50,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَمَجۡمُوعُونَ إِلَىٰ مِيقٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Elm",
+          "jmE",
+          "wqt",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "miyqa`t",
+          "m~aEoluwm",
+          "m~ajomuwE",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ"
+    },
+    {
+      "id": "56:51",
+      "surah": 56,
+      "ayahNum": 51,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Dll",
+          "k*b"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">ay~uhaA",
+          "DaA^l~",
+          "m~uka*~ibiyn",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ"
+    },
+    {
+      "id": "56:52",
+      "surah": 56,
+      "ayahNum": 52,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$jr",
+          "Akl",
+          "zqm"
+        ],
+        "lemmas_present": [
+          "$ajar",
+          "'aAkiluwn",
+          "min",
+          "zaq~uwm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ"
+    },
+    {
+      "id": "56:53",
+      "surah": 56,
+      "ayahNum": 53,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "bTn",
+          "mlA"
+        ],
+        "lemmas_present": [
+          "baTon",
+          "maAli_#uwn",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ"
+    },
+    {
+      "id": "56:54",
+      "surah": 56,
+      "ayahNum": 54,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَشٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rb",
+          "Hmm"
+        ],
+        "lemmas_present": [
+          "$~a`ribiyn",
+          "EalaY`",
+          "Hamiym",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ"
+    },
+    {
+      "id": "56:55",
+      "surah": 56,
+      "ayahNum": 55,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَشٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rb",
+          "hym"
+        ],
+        "lemmas_present": [
+          "$urob",
+          "$~a`ribiyn",
+          "hiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ"
+    },
+    {
+      "id": "56:56",
+      "surah": 56,
+      "ayahNum": 56,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "هٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dyn",
+          "nzl",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "diyn",
+          "ha`*aA",
+          "nuzul",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ"
+    },
+    {
+      "id": "56:57",
+      "surah": 56,
+      "ayahNum": 57,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "نَحۡنُ خَلَقۡنٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Sdq",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "Sad~aqa",
+          "lawolaA^",
+          "naHonu",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ"
+    },
+    {
+      "id": "56:58",
+      "surah": 56,
+      "ayahNum": 58,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "mny",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "maA",
+          "ra'aA",
+          "yumonaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ"
+    },
+    {
+      "id": "56:59",
+      "surah": 56,
+      "ayahNum": 59,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخٰلِقُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "xlq"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">antumo",
+          "naHonu",
+          "xa`liq",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ"
+    },
+    {
+      "id": "56:60",
+      "surah": 56,
+      "ayahNum": 60,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 0.8571,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "byn",
+          "mwt",
+          "qdr",
+          "sbq"
+        ],
+        "lemmas_present": [
+          "bayon",
+          "maA",
+          "masobuwqiyn",
+          "mawot",
+          "naHonu",
+          "qad~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ"
+    },
+    {
+      "id": "56:61",
+      "surah": 56,
+      "ayahNum": 61,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Elm",
+          "bdl",
+          "mvl",
+          "n$A"
+        ],
+        "lemmas_present": [
+          ">an",
+          ">an$a>a",
+          "EalaY`",
+          "Ealima",
+          "bad~ala",
+          "fiY",
+          "laA",
+          "maA",
+          "maval"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ"
+    },
+    {
+      "id": "56:62",
+      "surah": 56,
+      "ayahNum": 62,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 194,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "Awl",
+          "Elm",
+          "n$A"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "Ealima",
+          "lawolaA^",
+          "n~a$o>ap",
+          "qad",
+          "ta*ak~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ"
+    },
+    {
+      "id": "56:63",
+      "surah": 56,
+      "ayahNum": 63,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Hrv",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "maA",
+          "ra'aA",
+          "taHoruvu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ"
+    },
+    {
+      "id": "56:64",
+      "surah": 56,
+      "ayahNum": 64,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "zrE"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">antumo",
+          "naHonu",
+          "tazoraEu",
+          "z~a`riEuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ"
+    },
+    {
+      "id": "56:65",
+      "surah": 56,
+      "ayahNum": 65,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَوۡ نَشَآءُ لَجَعَلۡنٰهُ حُطٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "HTm",
+          "Zll",
+          "fkh",
+          "jEl"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "HuTa`m",
+          "Zal~a",
+          "jaEala",
+          "law",
+          "tafak~ahu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ"
+    },
+    {
+      "id": "56:66",
+      "surah": 56,
+      "ayahNum": 66,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِنَّا لَمُغۡرَمُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "grm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "mugoramuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِنَّا لَمُغۡرَمُونَ"
+    },
+    {
+      "id": "56:67",
+      "surah": 56,
+      "ayahNum": 67,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hrm"
+        ],
+        "lemmas_present": [
+          "bal",
+          "maHoruwm",
+          "naHonu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ"
+    },
+    {
+      "id": "56:68",
+      "surah": 56,
+      "ayahNum": 68,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rb",
+          "mwh",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          "maA^'",
+          "ra'aA",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ"
+    },
+    {
+      "id": "56:69",
+      "surah": 56,
+      "ayahNum": 69,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "mzn",
+          "nzl"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">antumo",
+          ">anzala",
+          "min",
+          "munziliyn",
+          "muzon",
+          "naHonu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ"
+    },
+    {
+      "id": "56:70",
+      "surah": 56,
+      "ayahNum": 70,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَوۡ نَشَآءُ جَعَلۡنٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$kr",
+          "$yA",
+          "Ajj",
+          "jEl"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "$akara",
+          ">ujaAj",
+          "jaEala",
+          "law",
+          "lawolaA^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ"
+    },
+    {
+      "id": "56:71",
+      "surah": 56,
+      "ayahNum": 71,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "nwr",
+          "rAy",
+          "wry"
+        ],
+        "lemmas_present": [
+          "naAr",
+          "ra'aA",
+          "tuwru",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ"
+    },
+    {
+      "id": "56:72",
+      "surah": 56,
+      "ayahNum": 72,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$jr",
+          "n$A"
+        ],
+        "lemmas_present": [
+          "$ajarap",
+          ">am",
+          ">an$a>a",
+          ">antumo",
+          "mun$i_#uwn",
+          "naHonu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ"
+    },
+    {
+      "id": "56:73",
+      "surah": 56,
+      "ayahNum": 73,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "نَحۡنُ جَعَلۡنٰهَا تَذۡكِرَةٗ وَمَتٰعٗا لِّلۡمُقۡوِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*kr",
+          "jEl",
+          "mtE",
+          "qwy"
+        ],
+        "lemmas_present": [
+          "jaEala",
+          "mata`E",
+          "muqowiyn",
+          "naHonu",
+          "ta*okirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ"
+    },
+    {
+      "id": "56:74",
+      "surah": 56,
+      "ayahNum": 74,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "EZm",
+          "rbb",
+          "sbH",
+          "smw"
+        ],
+        "lemmas_present": [
+          "EaZiym",
+          "rab~",
+          "sab~aHa",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
+    },
+    {
+      "id": "56:75",
+      "surah": 56,
+      "ayahNum": 75,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "۞فَلَآ أُقۡسِمُ بِمَوٰقِعِ ٱلنُّجُومِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "njm",
+          "qsm",
+          "wqE"
+        ],
+        "lemmas_present": [
+          ">aqosamu",
+          "laA",
+          "mawa`qiE",
+          "n~ajom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ"
+    },
+    {
+      "id": "56:76",
+      "surah": 56,
+      "ayahNum": 76,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "EZm",
+          "Elm",
+          "qsm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EaZiym",
+          "Ealima",
+          "law",
+          "qasam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ"
+    },
+    {
+      "id": "56:77",
+      "surah": 56,
+      "ayahNum": 77,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "krm",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kariym",
+          "quro'aAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ"
+    },
+    {
+      "id": "56:78",
+      "surah": 56,
+      "ayahNum": 78,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فِي كِتٰبٖ مَّكۡنُونٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "knn",
+          "ktb"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "kita`b",
+          "m~akonuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فِي كِتَٰبٖ مَّكۡنُونٖ"
+    },
+    {
+      "id": "56:79",
+      "surah": 56,
+      "ayahNum": 79,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Thr",
+          "mss"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "laA",
+          "mas~a",
+          "muTah~aruwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ"
+    },
+    {
+      "id": "56:80",
+      "surah": 56,
+      "ayahNum": 80,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعٰلَمِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "nzl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Ea`lamiyn",
+          "min",
+          "rab~",
+          "tanziyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ"
+    },
+    {
+      "id": "56:81",
+      "surah": 56,
+      "ayahNum": 81,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "أَفَبِهٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hdv",
+          "dhn"
+        ],
+        "lemmas_present": [
+          ">antum",
+          "Hadiyv",
+          "ha`*aA",
+          "m~udohinuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ"
+    },
+    {
+      "id": "56:82",
+      "surah": 56,
+      "ayahNum": 82,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jEl",
+          "k*b",
+          "rzq"
+        ],
+        "lemmas_present": [
+          ">an~",
+          "jaEala",
+          "ka*~aba",
+          "rizoq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ"
+    },
+    {
+      "id": "56:83",
+      "surah": 56,
+      "ayahNum": 83,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hlq",
+          "blg"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "Huloquwm",
+          "balaga",
+          "lawolaA^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ"
+    },
+    {
+      "id": "56:84",
+      "surah": 56,
+      "ayahNum": 84,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Hyn",
+          "nZr"
+        ],
+        "lemmas_present": [
+          ">antumo",
+          "Hiyn",
+          "n~aZara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ"
+    },
+    {
+      "id": "56:85",
+      "surah": 56,
+      "ayahNum": 85,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلٰكِن لَّا تُبۡصِرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "bSr",
+          "qrb"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">aboSara",
+          ">aqorab",
+          "laA",
+          "la`kin",
+          "min",
+          "naHonu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ"
+    },
+    {
+      "id": "56:86",
+      "surah": 56,
+      "ayahNum": 86,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dyn",
+          "gyr",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "<in",
+          "gayor",
+          "kaAna",
+          "lawolaA^",
+          "madiyniyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ"
+    },
+    {
+      "id": "56:87",
+      "surah": 56,
+      "ayahNum": 87,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صٰدِقِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Sdq",
+          "kwn",
+          "rjE"
+        ],
+        "lemmas_present": [
+          "<in",
+          "SaAdiq",
+          "kaAna",
+          "rajaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ"
+    },
+    {
+      "id": "56:88",
+      "surah": 56,
+      "ayahNum": 88,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 195,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kwn",
+          "qrb"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">am~aA",
+          "kaAna",
+          "min",
+          "muqar~abuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ"
+    },
+    {
+      "id": "56:89",
+      "surah": 56,
+      "ayahNum": 89,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jnn",
+          "nEm",
+          "rwH"
+        ],
+        "lemmas_present": [
+          "jan~ap",
+          "naEiym",
+          "r~awoH",
+          "r~ayoHaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ"
+    },
+    {
+      "id": "56:90",
+      "surah": 56,
+      "ayahNum": 90,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحٰبِ ٱلۡيَمِينِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "kwn",
+          "ymn"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">aSoHa`b",
+          ">am~aA",
+          "kaAna",
+          "min",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ"
+    },
+    {
+      "id": "56:91",
+      "surah": 56,
+      "ayahNum": 91,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَسَلٰمٞ لَّكَ مِنۡ أَصۡحٰبِ ٱلۡيَمِينِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "slm",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "ka",
+          "min",
+          "sala`m",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ"
+    },
+    {
+      "id": "56:92",
+      "surah": 56,
+      "ayahNum": 92,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Dll",
+          "k*b",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">am~aA",
+          "DaA^l~",
+          "kaAna",
+          "min",
+          "m~uka*~ibiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ"
+    },
+    {
+      "id": "56:93",
+      "surah": 56,
+      "ayahNum": 93,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hmm",
+          "nzl"
+        ],
+        "lemmas_present": [
+          "Hamiym",
+          "min",
+          "nuzul"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَنُزُلٞ مِّنۡ حَمِيمٖ"
+    },
+    {
+      "id": "56:94",
+      "surah": 56,
+      "ayahNum": 94,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Sly",
+          "jHm"
+        ],
+        "lemmas_present": [
+          "jaHiym",
+          "taSoliyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "وَتَصۡلِيَةُ جَحِيمٍ"
+    },
+    {
+      "id": "56:95",
+      "surah": 56,
+      "ayahNum": 95,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "إِنَّ هٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hqq",
+          "yqn"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Haq~",
+          "ha`*aA",
+          "huwa",
+          "yaqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ"
+    },
+    {
+      "id": "56:96",
+      "surah": 56,
+      "ayahNum": 96,
+      "surahName": "Al-Waqia",
+      "surahNameArabic": "الواقعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Inevitable",
+      "arabicText": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 49,
+      "hizbQuarter": 196,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "EZm",
+          "rbb",
+          "sbH",
+          "smw"
+        ],
+        "lemmas_present": [
+          "EaZiym",
+          "rab~",
+          "sab~aHa",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 46,
+      "learnedState": "new",
+      "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
+    }
+  ]
+}

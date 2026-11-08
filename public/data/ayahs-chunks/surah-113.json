@@ -1,0 +1,276 @@
+{
+  "ayahs": [
+    {
+      "id": "113:1",
+      "surah": 113,
+      "ayahNum": 1,
+      "surahName": "Al-Falaq",
+      "surahNameArabic": "الفلق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Daybreak",
+      "arabicText": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ew*",
+          "flq",
+          "qwl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Eu*o",
+          "falaq",
+          "qaAla",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 20,
+      "learnedState": "new",
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ"
+    },
+    {
+      "id": "113:2",
+      "surah": 113,
+      "ayahNum": 2,
+      "surahName": "Al-Falaq",
+      "surahNameArabic": "الفلق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Daybreak",
+      "arabicText": "مِن شَرِّ مَا خَلَقَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "maA",
+          "min",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 20,
+      "learnedState": "new",
+      "text": "مِن شَرِّ مَا خَلَقَ"
+    },
+    {
+      "id": "113:3",
+      "surah": 113,
+      "ayahNum": 3,
+      "surahName": "Al-Falaq",
+      "surahNameArabic": "الفلق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Daybreak",
+      "arabicText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$rr",
+          "gsq",
+          "wqb"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "<i*aA",
+          "gaAsiq",
+          "min",
+          "waqaba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 20,
+      "learnedState": "new",
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+      "id": "113:4",
+      "surah": 113,
+      "ayahNum": 4,
+      "surahName": "Al-Falaq",
+      "surahNameArabic": "الفلق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Daybreak",
+      "arabicText": "وَمِن شَرِّ ٱلنَّفَّـٰثٰتِ فِي ٱلۡعُقَدِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "$rr",
+          "Eqd",
+          "nfv"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "Euqodap",
+          "fiY",
+          "min",
+          "n~af~a`va`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 20,
+      "learnedState": "new",
+      "text": "وَمِن شَرِّ ٱلنَّفَّـٰثَٰتِ فِي ٱلۡعُقَدِ"
+    },
+    {
+      "id": "113:5",
+      "surah": 113,
+      "ayahNum": 5,
+      "surahName": "Al-Falaq",
+      "surahNameArabic": "الفلق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Daybreak",
+      "arabicText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$rr",
+          "Hsd"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "<i*aA",
+          "HaAsid",
+          "Hasada",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 20,
+      "learnedState": "new",
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+    }
+  ]
+}

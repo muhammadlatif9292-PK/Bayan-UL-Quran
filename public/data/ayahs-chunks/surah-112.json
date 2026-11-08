@@ -1,0 +1,213 @@
+{
+  "ayahs": [
+    {
+      "id": "112:1",
+      "surah": 112,
+      "ayahNum": 1,
+      "surahName": "Al-Ikhlas",
+      "surahNameArabic": "الإخلاص",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sincerity",
+      "arabicText": "قُلۡ هُوَ ٱللّٰهُ أَحَدٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "AHd",
+          "Alh",
+          "qwl"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          "huwa",
+          "qaAla",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 22,
+      "learnedState": "new",
+      "text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ"
+    },
+    {
+      "id": "112:2",
+      "surah": 112,
+      "ayahNum": 2,
+      "surahName": "Al-Ikhlas",
+      "surahNameArabic": "الإخلاص",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sincerity",
+      "arabicText": "ٱللّٰهُ ٱلصَّمَدُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "Smd"
+        ],
+        "lemmas_present": [
+          "S~amad",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 22,
+      "learnedState": "new",
+      "text": "ٱللَّهُ ٱلصَّمَدُ"
+    },
+    {
+      "id": "112:3",
+      "surah": 112,
+      "ayahNum": 3,
+      "surahName": "Al-Ikhlas",
+      "surahNameArabic": "الإخلاص",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sincerity",
+      "arabicText": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "wld"
+        ],
+        "lemmas_present": [
+          "lam",
+          "walada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 22,
+      "learnedState": "new",
+      "text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ"
+    },
+    {
+      "id": "112:4",
+      "surah": 112,
+      "ayahNum": 4,
+      "surahName": "Al-Ikhlas",
+      "surahNameArabic": "الإخلاص",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sincerity",
+      "arabicText": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "kfA",
+          "kwn"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          "hu,",
+          "kaAna",
+          "kufuw",
+          "lam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 22,
+      "learnedState": "new",
+      "text": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ"
+    }
+  ]
+}

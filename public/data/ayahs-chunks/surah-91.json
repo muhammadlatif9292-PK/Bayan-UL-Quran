@@ -1,0 +1,800 @@
+{
+  "ayahs": [
+    {
+      "id": "91:1",
+      "surah": 91,
+      "ayahNum": 1,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَٱلشَّمۡسِ وَضُحَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$ms",
+          "DHw"
+        ],
+        "lemmas_present": [
+          "$amos",
+          "DuHFY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَٱلشَّمۡسِ وَضُحَىٰهَا"
+    },
+    {
+      "id": "91:2",
+      "surah": 91,
+      "ayahNum": 2,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَٱلۡقَمَرِ إِذَا تَلَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "qmr",
+          "tlw"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "qamar",
+          "talaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَٱلۡقَمَرِ إِذَا تَلَىٰهَا"
+    },
+    {
+      "id": "91:3",
+      "surah": 91,
+      "ayahNum": 3,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jlw",
+          "nhr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "jal~aY`",
+          "nahaAr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا"
+    },
+    {
+      "id": "91:4",
+      "surah": 91,
+      "ayahNum": 4,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "g$w",
+          "lyl"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "ga$iya",
+          "layol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا"
+    },
+    {
+      "id": "91:5",
+      "surah": 91,
+      "ayahNum": 5,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bny",
+          "smw"
+        ],
+        "lemmas_present": [
+          "banaY`",
+          "maA",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا"
+    },
+    {
+      "id": "91:6",
+      "surah": 91,
+      "ayahNum": 6,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ArD",
+          "THw"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          "TaHaY`",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا"
+    },
+    {
+      "id": "91:7",
+      "surah": 91,
+      "ayahNum": 7,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَنَفۡسٖ وَمَا سَوَّىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "nfs",
+          "swy"
+        ],
+        "lemmas_present": [
+          "maA",
+          "nafos",
+          "saw~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَنَفۡسٖ وَمَا سَوَّىٰهَا"
+    },
+    {
+      "id": "91:8",
+      "surah": 91,
+      "ayahNum": 8,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "fjr",
+          "lhm",
+          "wqy"
+        ],
+        "lemmas_present": [
+          ">alohama",
+          "fujuwr",
+          "taqowaY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا"
+    },
+    {
+      "id": "91:9",
+      "surah": 91,
+      "ayahNum": 9,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "flH",
+          "zkw"
+        ],
+        "lemmas_present": [
+          ">afolaHa",
+          "man",
+          "qad",
+          "zak~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا"
+    },
+    {
+      "id": "91:10",
+      "surah": 91,
+      "ayahNum": 10,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَقَدۡ خَابَ مَن دَسَّىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dsw",
+          "xyb"
+        ],
+        "lemmas_present": [
+          "das~aY`",
+          "man",
+          "qad",
+          "xaAba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَقَدۡ خَابَ مَن دَسَّىٰهَا"
+    },
+    {
+      "id": "91:11",
+      "surah": 91,
+      "ayahNum": 11,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Tgy",
+          "k*b"
+        ],
+        "lemmas_present": [
+          "TagowaY`",
+          "ka*~aba",
+          "vamuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ"
+    },
+    {
+      "id": "91:12",
+      "surah": 91,
+      "ayahNum": 12,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$qw",
+          "bEv"
+        ],
+        "lemmas_present": [
+          "<i*",
+          ">a$oqaY",
+          "{n[baEava"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا"
+    },
+    {
+      "id": "91:13",
+      "surah": 91,
+      "ayahNum": 13,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "فَقَالَ لَهُمۡ رَسُولُ ٱللّٰهِ نَاقَةَ ٱللّٰهِ وَسُقۡيٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 0.8571,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "nwq",
+          "qwl",
+          "rsl",
+          "sqy"
+        ],
+        "lemmas_present": [
+          "humo",
+          "naAqap",
+          "qaAla",
+          "rasuwl",
+          "suqoya`",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا"
+    },
+    {
+      "id": "91:14",
+      "surah": 91,
+      "ayahNum": 14,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 57.1,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*nb",
+          "Eqr",
+          "dmdm",
+          "k*b",
+          "rbb",
+          "swy"
+        ],
+        "lemmas_present": [
+          "*anb",
+          "EalaY`",
+          "Eaqara",
+          "damodama",
+          "ka*~aba",
+          "rab~",
+          "saw~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا"
+    },
+    {
+      "id": "91:15",
+      "surah": 91,
+      "ayahNum": 15,
+      "surahName": "Ash-Shams",
+      "surahNameArabic": "الشمس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Sun",
+      "arabicText": "وَلَا يَخَافُ عُقۡبٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eqb",
+          "xwf"
+        ],
+        "lemmas_present": [
+          "EuqobaY",
+          "laA",
+          "xaAfa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 26,
+      "learnedState": "new",
+      "text": "وَلَا يَخَافُ عُقۡبَٰهَا"
+    }
+  ]
+}

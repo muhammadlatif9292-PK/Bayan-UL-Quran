@@ -1,0 +1,2824 @@
+{
+  "ayahs": [
+    {
+      "id": "52:1",
+      "surah": 52,
+      "ayahNum": 1,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَٱلطُّورِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Twr"
+        ],
+        "lemmas_present": [
+          "Tuwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَٱلطُّورِ"
+    },
+    {
+      "id": "52:2",
+      "surah": 52,
+      "ayahNum": 2,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَكِتٰبٖ مَّسۡطُورٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "ktb",
+          "sTr"
+        ],
+        "lemmas_present": [
+          "kita`b",
+          "masoTuwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَكِتَٰبٖ مَّسۡطُورٖ"
+    },
+    {
+      "id": "52:3",
+      "surah": 52,
+      "ayahNum": 3,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فِي رَقّٖ مَّنشُورٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "n$r",
+          "rqq"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "man$uwr",
+          "raq~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فِي رَقّٖ مَّنشُورٖ"
+    },
+    {
+      "id": "52:4",
+      "surah": 52,
+      "ayahNum": 4,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Emr",
+          "byt"
+        ],
+        "lemmas_present": [
+          "bayot",
+          "maEomuwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ"
+    },
+    {
+      "id": "52:5",
+      "surah": 52,
+      "ayahNum": 5,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "rfE",
+          "sqf"
+        ],
+        "lemmas_present": [
+          "marofuwE",
+          "saqof"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ"
+    },
+    {
+      "id": "52:6",
+      "surah": 52,
+      "ayahNum": 6,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "bHr",
+          "sjr"
+        ],
+        "lemmas_present": [
+          "baHor",
+          "masojuwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ"
+    },
+    {
+      "id": "52:7",
+      "surah": 52,
+      "ayahNum": 7,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "إِنَّ عَذَابَ رَبِّكَ لَوٰقِعٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "E*b",
+          "rbb",
+          "wqE"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ea*aAb",
+          "rab~",
+          "waAqiE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ"
+    },
+    {
+      "id": "52:8",
+      "surah": 52,
+      "ayahNum": 8,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "مَّا لَهُۥ مِن دَافِعٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dfE"
+        ],
+        "lemmas_present": [
+          "daAfiE",
+          "hu,",
+          "maA",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "مَّا لَهُۥ مِن دَافِعٖ"
+    },
+    {
+      "id": "52:9",
+      "surah": 52,
+      "ayahNum": 9,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "mwr",
+          "smw",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "mawor",
+          "samaA^'",
+          "tamuwru",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا"
+    },
+    {
+      "id": "52:10",
+      "surah": 52,
+      "ayahNum": 10,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَتَسِيرُ ٱلۡجِبَالُ سَيۡرٗا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jbl",
+          "syr"
+        ],
+        "lemmas_present": [
+          "jabal",
+          "saAra",
+          "sayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَتَسِيرُ ٱلۡجِبَالُ سَيۡرٗا"
+    },
+    {
+      "id": "52:11",
+      "surah": 52,
+      "ayahNum": 11,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فَوَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فَوَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "52:12",
+      "surah": 52,
+      "ayahNum": 12,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "lEb",
+          "xwD"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "humo",
+          "xawoD",
+          "yaloEabo",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ"
+    },
+    {
+      "id": "52:13",
+      "surah": 52,
+      "ayahNum": 13,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "dEE",
+          "nwr",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "daE~",
+          "jahan~am",
+          "naAr",
+          "yaduE~u",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا"
+    },
+    {
+      "id": "52:14",
+      "surah": 52,
+      "ayahNum": 14,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "هٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "k*b",
+          "kwn",
+          "nwr"
+        ],
+        "lemmas_present": [
+          "haA",
+          "ha`*aA",
+          "ka*~aba",
+          "kaAna",
+          "naAr",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ"
+    },
+    {
+      "id": "52:15",
+      "surah": 52,
+      "ayahNum": 15,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَفَسِحۡرٌ هٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "bSr",
+          "sHr"
+        ],
+        "lemmas_present": [
+          ">aboSara",
+          ">am",
+          ">antumo",
+          "ha`*aA",
+          "laA",
+          "siHor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ"
+    },
+    {
+      "id": "52:16",
+      "surah": 52,
+      "ayahNum": 16,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 12,
+        "unique_surface_forms": 12,
+        "unique_lemmas": 11,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 6,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Eml",
+          "Sbr",
+          "Sly",
+          "jzy",
+          "kwn",
+          "swy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aw",
+          "EalaY`",
+          "Eamila",
+          "Sabara",
+          "jazaY`",
+          "kaAna",
+          "laA",
+          "maA",
+          "sawaA^'",
+          "yaSolaY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ"
+    },
+    {
+      "id": "52:17",
+      "surah": 52,
+      "ayahNum": 17,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَنَعِيمٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jnn",
+          "nEm",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "fiY",
+          "jan~ap",
+          "mut~aqiyn",
+          "naEiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَنَعِيمٖ"
+    },
+    {
+      "id": "52:18",
+      "surah": 52,
+      "ayahNum": 18,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 0.875,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "E*b",
+          "fkh",
+          "jHm",
+          "rbb",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "A^taY",
+          "Ea*aAb",
+          "fa`kihiyn",
+          "jaHiym",
+          "maA",
+          "rab~",
+          "waqaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ"
+    },
+    {
+      "id": "52:19",
+      "surah": 52,
+      "ayahNum": 19,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rb",
+          "Akl",
+          "Eml",
+          "hnA",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          ">akala",
+          "Eamila",
+          "haniy^_#",
+          "kaAna",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ"
+    },
+    {
+      "id": "52:20",
+      "surah": 52,
+      "ayahNum": 20,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٖ مَّصۡفُوفَةٖۖ وَزَوَّجۡنٰهُم بِحُورٍ عِينٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 4
+        },
+        "roots_present": [
+          "Eyn",
+          "Hwr",
+          "Sff",
+          "srr",
+          "wkA",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "Eiyn",
+          "Huwr",
+          "maSofuwfap",
+          "mut~aki_#iyn",
+          "surur",
+          "zuw~ijato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٖ مَّصۡفُوفَةٖۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ"
+    },
+    {
+      "id": "52:21",
+      "surah": 52,
+      "ayahNum": 21,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءٖۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 19,
+        "unique_surface_forms": 19,
+        "unique_lemmas": 16,
+        "unique_roots": 11,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 26.3,
+        "noun_count": 8,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 4,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "*rr",
+          "Alt",
+          "Amn",
+          "Eml",
+          "kll",
+          "ksb",
+          "lHq",
+          "mrA",
+          "rhn",
+          "tbE"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "'aAmana",
+          "*ur~iy~ap",
+          "<iyma`n",
+          ">alato",
+          ">aloHaqo",
+          "Eamal",
+          "himo",
+          "kasaba",
+          "kul~",
+          "maA",
+          "min",
+          "rahiyn",
+          "{l~a*iY",
+          "{mori}",
+          "{t~abaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءٖۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينٞ"
+    },
+    {
+      "id": "52:22",
+      "surah": 52,
+      "ayahNum": 22,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَأَمۡدَدۡنٰهُم بِفٰكِهَةٖ وَلَحۡمٖ مِّمَّا يَشۡتَهُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$hw",
+          "fkh",
+          "lHm",
+          "mdd"
+        ],
+        "lemmas_present": [
+          ">amad~a",
+          "fa`kihap",
+          "laHom",
+          "min",
+          "{$otahato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةٖ وَلَحۡمٖ مِّمَّا يَشۡتَهُونَ"
+    },
+    {
+      "id": "52:23",
+      "surah": 52,
+      "ayahNum": 23,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "يَتَنٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 0.875,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Avm",
+          "kAs",
+          "lgw",
+          "nzE"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "ka>os",
+          "laA",
+          "lagow",
+          "ta>oviym",
+          "tana`zaEu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ"
+    },
+    {
+      "id": "52:24",
+      "surah": 52,
+      "ayahNum": 24,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "۞وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Twf",
+          "glm",
+          "knn",
+          "lAlA"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "TaAfa",
+          "gula`m",
+          "humo",
+          "ka>an~",
+          "lu&olu&",
+          "m~akonuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "۞وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ"
+    },
+    {
+      "id": "52:25",
+      "surah": 52,
+      "ayahNum": 25,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَسَآءَلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bED",
+          "qbl",
+          "sAl"
+        ],
+        "lemmas_present": [
+          ">aqobala",
+          "EalaY`",
+          "baEoD",
+          "yatasaA^'alu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَسَآءَلُونَ"
+    },
+    {
+      "id": "52:26",
+      "surah": 52,
+      "ayahNum": 26,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$fq",
+          "Ahl",
+          "kwn",
+          "qbl",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">ahol",
+          "fiY",
+          "kaAna",
+          "mu$ofiquwn",
+          "qaAla",
+          "qabol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ"
+    },
+    {
+      "id": "52:27",
+      "surah": 52,
+      "ayahNum": 27,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فَمَنَّ ٱللّٰهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "E*b",
+          "mnn",
+          "smm",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "Ea*aAb",
+          "EalaY`",
+          "man~a",
+          "samuwm",
+          "waqaY`",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فَمَنَّ ٱللَّهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ"
+    },
+    {
+      "id": "52:28",
+      "surah": 52,
+      "ayahNum": 28,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "brr",
+          "dEw",
+          "kwn",
+          "qbl",
+          "rHm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "bar~",
+          "daEaA",
+          "huwa",
+          "kaAna",
+          "min",
+          "qabol",
+          "r~aHiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ"
+    },
+    {
+      "id": "52:29",
+      "surah": 52,
+      "ayahNum": 29,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4
+        },
+        "roots_present": [
+          "*kr",
+          "jnn",
+          "khn",
+          "nEm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "*uk~ira",
+          ">anta",
+          "kaAhin",
+          "laA",
+          "maA",
+          "majonuwn",
+          "niEomap",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ"
+    },
+    {
+      "id": "52:30",
+      "surah": 52,
+      "ayahNum": 30,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$Er",
+          "mnn",
+          "qwl",
+          "rbS",
+          "ryb"
+        ],
+        "lemmas_present": [
+          "$aAEir",
+          ">am",
+          "hi.",
+          "manuwn",
+          "qaAla",
+          "rayob",
+          "tarab~aSo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ"
+    },
+    {
+      "id": "52:31",
+      "surah": 52,
+      "ayahNum": 31,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "qwl",
+          "rbS"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "maE",
+          "min",
+          "m~utarab~iS",
+          "qaAla",
+          "tarab~aSo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ"
+    },
+    {
+      "id": "52:32",
+      "surah": 52,
+      "ayahNum": 32,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ تَأۡمُرُهُمۡ أَحۡلٰمُهُم بِهٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 0.875,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Amr",
+          "Hlm",
+          "Tgy",
+          "qwm"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">amara",
+          "Hulum",
+          "Ta`giyn",
+          "ha`*aA",
+          "humo",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ"
+    },
+    {
+      "id": "52:33",
+      "surah": 52,
+      "ayahNum": 33,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Amn",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          ">am",
+          "bal",
+          "laA",
+          "qaAla",
+          "taqaw~ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ"
+    },
+    {
+      "id": "52:34",
+      "surah": 52,
+      "ayahNum": 34,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صٰدِقِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Hdv",
+          "Sdq",
+          "kwn",
+          "mvl"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">ataY",
+          "Hadiyv",
+          "SaAdiq",
+          "kaAna",
+          "mivol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ"
+    },
+    {
+      "id": "52:35",
+      "surah": 52,
+      "ayahNum": 35,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخٰلِقُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 0.875,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "gyr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          ">am",
+          "gayor",
+          "humu",
+          "min",
+          "xa`liq",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ"
+    },
+    {
+      "id": "52:36",
+      "surah": 52,
+      "ayahNum": 36,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ خَلَقُواْ ٱلسَّمٰوٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "ArD",
+          "smw",
+          "xlq",
+          "yqn"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">aroD",
+          "bal",
+          "laA",
+          "samaA^'",
+          "xalaqa",
+          "yuwqinu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ"
+    },
+    {
+      "id": "52:37",
+      "surah": 52,
+      "ayahNum": 37,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 0.8571,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "End",
+          "rbb",
+          "sTr",
+          "xzn"
+        ],
+        "lemmas_present": [
+          ">am",
+          "Eind",
+          "humu",
+          "muSayoTir",
+          "rab~",
+          "xazaA^}in"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ"
+    },
+    {
+      "id": "52:38",
+      "surah": 52,
+      "ayahNum": 38,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطٰنٖ مُّبِينٍ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Aty",
+          "byn",
+          "slT",
+          "slm",
+          "smE"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">ataY",
+          "fiY",
+          "humo",
+          "musotamiE",
+          "m~ubiyn",
+          "suloTa`n",
+          "sul~am",
+          "{sotamaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ"
+    },
+    {
+      "id": "52:39",
+      "surah": 52,
+      "ayahNum": 39,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ لَهُ ٱلۡبَنٰتُ وَلَكُمُ ٱلۡبَنُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "bny"
+        ],
+        "lemmas_present": [
+          ">am",
+          "banaAt",
+          "bunaY~",
+          "hu",
+          "kumu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ"
+    },
+    {
+      "id": "52:40",
+      "surah": 52,
+      "ayahNum": 40,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ajr",
+          "grm",
+          "sAl",
+          "vql"
+        ],
+        "lemmas_present": [
+          ">ajor",
+          ">am",
+          "hum",
+          "min",
+          "m~agoram",
+          "m~uvoqaluwn",
+          "sa>ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ"
+    },
+    {
+      "id": "52:41",
+      "surah": 52,
+      "ayahNum": 41,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "End",
+          "gyb",
+          "ktb"
+        ],
+        "lemmas_present": [
+          ">am",
+          "Eind",
+          "gayob",
+          "humo",
+          "kataba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ"
+    },
+    {
+      "id": "52:42",
+      "surah": 52,
+      "ayahNum": 42,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "kfr",
+          "kyd",
+          "rwd"
+        ],
+        "lemmas_present": [
+          ">am",
+          ">araAda",
+          "humu",
+          "kafara",
+          "kayod",
+          "makiyduwn",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ"
+    },
+    {
+      "id": "52:43",
+      "surah": 52,
+      "ayahNum": 43,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "أَمۡ لَهُمۡ إِلٰهٌ غَيۡرُ ٱللّٰهِۚ سُبۡحٰنَ ٱللّٰهِ عَمَّا يُشۡرِكُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 0.8889,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rk",
+          "Alh",
+          "gyr",
+          "sbH"
+        ],
+        "lemmas_present": [
+          "<ila`h",
+          ">a$oraka",
+          ">am",
+          "Ean",
+          "gayor",
+          "humo",
+          "suboHa`n",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ"
+    },
+    {
+      "id": "52:44",
+      "surah": 52,
+      "ayahNum": 44,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "ksf",
+          "qwl",
+          "rAy",
+          "rkm",
+          "sHb",
+          "smw",
+          "sqT"
+        ],
+        "lemmas_present": [
+          "<in",
+          "kisof",
+          "min",
+          "m~arokuwm",
+          "qaAla",
+          "ra'aA",
+          "saAqiT",
+          "saHaAb",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ"
+    },
+    {
+      "id": "52:45",
+      "surah": 52,
+      "ayahNum": 45,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "فَذَرۡهُمۡ حَتَّىٰ يُلٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "SEq",
+          "lqy",
+          "w*r",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "Hat~aY`",
+          "SaEiqa",
+          "fiY",
+          "ya*ara",
+          "yawom",
+          "yula`qu",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ"
+    },
+    {
+      "id": "52:46",
+      "surah": 52,
+      "ayahNum": 46,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 184,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "gny",
+          "kyd",
+          "nSr",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          ">agonato",
+          "Ean",
+          "humo",
+          "kayod",
+          "laA",
+          "naSara",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ"
+    },
+    {
+      "id": "52:47",
+      "surah": 52,
+      "ayahNum": 47,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذٰلِكَ وَلٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "E*b",
+          "Elm",
+          "Zlm",
+          "dwn",
+          "kvr"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          ">akovar",
+          "Ea*aAb",
+          "Ealima",
+          "Zalama",
+          "duwn",
+          "laA",
+          "la`kin~",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ"
+    },
+    {
+      "id": "52:48",
+      "surah": 52,
+      "ayahNum": 48,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 8,
+        "type_token_ratio": 0.9,
+        "verb_count": 3,
+        "verb_pct": 30,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 5,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eyn",
+          "Hkm",
+          "Hmd",
+          "Hyn",
+          "Sbr",
+          "qwm",
+          "rbb",
+          "sbH"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eayon",
+          "Hamod",
+          "Hiyn",
+          "Hukom",
+          "Sabara",
+          "qaAma",
+          "rab~",
+          "sab~aHa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ"
+    },
+    {
+      "id": "52:49",
+      "surah": 52,
+      "ayahNum": 49,
+      "surahName": "At-Tur",
+      "surahNameArabic": "الطور",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mount",
+      "arabicText": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبٰرَ ٱلنُّجُومِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 47,
+      "hizbQuarter": 185,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "dbr",
+          "lyl",
+          "njm",
+          "sbH"
+        ],
+        "lemmas_present": [
+          "<idoba`r",
+          "layol",
+          "min",
+          "n~ajom",
+          "sab~aHa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 76,
+      "learnedState": "new",
+      "text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ"
+    }
+  ]
+}

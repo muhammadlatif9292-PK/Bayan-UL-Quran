@@ -1,0 +1,2656 @@
+{
+  "ayahs": [
+    {
+      "id": "77:1",
+      "surah": 77,
+      "ayahNum": 1,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَٱلۡمُرۡسَلٰتِ عُرۡفٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Erf",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "Eurof",
+          "murosala`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا"
+    },
+    {
+      "id": "77:2",
+      "surah": 77,
+      "ayahNum": 2,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَٱلۡعٰصِفٰتِ عَصۡفٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ESf"
+        ],
+        "lemmas_present": [
+          "EaSof2",
+          "Ea`Sifa`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا"
+    },
+    {
+      "id": "77:3",
+      "surah": 77,
+      "ayahNum": 3,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَٱلنَّـٰشِرٰتِ نَشۡرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "n$r"
+        ],
+        "lemmas_present": [
+          "na$or",
+          "n~a`$ira`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَٱلنَّـٰشِرَٰتِ نَشۡرٗا"
+    },
+    {
+      "id": "77:4",
+      "surah": 77,
+      "ayahNum": 4,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَٱلۡفٰرِقٰتِ فَرۡقٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "frq"
+        ],
+        "lemmas_present": [
+          "fa`riqa`t",
+          "faroq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا"
+    },
+    {
+      "id": "77:5",
+      "surah": 77,
+      "ayahNum": 5,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَٱلۡمُلۡقِيٰتِ ذِكۡرًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "lqy"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "muloqiya`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا"
+    },
+    {
+      "id": "77:6",
+      "surah": 77,
+      "ayahNum": 6,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "عُذۡرًا أَوۡ نُذۡرًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "E*r",
+          "n*r"
+        ],
+        "lemmas_present": [
+          ">aw",
+          "Eu*or",
+          "nu*or"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "عُذۡرًا أَوۡ نُذۡرًا"
+    },
+    {
+      "id": "77:7",
+      "surah": 77,
+      "ayahNum": 7,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "إِنَّمَا تُوعَدُونَ لَوٰقِعٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "wEd",
+          "wqE"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "waAqiE",
+          "waEada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ"
+    },
+    {
+      "id": "77:8",
+      "surah": 77,
+      "ayahNum": 8,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Tms",
+          "njm"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "Tumisato",
+          "n~ajom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ"
+    },
+    {
+      "id": "77:9",
+      "surah": 77,
+      "ayahNum": 9,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "frj",
+          "smw"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "furijato",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ"
+    },
+    {
+      "id": "77:10",
+      "surah": 77,
+      "ayahNum": 10,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "jbl",
+          "nsf"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "jabal",
+          "nusifato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ"
+    },
+    {
+      "id": "77:11",
+      "surah": 77,
+      "ayahNum": 11,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rsl",
+          "wqt"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">uq~itato",
+          "rasuwl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ"
+    },
+    {
+      "id": "77:12",
+      "surah": 77,
+      "ayahNum": 12,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ajl",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">aY~",
+          ">aj~ala",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ"
+    },
+    {
+      "id": "77:13",
+      "surah": 77,
+      "ayahNum": 13,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "لِيَوۡمِ ٱلۡفَصۡلِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "fSl",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "faSol",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "لِيَوۡمِ ٱلۡفَصۡلِ"
+    },
+    {
+      "id": "77:14",
+      "surah": 77,
+      "ayahNum": 14,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dry",
+          "fSl",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "faSol",
+          "maA",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ"
+    },
+    {
+      "id": "77:15",
+      "surah": 77,
+      "ayahNum": 15,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:16",
+      "surah": 77,
+      "ayahNum": 16,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Awl",
+          "hlk"
+        ],
+        "lemmas_present": [
+          ">aholaka",
+          ">aw~al",
+          "lam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "77:17",
+      "surah": 77,
+      "ayahNum": 17,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Axr",
+          "tbE"
+        ],
+        "lemmas_present": [
+          ">atobaEa",
+          "A^xir",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ"
+    },
+    {
+      "id": "77:18",
+      "surah": 77,
+      "ayahNum": 18,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "كَذٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fEl",
+          "jrm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "faEala",
+          "mujorim"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ"
+    },
+    {
+      "id": "77:19",
+      "surah": 77,
+      "ayahNum": 19,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:20",
+      "surah": 77,
+      "ayahNum": 20,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "mhn",
+          "mwh",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "lam",
+          "maA^'",
+          "min",
+          "m~ahiyn",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ"
+    },
+    {
+      "id": "77:21",
+      "surah": 77,
+      "ayahNum": 21,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَجَعَلۡنٰهُ فِي قَرَارٖ مَّكِينٍ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jEl",
+          "mkn",
+          "qrr"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "jaEala",
+          "m~akiyn",
+          "qaraAr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ"
+    },
+    {
+      "id": "77:22",
+      "surah": 77,
+      "ayahNum": 22,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "m~aEoluwm",
+          "qadar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ"
+    },
+    {
+      "id": "77:23",
+      "surah": 77,
+      "ayahNum": 23,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقٰدِرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "nEm",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "niEoma",
+          "qaAdir",
+          "qadara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ"
+    },
+    {
+      "id": "77:24",
+      "surah": 77,
+      "ayahNum": 24,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:25",
+      "surah": 77,
+      "ayahNum": 25,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "ArD",
+          "jEl",
+          "kft"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          "jaEala",
+          "kifaAt",
+          "lam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا"
+    },
+    {
+      "id": "77:26",
+      "surah": 77,
+      "ayahNum": 26,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "أَحۡيَآءٗ وَأَمۡوٰتٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Hyy",
+          "mwt"
+        ],
+        "lemmas_present": [
+          "Hay~",
+          "m~ay~it"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا"
+    },
+    {
+      "id": "77:27",
+      "surah": 77,
+      "ayahNum": 27,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَجَعَلۡنَا فِيهَا رَوٰسِيَ شٰمِخٰتٖ وَأَسۡقَيۡنٰكُم مَّآءٗ فُرَاتٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Accusative": 4
+        },
+        "roots_present": [
+          "$mx",
+          "frt",
+          "jEl",
+          "mwh",
+          "rsw",
+          "sqy"
+        ],
+        "lemmas_present": [
+          "$a`mixa`t",
+          ">asoqayo",
+          "fiY",
+          "furaAt",
+          "jaEala",
+          "maA^'",
+          "rawa`siY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا"
+    },
+    {
+      "id": "77:28",
+      "surah": 77,
+      "ayahNum": 28,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:29",
+      "surah": 77,
+      "ayahNum": 29,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Tlq",
+          "k*b",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "hi.",
+          "ka*~aba",
+          "kaAna",
+          "maA",
+          "{nTalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ"
+    },
+    {
+      "id": "77:30",
+      "surah": 77,
+      "ayahNum": 30,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلٰثِ شُعَبٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4
+        },
+        "roots_present": [
+          "$Eb",
+          "Tlq",
+          "Zll",
+          "vlv"
+        ],
+        "lemmas_present": [
+          "$uEab",
+          "*uw",
+          "<ilaY`",
+          "Zil~",
+          "vala`v",
+          "{nTalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ"
+    },
+    {
+      "id": "77:31",
+      "surah": 77,
+      "ayahNum": 31,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Zll",
+          "gny",
+          "lhb"
+        ],
+        "lemmas_present": [
+          ">agonato",
+          "Zaliyl",
+          "laA",
+          "lahab",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ"
+    },
+    {
+      "id": "77:32",
+      "surah": 77,
+      "ayahNum": 32,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$rr",
+          "qSr",
+          "rmy"
+        ],
+        "lemmas_present": [
+          "$arar",
+          "<in~",
+          "qaSor",
+          "ramaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ"
+    },
+    {
+      "id": "77:33",
+      "surah": 77,
+      "ayahNum": 33,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "كَأَنَّهُۥ جِمٰلَتٞ صُفۡرٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Sfr",
+          "jml"
+        ],
+        "lemmas_present": [
+          "Sufor",
+          "jima`lat",
+          "ka>an~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ"
+    },
+    {
+      "id": "77:34",
+      "surah": 77,
+      "ayahNum": 34,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:35",
+      "surah": 77,
+      "ayahNum": 35,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "هٰذَا يَوۡمُ لَا يَنطِقُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "nTq",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "ha`*aA",
+          "laA",
+          "yanTiqu",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ"
+    },
+    {
+      "id": "77:36",
+      "surah": 77,
+      "ayahNum": 36,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "A*n",
+          "E*r"
+        ],
+        "lemmas_present": [
+          ">a*ina",
+          "humo",
+          "laA",
+          "yaEota*iru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ"
+    },
+    {
+      "id": "77:37",
+      "surah": 77,
+      "ayahNum": 37,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:38",
+      "surah": 77,
+      "ayahNum": 38,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "هٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنٰكُمۡ وَٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Awl",
+          "fSl",
+          "jmE",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          "faSol",
+          "ha`*aA",
+          "jamaEa",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "77:39",
+      "surah": 77,
+      "ayahNum": 39,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "kwn",
+          "kyd"
+        ],
+        "lemmas_present": [
+          "<in",
+          "kaAna",
+          "kayod",
+          "kiydu",
+          "kumo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ"
+    },
+    {
+      "id": "77:40",
+      "surah": 77,
+      "ayahNum": 40,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:41",
+      "surah": 77,
+      "ayahNum": 41,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلٰلٖ وَعُيُونٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "Zll",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eayon",
+          "Zil~",
+          "fiY",
+          "mut~aqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ"
+    },
+    {
+      "id": "77:42",
+      "surah": 77,
+      "ayahNum": 42,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَفَوٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$hw",
+          "fkh"
+        ],
+        "lemmas_present": [
+          "fawa`kih",
+          "min",
+          "{$otahato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ"
+    },
+    {
+      "id": "77:43",
+      "surah": 77,
+      "ayahNum": 43,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 218,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rb",
+          "Akl",
+          "Eml",
+          "hnA",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          ">akala",
+          "Eamila",
+          "haniy^_#",
+          "kaAna",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ"
+    },
+    {
+      "id": "77:44",
+      "surah": 77,
+      "ayahNum": 44,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "إِنَّا كَذٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hsn",
+          "jzy"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          "jazaY`",
+          "muHosin"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ"
+    },
+    {
+      "id": "77:45",
+      "surah": 77,
+      "ayahNum": 45,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:46",
+      "surah": 77,
+      "ayahNum": 46,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Akl",
+          "jrm",
+          "mtE",
+          "qll"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">akala",
+          "mujorim",
+          "qaliyl",
+          "tamat~aEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ"
+    },
+    {
+      "id": "77:47",
+      "surah": 77,
+      "ayahNum": 47,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:48",
+      "surah": 77,
+      "ayahNum": 48,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "qwl",
+          "rkE"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "humu",
+          "laA",
+          "qaAla",
+          "yarokaEu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ"
+    },
+    {
+      "id": "77:49",
+      "surah": 77,
+      "ayahNum": 49,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "77:50",
+      "surah": 77,
+      "ayahNum": 50,
+      "surahName": "Al-Mursalat",
+      "surahNameArabic": "المرسلات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Emissaries",
+      "arabicText": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 219,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Hdv",
+          "bEd"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          ">aY~",
+          "Hadiyv",
+          "baEod"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 33,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ"
+    }
+  ]
+}

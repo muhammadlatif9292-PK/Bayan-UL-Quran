@@ -1,0 +1,293 @@
+{
+  "ayahs": [
+    {
+      "id": "97:1",
+      "surah": 97,
+      "ayahNum": 1,
+      "surahName": "Al-Qadr",
+      "surahNameArabic": "القدر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Power",
+      "arabicText": "إِنَّآ أَنزَلۡنٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 236,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "lyl",
+          "nzl",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">anzala",
+          "fiY",
+          "layolap",
+          "qador"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 25,
+      "learnedState": "new",
+      "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ"
+    },
+    {
+      "id": "97:2",
+      "surah": 97,
+      "ayahNum": 2,
+      "surahName": "Al-Qadr",
+      "surahNameArabic": "القدر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Power",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 236,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dry",
+          "lyl",
+          "qdr"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "layolap",
+          "maA",
+          "qador"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 25,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ"
+    },
+    {
+      "id": "97:3",
+      "surah": 97,
+      "ayahNum": 3,
+      "surahName": "Al-Qadr",
+      "surahNameArabic": "القدر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Power",
+      "arabicText": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 236,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "$hr",
+          "Alf",
+          "lyl",
+          "qdr",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "$ahor",
+          ">alof",
+          "layolap",
+          "min",
+          "qador",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 25,
+      "learnedState": "new",
+      "text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ"
+    },
+    {
+      "id": "97:4",
+      "surah": 97,
+      "ayahNum": 4,
+      "surahName": "Al-Qadr",
+      "surahNameArabic": "القدر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Power",
+      "arabicText": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 236,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 4
+        },
+        "roots_present": [
+          "A*n",
+          "Amr",
+          "kll",
+          "mlk",
+          "nzl",
+          "rbb",
+          "rwH"
+        ],
+        "lemmas_present": [
+          "<i*on",
+          ">amor",
+          "fiY",
+          "kul~",
+          "malak",
+          "min",
+          "rab~",
+          "ruwH",
+          "tanaz~alato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 25,
+      "learnedState": "new",
+      "text": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ"
+    },
+    {
+      "id": "97:5",
+      "surah": 97,
+      "ayahNum": 5,
+      "surahName": "Al-Qadr",
+      "surahNameArabic": "القدر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Power",
+      "arabicText": "سَلٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 236,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "TlE",
+          "fjr",
+          "slm"
+        ],
+        "lemmas_present": [
+          "Hat~aY`",
+          "fajor",
+          "hiYa",
+          "maTolaE",
+          "sala`m"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 25,
+      "learnedState": "new",
+      "text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ"
+    }
+  ]
+}

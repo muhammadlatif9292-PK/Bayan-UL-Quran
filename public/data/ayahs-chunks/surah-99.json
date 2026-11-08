@@ -1,0 +1,447 @@
+{
+  "ayahs": [
+    {
+      "id": "99:1",
+      "surah": 99,
+      "ayahNum": 1,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "zlzl"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">aroD",
+          "zilozaAl",
+          "zulozilu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا"
+    },
+    {
+      "id": "99:2",
+      "surah": 99,
+      "ayahNum": 2,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "vql",
+          "xrj"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          ">axoraja",
+          "v~aqalaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا"
+    },
+    {
+      "id": "99:3",
+      "surah": 99,
+      "ayahNum": 3,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "وَقَالَ ٱلۡإِنسٰنُ مَا لَهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "haA",
+          "maA",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا"
+    },
+    {
+      "id": "99:4",
+      "surah": 99,
+      "ayahNum": 4,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hdv",
+          "xbr"
+        ],
+        "lemmas_present": [
+          ">axobaAr",
+          "tuHad~ivu",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا"
+    },
+    {
+      "id": "99:5",
+      "surah": 99,
+      "ayahNum": 5,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "rbb",
+          "wHy"
+        ],
+        "lemmas_present": [
+          ">an~",
+          ">awoHaY`^",
+          "haA",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا"
+    },
+    {
+      "id": "99:6",
+      "surah": 99,
+      "ayahNum": 6,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمٰلَهُمۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "$tt",
+          "Eml",
+          "Sdr",
+          "nws",
+          "rAy"
+        ],
+        "lemmas_present": [
+          ">a$otaAt",
+          ">arayo",
+          "Eamal",
+          "n~aAs",
+          "yaSoduru",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ"
+    },
+    {
+      "id": "99:7",
+      "surah": 99,
+      "ayahNum": 7,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*rr",
+          "Eml",
+          "rAy",
+          "vql",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "*ar~ap",
+          "Eamila",
+          "man",
+          "mivoqaAl",
+          "ra'aA",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ"
+    },
+    {
+      "id": "99:8",
+      "surah": 99,
+      "ayahNum": 8,
+      "surahName": "Az-Zalzala",
+      "surahNameArabic": "الزلزلة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Earthquake",
+      "arabicText": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rr",
+          "*rr",
+          "Eml",
+          "rAy",
+          "vql"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "*ar~ap",
+          "Eamila",
+          "man",
+          "mivoqaAl",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 93,
+      "learnedState": "new",
+      "text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ"
+    }
+  ]
+}

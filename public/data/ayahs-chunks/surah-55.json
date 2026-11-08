@@ -1,0 +1,4295 @@
+{
+  "ayahs": [
+    {
+      "id": "55:1",
+      "surah": 55,
+      "ayahNum": 1,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "ٱلرَّحۡمٰنُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 0,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rHm"
+        ],
+        "lemmas_present": [
+          "r~aHoma`n"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "ٱلرَّحۡمَٰنُ"
+    },
+    {
+      "id": "55:2",
+      "surah": 55,
+      "ayahNum": 2,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "عَلَّمَ ٱلۡقُرۡءَانَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Elm",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "Eal~ama",
+          "quro'aAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "عَلَّمَ ٱلۡقُرۡءَانَ"
+    },
+    {
+      "id": "55:3",
+      "surah": 55,
+      "ayahNum": 3,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "خَلَقَ ٱلۡإِنسٰنَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "خَلَقَ ٱلۡإِنسَٰنَ"
+    },
+    {
+      "id": "55:4",
+      "surah": 55,
+      "ayahNum": 4,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "عَلَّمَهُ ٱلۡبَيَانَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Elm",
+          "byn"
+        ],
+        "lemmas_present": [
+          "Eal~ama",
+          "bayaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "عَلَّمَهُ ٱلۡبَيَانَ"
+    },
+    {
+      "id": "55:5",
+      "surah": 55,
+      "ayahNum": 5,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$ms",
+          "Hsb",
+          "qmr"
+        ],
+        "lemmas_present": [
+          "$amos",
+          "HusobaAn",
+          "qamar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ"
+    },
+    {
+      "id": "55:6",
+      "surah": 55,
+      "ayahNum": 6,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "$jr",
+          "njm",
+          "sjd"
+        ],
+        "lemmas_present": [
+          "$ajar",
+          "n~ajom",
+          "sajada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ"
+    },
+    {
+      "id": "55:7",
+      "surah": 55,
+      "ayahNum": 7,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "rfE",
+          "smw",
+          "wDE",
+          "wzn"
+        ],
+        "lemmas_present": [
+          "miyzaAn",
+          "rafaEa",
+          "samaA^'",
+          "waDaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ"
+    },
+    {
+      "id": "55:8",
+      "surah": 55,
+      "ayahNum": 8,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Tgy",
+          "wzn"
+        ],
+        "lemmas_present": [
+          ">an",
+          "TagaY`",
+          "fiY",
+          "miyzaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ"
+    },
+    {
+      "id": "55:9",
+      "surah": 55,
+      "ayahNum": 9,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "qsT",
+          "qwm",
+          "wzn",
+          "xsr"
+        ],
+        "lemmas_present": [
+          ">aqaAma",
+          "laA",
+          "miyzaAn",
+          "qisoT",
+          "wazon",
+          "yuxosiru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ"
+    },
+    {
+      "id": "55:10",
+      "surah": 55,
+      "ayahNum": 10,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 189,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Anm",
+          "ArD",
+          "wDE"
+        ],
+        "lemmas_present": [
+          ">anaAm",
+          ">aroD",
+          "waDaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ"
+    },
+    {
+      "id": "55:11",
+      "surah": 55,
+      "ayahNum": 11,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهَا فٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fkh",
+          "kmm",
+          "nxl"
+        ],
+        "lemmas_present": [
+          "*uw",
+          ">akomaAm",
+          "fa`kihap",
+          "fiY",
+          "naxol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ"
+    },
+    {
+      "id": "55:12",
+      "surah": 55,
+      "ayahNum": 12,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "ESf",
+          "Hbb",
+          "rwH"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "EaSof",
+          "Hab~",
+          "r~ayoHaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ"
+    },
+    {
+      "id": "55:13",
+      "surah": 55,
+      "ayahNum": 13,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:14",
+      "surah": 55,
+      "ayahNum": 14,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "خَلَقَ ٱلۡإِنسٰنَ مِن صَلۡصٰلٖ كَٱلۡفَخَّارِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ans",
+          "SlSl",
+          "fxr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "SaloSa`l",
+          "fax~aAr",
+          "min",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ"
+    },
+    {
+      "id": "55:15",
+      "surah": 55,
+      "ayahNum": 15,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jnn",
+          "mrj",
+          "nwr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "jaA^n~",
+          "min",
+          "m~aArij",
+          "naAr",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ"
+    },
+    {
+      "id": "55:16",
+      "surah": 55,
+      "ayahNum": 16,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:17",
+      "surah": 55,
+      "ayahNum": 17,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 4
+        },
+        "roots_present": [
+          "$rq",
+          "grb",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "ma$oriq",
+          "magorib",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ"
+    },
+    {
+      "id": "55:18",
+      "surah": 55,
+      "ayahNum": 18,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:19",
+      "surah": 55,
+      "ayahNum": 19,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "bHr",
+          "lqy",
+          "mrj"
+        ],
+        "lemmas_present": [
+          "baHor",
+          "maraja",
+          "{lotaqaY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ"
+    },
+    {
+      "id": "55:20",
+      "surah": 55,
+      "ayahNum": 20,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "bgy",
+          "byn"
+        ],
+        "lemmas_present": [
+          "bagaY`",
+          "barozax",
+          "bayon",
+          "laA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ"
+    },
+    {
+      "id": "55:21",
+      "surah": 55,
+      "ayahNum": 21,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:22",
+      "surah": 55,
+      "ayahNum": 22,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "lAlA",
+          "mrj",
+          "xrj"
+        ],
+        "lemmas_present": [
+          "lu&olu&",
+          "marojaAn",
+          "min",
+          "xaraja"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ"
+    },
+    {
+      "id": "55:23",
+      "surah": 55,
+      "ayahNum": 23,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:24",
+      "surah": 55,
+      "ayahNum": 24,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلٰمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "bHr",
+          "jry",
+          "n$A"
+        ],
+        "lemmas_present": [
+          ">aEola`m",
+          "baHor",
+          "fiY",
+          "hu",
+          "jawaAr",
+          "mun$a_#aAt"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ"
+    },
+    {
+      "id": "55:25",
+      "surah": 55,
+      "ayahNum": 25,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:26",
+      "surah": 55,
+      "ayahNum": 26,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "fny",
+          "kll"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "faAn",
+          "kul~",
+          "man"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ"
+    },
+    {
+      "id": "55:27",
+      "surah": 55,
+      "ayahNum": 27,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلٰلِ وَٱلۡإِكۡرَامِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "bqy",
+          "jll",
+          "krm",
+          "rbb",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "<ikoraAm",
+          "baqiYa",
+          "jala`l",
+          "rab~",
+          "wajoh"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ"
+    },
+    {
+      "id": "55:28",
+      "surah": 55,
+      "ayahNum": 28,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:29",
+      "surah": 55,
+      "ayahNum": 29,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمٰوٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 0.9,
+        "verb_count": 1,
+        "verb_pct": 10,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$An",
+          "ArD",
+          "kll",
+          "sAl",
+          "smw",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "$a>on",
+          ">aroD",
+          "fiY",
+          "huwa",
+          "kul~",
+          "man",
+          "sa>ala",
+          "samaA^'",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ"
+    },
+    {
+      "id": "55:30",
+      "surah": 55,
+      "ayahNum": 30,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:31",
+      "surah": 55,
+      "ayahNum": 31,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "frg",
+          "vql"
+        ],
+        "lemmas_present": [
+          ">ay~uhaA",
+          "farago",
+          "kumo",
+          "v~aqalaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ"
+    },
+    {
+      "id": "55:32",
+      "surah": 55,
+      "ayahNum": 32,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:33",
+      "surah": 55,
+      "ayahNum": 33,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "يٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمٰوٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطٰنٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 16,
+        "unique_surface_forms": 16,
+        "unique_lemmas": 14,
+        "unique_roots": 9,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 25,
+        "noun_count": 7,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 6
+        },
+        "roots_present": [
+          "Ans",
+          "ArD",
+          "E$r",
+          "TwE",
+          "jnn",
+          "nf*",
+          "qTr",
+          "slT",
+          "smw"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in",
+          "<ins",
+          ">an",
+          ">aqoTaAr",
+          ">aroD",
+          "jin~",
+          "laA",
+          "maEo$ar",
+          "min",
+          "samaA^'",
+          "suloTa`n",
+          "tanfu*u",
+          "{sotaTaAEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ"
+    },
+    {
+      "id": "55:34",
+      "surah": 55,
+      "ayahNum": 34,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:35",
+      "surah": 55,
+      "ayahNum": 35,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$wZ",
+          "nHs",
+          "nSr",
+          "nwr",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "$uwaAZ",
+          ">arosala",
+          "EalaY`",
+          "laA",
+          "min",
+          "naAr",
+          "nuHaAs",
+          "{ntaSara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ"
+    },
+    {
+      "id": "55:36",
+      "surah": 55,
+      "ayahNum": 36,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 190,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:37",
+      "surah": 55,
+      "ayahNum": 37,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$qq",
+          "dhn",
+          "kwn",
+          "smw",
+          "wrd"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "d~ihaAn",
+          "kaAna",
+          "samaA^'",
+          "warodap",
+          "{n$aq~a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ"
+    },
+    {
+      "id": "55:38",
+      "surah": 55,
+      "ayahNum": 38,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:39",
+      "surah": 55,
+      "ayahNum": 39,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "*nb",
+          "Ans",
+          "jnn",
+          "sAl"
+        ],
+        "lemmas_present": [
+          "*anb",
+          "<ins",
+          "Ean",
+          "jaA^n~",
+          "laA",
+          "sa>ala",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ"
+    },
+    {
+      "id": "55:40",
+      "surah": 55,
+      "ayahNum": 40,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:41",
+      "surah": 55,
+      "ayahNum": 41,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوٰصِي وَٱلۡأَقۡدَامِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Ax*",
+          "Erf",
+          "jrm",
+          "nSy",
+          "qdm",
+          "swm"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          "Earafa",
+          "mujorim",
+          "n~awa`SiY",
+          "qadam",
+          "siyma`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ"
+    },
+    {
+      "id": "55:42",
+      "surah": 55,
+      "ayahNum": 42,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:43",
+      "surah": 55,
+      "ayahNum": 43,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "هٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "jrm",
+          "k*b"
+        ],
+        "lemmas_present": [
+          "haA",
+          "ha`*aA",
+          "jahan~am",
+          "ka*~aba",
+          "mujorim",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ"
+    },
+    {
+      "id": "55:44",
+      "surah": 55,
+      "ayahNum": 44,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Any",
+          "Hmm",
+          "Twf",
+          "byn"
+        ],
+        "lemmas_present": [
+          "'aAn",
+          "Hamiym",
+          "TaAfa",
+          "bayon"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ"
+    },
+    {
+      "id": "55:45",
+      "surah": 55,
+      "ayahNum": 45,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:46",
+      "surah": 55,
+      "ayahNum": 46,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "jnn",
+          "qwm",
+          "rbb",
+          "xwf"
+        ],
+        "lemmas_present": [
+          "jan~ap",
+          "man",
+          "maqaAm",
+          "rab~",
+          "xaAfa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ"
+    },
+    {
+      "id": "55:47",
+      "surah": 55,
+      "ayahNum": 47,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:48",
+      "surah": 55,
+      "ayahNum": 48,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "ذَوَاتَآ أَفۡنَانٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fnn"
+        ],
+        "lemmas_present": [
+          "*uw",
+          ">afonaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "ذَوَاتَآ أَفۡنَانٖ"
+    },
+    {
+      "id": "55:49",
+      "surah": 55,
+      "ayahNum": 49,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:50",
+      "surah": 55,
+      "ayahNum": 50,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Eyn",
+          "jry"
+        ],
+        "lemmas_present": [
+          "Eayon",
+          "fiY",
+          "jarayo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ"
+    },
+    {
+      "id": "55:51",
+      "surah": 55,
+      "ayahNum": 51,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:52",
+      "surah": 55,
+      "ayahNum": 52,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهِمَا مِن كُلِّ فٰكِهَةٖ زَوۡجَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "fkh",
+          "kll",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "fa`kihap",
+          "fiY",
+          "kul~",
+          "min",
+          "zawoj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ"
+    },
+    {
+      "id": "55:53",
+      "surah": 55,
+      "ayahNum": 53,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:54",
+      "surah": 55,
+      "ayahNum": 54,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 7,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 3,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "bTn",
+          "dnw",
+          "fr$",
+          "jnn",
+          "jny",
+          "wkA"
+        ],
+        "lemmas_present": [
+          "<isotaboraq",
+          "EalaY`",
+          "biTaAnap",
+          "daAn",
+          "fira`$",
+          "janaY",
+          "jan~ap",
+          "min",
+          "mut~aki_#iyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ"
+    },
+    {
+      "id": "55:55",
+      "surah": 55,
+      "ayahNum": 55,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:56",
+      "surah": 55,
+      "ayahNum": 56,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهِنَّ قٰصِرٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "Tmv",
+          "Trf",
+          "jnn",
+          "qSr",
+          "qbl"
+        ],
+        "lemmas_present": [
+          "<ins",
+          "Tarof",
+          "fiY",
+          "jaA^n~",
+          "laA",
+          "lam",
+          "qa`Sira`t",
+          "qabol",
+          "yaTomivo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ"
+    },
+    {
+      "id": "55:57",
+      "surah": 55,
+      "ayahNum": 57,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:58",
+      "surah": 55,
+      "ayahNum": 58,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "mrj"
+        ],
+        "lemmas_present": [
+          "ka>an~",
+          "marojaAn",
+          "yaAquwt"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ"
+    },
+    {
+      "id": "55:59",
+      "surah": 55,
+      "ayahNum": 59,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:60",
+      "surah": 55,
+      "ayahNum": 60,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "هَلۡ جَزَآءُ ٱلۡإِحۡسٰنِ إِلَّا ٱلۡإِحۡسٰنُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hsn",
+          "jzy"
+        ],
+        "lemmas_present": [
+          "<iHosa`n",
+          "<il~aA",
+          "hal",
+          "jazaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ"
+    },
+    {
+      "id": "55:61",
+      "surah": 55,
+      "ayahNum": 61,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:62",
+      "surah": 55,
+      "ayahNum": 62,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 191,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dwn",
+          "jnn"
+        ],
+        "lemmas_present": [
+          "duwn",
+          "jan~ap",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "وَمِن دُونِهِمَا جَنَّتَانِ"
+    },
+    {
+      "id": "55:63",
+      "surah": 55,
+      "ayahNum": 63,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:64",
+      "surah": 55,
+      "ayahNum": 64,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "مُدۡهَآمَّتَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dhm"
+        ],
+        "lemmas_present": [
+          "mudohaA^m~ataAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "مُدۡهَآمَّتَانِ"
+    },
+    {
+      "id": "55:65",
+      "surah": 55,
+      "ayahNum": 65,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:66",
+      "surah": 55,
+      "ayahNum": 66,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "nDx"
+        ],
+        "lemmas_present": [
+          "Eayon",
+          "fiY",
+          "naD~aAxataAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ"
+    },
+    {
+      "id": "55:67",
+      "surah": 55,
+      "ayahNum": 67,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:68",
+      "surah": 55,
+      "ayahNum": 68,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهِمَا فٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "fkh",
+          "nxl",
+          "rmn"
+        ],
+        "lemmas_present": [
+          "fa`kihap",
+          "fiY",
+          "naxol",
+          "r~um~aAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ"
+    },
+    {
+      "id": "55:69",
+      "surah": 55,
+      "ayahNum": 69,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:70",
+      "surah": 55,
+      "ayahNum": 70,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فِيهِنَّ خَيۡرٰتٌ حِسَانٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Hsn",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "Hasan",
+          "fiY",
+          "xayora`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ"
+    },
+    {
+      "id": "55:71",
+      "surah": 55,
+      "ayahNum": 71,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:72",
+      "surah": 55,
+      "ayahNum": 72,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "حُورٞ مَّقۡصُورٰتٞ فِي ٱلۡخِيَامِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hwr",
+          "qSr",
+          "xym"
+        ],
+        "lemmas_present": [
+          "Huwr",
+          "fiY",
+          "m~aqoSuwra`t",
+          "xiyaAm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ"
+    },
+    {
+      "id": "55:73",
+      "surah": 55,
+      "ayahNum": 73,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:74",
+      "surah": 55,
+      "ayahNum": 74,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "Tmv",
+          "jnn",
+          "qbl"
+        ],
+        "lemmas_present": [
+          "<ins",
+          "jaA^n~",
+          "laA",
+          "lam",
+          "qabol",
+          "yaTomivo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ"
+    },
+    {
+      "id": "55:75",
+      "surah": 55,
+      "ayahNum": 75,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:76",
+      "surah": 55,
+      "ayahNum": 76,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 4
+        },
+        "roots_present": [
+          "Ebqr",
+          "Hsn",
+          "rfrf",
+          "wkA",
+          "xDr"
+        ],
+        "lemmas_present": [
+          "EaboqariY~",
+          "EalaY`",
+          "Hasan",
+          "mut~aki_#iyn",
+          "raforaf",
+          "xuDor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ"
+    },
+    {
+      "id": "55:77",
+      "surah": 55,
+      "ayahNum": 77,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alw",
+          "k*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "'aAlaA^'",
+          ">aY~",
+          "ka*~aba",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "id": "55:78",
+      "surah": 55,
+      "ayahNum": 78,
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Beneficent",
+      "arabicText": "تَبٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلٰلِ وَٱلۡإِكۡرَامِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 48,
+      "hizbQuarter": 192,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "brk",
+          "jll",
+          "krm",
+          "rbb",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "<ikoraAm",
+          "jala`l",
+          "rab~",
+          "tabaAraka",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 97,
+      "learnedState": "new",
+      "text": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ"
+    }
+  ]
+}

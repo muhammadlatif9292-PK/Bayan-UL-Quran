@@ -1,0 +1,2450 @@
+{
+  "ayahs": [
+    {
+      "id": "70:1",
+      "surah": 70,
+      "ayahNum": 1,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "E*b",
+          "sAl",
+          "wqE"
+        ],
+        "lemmas_present": [
+          "Ea*aAb",
+          "sa>ala",
+          "saA^}il",
+          "waAqiE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ"
+    },
+    {
+      "id": "70:2",
+      "surah": 70,
+      "ayahNum": 2,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "لِّلۡكٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dfE",
+          "kfr",
+          "lys"
+        ],
+        "lemmas_present": [
+          "daAfiE",
+          "hu,",
+          "ka`firuwn",
+          "l~ayosa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "لِّلۡكَٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ"
+    },
+    {
+      "id": "70:3",
+      "surah": 70,
+      "ayahNum": 3,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "مِّنَ ٱللّٰهِ ذِي ٱلۡمَعَارِجِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alh",
+          "Erj"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "maEaArij",
+          "min",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ"
+    },
+    {
+      "id": "70:4",
+      "surah": 70,
+      "ayahNum": 4,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "تَعۡرُجُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 207,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 9,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 18.2,
+        "noun_count": 7,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Alf",
+          "Erj",
+          "kwn",
+          "mlk",
+          "qdr",
+          "rwH",
+          "snw",
+          "xms",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">alof",
+          "fiY",
+          "kaAna",
+          "malak",
+          "miqodaAr",
+          "ruwH",
+          "sanap",
+          "xamosiyn",
+          "yaEoruju",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "تَعۡرُجُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ"
+    },
+    {
+      "id": "70:5",
+      "surah": 70,
+      "ayahNum": 5,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Sbr",
+          "jml"
+        ],
+        "lemmas_present": [
+          "Sabara",
+          "Sabor",
+          "jamiyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا"
+    },
+    {
+      "id": "70:6",
+      "surah": 70,
+      "ayahNum": 6,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "bEd",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "baEiyd",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا"
+    },
+    {
+      "id": "70:7",
+      "surah": 70,
+      "ayahNum": 7,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَنَرَىٰهُ قَرِيبٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "qrb",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "qariyb",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَنَرَىٰهُ قَرِيبٗا"
+    },
+    {
+      "id": "70:8",
+      "surah": 70,
+      "ayahNum": 8,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kwn",
+          "mhl",
+          "smw",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "muhol",
+          "samaA^'",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ"
+    },
+    {
+      "id": "70:9",
+      "surah": 70,
+      "ayahNum": 9,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ehn",
+          "jbl",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "Eihon",
+          "jabal",
+          "kaAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ"
+    },
+    {
+      "id": "70:10",
+      "surah": 70,
+      "ayahNum": 10,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hmm",
+          "sAl"
+        ],
+        "lemmas_present": [
+          "Hamiym",
+          "laA",
+          "sa>ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا"
+    },
+    {
+      "id": "70:11",
+      "surah": 70,
+      "ayahNum": 11,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "E*b",
+          "bSr",
+          "bny",
+          "fdy",
+          "jrm",
+          "wdd"
+        ],
+        "lemmas_present": [
+          "Ea*aAb",
+          "bunaY~",
+          "law",
+          "min",
+          "mujorim",
+          "wad~a",
+          "yawoma}i*",
+          "yubaS~aru",
+          "{fotadaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ"
+    },
+    {
+      "id": "70:12",
+      "surah": 70,
+      "ayahNum": 12,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَصٰحِبَتِهِۦ وَأَخِيهِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Axw",
+          "SHb"
+        ],
+        "lemmas_present": [
+          ">ax",
+          "Sa`Hibap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَصَٰحِبَتِهِۦ وَأَخِيهِ"
+    },
+    {
+      "id": "70:13",
+      "surah": 70,
+      "ayahNum": 13,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awy",
+          "fSl"
+        ],
+        "lemmas_present": [
+          "'aAwaY`^",
+          "faSiylat",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ"
+    },
+    {
+      "id": "70:14",
+      "surah": 70,
+      "ayahNum": 14,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "jmE",
+          "njw"
+        ],
+        "lemmas_present": [
+          ">anjaY`",
+          ">aroD",
+          "fiY",
+          "jamiyE",
+          "man",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ"
+    },
+    {
+      "id": "70:15",
+      "surah": 70,
+      "ayahNum": 15,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "كَلَّآۖ إِنَّهَا لَظَىٰ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 0,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [],
+        "lemmas_present": [
+          "<in~",
+          "kal~aA",
+          "laZaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "كَلَّآۖ إِنَّهَا لَظَىٰ"
+    },
+    {
+      "id": "70:16",
+      "surah": 70,
+      "ayahNum": 16,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "نَزَّاعَةٗ لِّلشَّوَىٰ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$wy",
+          "nzE"
+        ],
+        "lemmas_present": [
+          "$~awaY`",
+          "naz~aAEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "نَزَّاعَةٗ لِّلشَّوَىٰ"
+    },
+    {
+      "id": "70:17",
+      "surah": 70,
+      "ayahNum": 17,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 75,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dEw",
+          "dbr",
+          "wly"
+        ],
+        "lemmas_present": [
+          ">adobara",
+          "daEaA",
+          "man",
+          "tawal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ"
+    },
+    {
+      "id": "70:18",
+      "surah": 70,
+      "ayahNum": 18,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَجَمَعَ فَأَوۡعَىٰٓ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "jmE",
+          "wEy"
+        ],
+        "lemmas_present": [
+          ">awoEaY`^",
+          "jamaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَجَمَعَ فَأَوۡعَىٰٓ"
+    },
+    {
+      "id": "70:19",
+      "surah": 70,
+      "ayahNum": 19,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "۞إِنَّ ٱلۡإِنسٰنَ خُلِقَ هَلُوعًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Ans",
+          "hlE",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "<in~",
+          "haluwE",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "۞إِنَّ ٱلۡإِنسَٰنَ خُلِقَ هَلُوعًا"
+    },
+    {
+      "id": "70:20",
+      "surah": 70,
+      "ayahNum": 20,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rr",
+          "jzE",
+          "mss"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "<i*aA",
+          "jazuwE",
+          "mas~a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا"
+    },
+    {
+      "id": "70:21",
+      "surah": 70,
+      "ayahNum": 21,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "mnE",
+          "mss",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "manuwE",
+          "mas~a",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا"
+    },
+    {
+      "id": "70:22",
+      "surah": 70,
+      "ayahNum": 22,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "إِلَّا ٱلۡمُصَلِّينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Slw"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "muSal~iyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "إِلَّا ٱلۡمُصَلِّينَ"
+    },
+    {
+      "id": "70:23",
+      "surah": 70,
+      "ayahNum": 23,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Slw",
+          "dwm"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "Salaw`p",
+          "daA^}im",
+          "humo",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ"
+    },
+    {
+      "id": "70:24",
+      "surah": 70,
+      "ayahNum": 24,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ فِيٓ أَمۡوٰلِهِمۡ حَقّٞ مَّعۡلُومٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Elm",
+          "Hqq",
+          "mwl"
+        ],
+        "lemmas_present": [
+          "Haq~",
+          "fiY",
+          "maAl",
+          "m~aEoluwm",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ فِيٓ أَمۡوَٰلِهِمۡ حَقّٞ مَّعۡلُومٞ"
+    },
+    {
+      "id": "70:25",
+      "surah": 70,
+      "ayahNum": 25,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hrm",
+          "sAl"
+        ],
+        "lemmas_present": [
+          "maHoruwm",
+          "saA^}il"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ"
+    },
+    {
+      "id": "70:26",
+      "surah": 70,
+      "ayahNum": 26,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Sdq",
+          "dyn",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "Sad~aqa",
+          "diyn",
+          "yawom",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ"
+    },
+    {
+      "id": "70:27",
+      "surah": 70,
+      "ayahNum": 27,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$fq",
+          "E*b",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Ea*aAb",
+          "hum",
+          "min",
+          "mu$ofiquwn",
+          "rab~",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ"
+    },
+    {
+      "id": "70:28",
+      "surah": 70,
+      "ayahNum": 28,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Amn",
+          "E*b",
+          "gyr",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ea*aAb",
+          "gayor",
+          "ma>omuwn",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ"
+    },
+    {
+      "id": "70:29",
+      "surah": 70,
+      "ayahNum": 29,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حٰفِظُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "HfZ",
+          "frj"
+        ],
+        "lemmas_present": [
+          "Ha`fiZ",
+          "faroj",
+          "humo",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ"
+    },
+    {
+      "id": "70:30",
+      "surah": 70,
+      "ayahNum": 30,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "إِلَّا عَلَىٰٓ أَزۡوٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 208,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 10,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "gyr",
+          "lwm",
+          "mlk",
+          "ymn",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in~",
+          ">aw",
+          "EalaY`",
+          "gayor",
+          "maA",
+          "malakato",
+          "maluwm",
+          "yamiyn",
+          "zawoj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ"
+    },
+    {
+      "id": "70:31",
+      "surah": 70,
+      "ayahNum": 31,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Edw",
+          "bgy",
+          "wry"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          ">uwla`^}ik",
+          "EaAd",
+          "humu",
+          "man",
+          "waraA^'",
+          "{botagaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡعَادُونَ"
+    },
+    {
+      "id": "70:32",
+      "surah": 70,
+      "ayahNum": 32,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ هُمۡ لِأَمٰنٰتِهِمۡ وَعَهۡدِهِمۡ رٰعُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Ehd",
+          "rEy"
+        ],
+        "lemmas_present": [
+          ">ama`na`t",
+          "Eahod",
+          "humo",
+          "ra`Euwn",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ"
+    },
+    {
+      "id": "70:33",
+      "surah": 70,
+      "ayahNum": 33,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ هُم بِشَهٰدٰتِهِمۡ قَآئِمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$hd",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "$aha`da`t",
+          "hum",
+          "qaA^}im",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ"
+    },
+    {
+      "id": "70:34",
+      "surah": 70,
+      "ayahNum": 34,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "HfZ",
+          "Slw"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "Salaw`p",
+          "humo",
+          "yuHaAfiZu",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ"
+    },
+    {
+      "id": "70:35",
+      "surah": 70,
+      "ayahNum": 35,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "أُوْلَـٰٓئِكَ فِي جَنَّـٰتٖ مُّكۡرَمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "jnn",
+          "krm"
+        ],
+        "lemmas_present": [
+          ">uwla`^}ik",
+          "fiY",
+          "jan~ap",
+          "m~ukoramuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "أُوْلَـٰٓئِكَ فِي جَنَّـٰتٖ مُّكۡرَمُونَ"
+    },
+    {
+      "id": "70:36",
+      "surah": 70,
+      "ayahNum": 36,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "hTE",
+          "kfr",
+          "qbl"
+        ],
+        "lemmas_present": [
+          "kafara",
+          "maA",
+          "muhoTiEiyn",
+          "qibal",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ"
+    },
+    {
+      "id": "70:37",
+      "surah": 70,
+      "ayahNum": 37,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$ml",
+          "Ezw",
+          "ymn"
+        ],
+        "lemmas_present": [
+          "$~imaAl",
+          "Ean",
+          "Eiziyn",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ"
+    },
+    {
+      "id": "70:38",
+      "surah": 70,
+      "ayahNum": 38,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "TmE",
+          "dxl",
+          "jnn",
+          "kll",
+          "mrA",
+          "nEm"
+        ],
+        "lemmas_present": [
+          ">an",
+          ">udoxila",
+          "jan~ap",
+          "kul~",
+          "min",
+          "naEiym",
+          "yaTomaEu",
+          "{mori}"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ"
+    },
+    {
+      "id": "70:39",
+      "surah": 70,
+      "ayahNum": 39,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "كَلَّآۖ إِنَّا خَلَقۡنٰهُم مِّمَّا يَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Elm",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ealima",
+          "kal~aA",
+          "min",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ"
+    },
+    {
+      "id": "70:40",
+      "surah": 70,
+      "ayahNum": 40,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشٰرِقِ وَٱلۡمَغٰرِبِ إِنَّا لَقٰدِرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$rq",
+          "grb",
+          "qdr",
+          "qsm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aqosamu",
+          "laA",
+          "ma$oriq",
+          "magorib",
+          "qaAdir",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشَٰرِقِ وَٱلۡمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ"
+    },
+    {
+      "id": "70:41",
+      "surah": 70,
+      "ayahNum": 41,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bdl",
+          "sbq",
+          "xyr"
+        ],
+        "lemmas_present": [
+          ">an",
+          "EalaY`",
+          "bad~ala",
+          "maA",
+          "masobuwqiyn",
+          "min",
+          "naHonu",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ"
+    },
+    {
+      "id": "70:42",
+      "surah": 70,
+      "ayahNum": 42,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 62.5,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "lEb",
+          "lqy",
+          "w*r",
+          "wEd",
+          "xwD",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "Hat~aY`",
+          "waEada",
+          "xaADu",
+          "ya*ara",
+          "yaloEabo",
+          "yawom",
+          "yula`qu",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ"
+    },
+    {
+      "id": "70:43",
+      "surah": 70,
+      "ayahNum": 43,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jdv",
+          "nSb",
+          "srE",
+          "wfD",
+          "xrj",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">ajodaAv",
+          "ka>an~",
+          "min",
+          "nuSub",
+          "siraAE",
+          "xaraja",
+          "yawom",
+          "yuwfiDu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ"
+    },
+    {
+      "id": "70:44",
+      "surah": 70,
+      "ayahNum": 44,
+      "surahName": "Al-Maarij",
+      "surahNameArabic": "المعارج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Ascending Stairways",
+      "arabicText": "خٰشِعَةً أَبۡصٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 3
+        },
+        "roots_present": [
+          "*ll",
+          "bSr",
+          "kwn",
+          "rhq",
+          "wEd",
+          "x$E",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "*il~ap",
+          "baSar",
+          "kaAna",
+          "waEada",
+          "xaA$iE",
+          "yarohaqu",
+          "yawom",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 79,
+      "learnedState": "new",
+      "text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ"
+    }
+  ]
+}

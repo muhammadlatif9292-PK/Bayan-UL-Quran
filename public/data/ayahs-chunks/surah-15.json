@@ -1,0 +1,5754 @@
+{
+  "ayahs": [
+    {
+      "id": "15:1",
+      "surah": 15,
+      "ayahNum": 1,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "الٓرۚ تِلۡكَ ءَايٰتُ ٱلۡكِتٰبِ وَقُرۡءَانٖ مُّبِينٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Ayy",
+          "byn",
+          "ktb",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "*a`lik",
+          "Al^r",
+          "kita`b",
+          "m~ubiyn",
+          "quro'aAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ وَقُرۡءَانٖ مُّبِينٖ"
+    },
+    {
+      "id": "15:2",
+      "surah": 15,
+      "ayahNum": 2,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "kfr",
+          "kwn",
+          "slm",
+          "wdd"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "kafara",
+          "law",
+          "musolim",
+          "r~ub",
+          "wad~a",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ"
+    },
+    {
+      "id": "15:3",
+      "surah": 15,
+      "ayahNum": 3,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 71.4,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Akl",
+          "Aml",
+          "Elm",
+          "lhw",
+          "mtE",
+          "w*r"
+        ],
+        "lemmas_present": [
+          ">akala",
+          ">alohaY`",
+          ">amal",
+          "Ealima",
+          "sawof",
+          "tamat~aEa",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ"
+    },
+    {
+      "id": "15:4",
+      "surah": 15,
+      "ayahNum": 4,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Elm",
+          "hlk",
+          "ktb",
+          "qry"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">aholaka",
+          "haA",
+          "kita`b",
+          "maA",
+          "min",
+          "m~aEoluwm",
+          "qaroyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ"
+    },
+    {
+      "id": "15:5",
+      "surah": 15,
+      "ayahNum": 5,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ajl",
+          "Amm",
+          "Axr",
+          "sbq"
+        ],
+        "lemmas_present": [
+          ">ajal",
+          ">um~ap",
+          "maA",
+          "min",
+          "sabaqa",
+          "yasota>oxiru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ"
+    },
+    {
+      "id": "15:6",
+      "surah": 15,
+      "ayahNum": 6,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَقَالُواْ يَـٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "*kr",
+          "jnn",
+          "nzl",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "<in~",
+          ">ay~uhaA",
+          "EalaY`",
+          "majonuwn",
+          "naz~ala",
+          "qaAla",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَقَالُواْ يَـٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ"
+    },
+    {
+      "id": "15:7",
+      "surah": 15,
+      "ayahNum": 7,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَـٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Aty",
+          "Sdq",
+          "kwn",
+          "mlk"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">ataY",
+          "SaAdiq",
+          "kaAna",
+          "law",
+          "maA",
+          "malak",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَـٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ"
+    },
+    {
+      "id": "15:8",
+      "surah": 15,
+      "ayahNum": 8,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "مَا نُنَزِّلُ ٱلۡمَلَـٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا مُّنظَرِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hqq",
+          "kwn",
+          "mlk",
+          "nZr",
+          "nzl"
+        ],
+        "lemmas_present": [
+          "<i*FA",
+          "<il~aA",
+          "Haq~",
+          "kaAna",
+          "maA",
+          "malak",
+          "munZaruwn",
+          "naz~ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "مَا نُنَزِّلُ ٱلۡمَلَـٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا مُّنظَرِينَ"
+    },
+    {
+      "id": "15:9",
+      "surah": 15,
+      "ayahNum": 9,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحٰفِظُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "HfZ",
+          "nzl"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "<in~",
+          "Ha`fiZ",
+          "hu,",
+          "naHonu",
+          "naz~ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ"
+    },
+    {
+      "id": "15:10",
+      "surah": 15,
+      "ayahNum": 10,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "$yE",
+          "Awl",
+          "qbl",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "$iyEap",
+          ">arosala",
+          ">aw~al",
+          "fiY",
+          "min",
+          "qabol",
+          "qad"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "15:11",
+      "surah": 15,
+      "ayahNum": 11,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 37.5,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "hzA",
+          "kwn",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">ataY",
+          "hi.",
+          "kaAna",
+          "maA",
+          "min",
+          "rasuwl",
+          "{sotuhozi}a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ"
+    },
+    {
+      "id": "15:12",
+      "surah": 15,
+      "ayahNum": 12,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "كَذٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jrm",
+          "qlb",
+          "slk"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "fiY",
+          "mujorim",
+          "qalob",
+          "salaka"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "كَذَٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ"
+    },
+    {
+      "id": "15:13",
+      "surah": 15,
+      "ayahNum": 13,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَا يُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Awl",
+          "snn",
+          "xlw"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          ">aw~al",
+          "hi.",
+          "laA",
+          "qad",
+          "sun~ap",
+          "xalaA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَا يُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "15:14",
+      "surah": 15,
+      "ayahNum": 14,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَوۡ فَتَحۡنَا عَلَيۡهِم بَابٗا مِّنَ ٱلسَّمَآءِ فَظَلُّواْ فِيهِ يَعۡرُجُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Erj",
+          "Zll",
+          "bwb",
+          "ftH",
+          "smw"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "Zal~a",
+          "baAb",
+          "fataHa",
+          "fiY",
+          "law",
+          "min",
+          "samaA^'",
+          "yaEoruju"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَوۡ فَتَحۡنَا عَلَيۡهِم بَابٗا مِّنَ ٱلسَّمَآءِ فَظَلُّواْ فِيهِ يَعۡرُجُونَ"
+    },
+    {
+      "id": "15:15",
+      "surah": 15,
+      "ayahNum": 15,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَقَالُوٓاْ إِنَّمَا سُكِّرَتۡ أَبۡصٰرُنَا بَلۡ نَحۡنُ قَوۡمٞ مَّسۡحُورُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "bSr",
+          "qwl",
+          "qwm",
+          "sHr",
+          "skr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "baSar",
+          "bal",
+          "m~asoHuwr",
+          "naHonu",
+          "qaAla",
+          "qawom",
+          "suk~irato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَقَالُوٓاْ إِنَّمَا سُكِّرَتۡ أَبۡصَٰرُنَا بَلۡ نَحۡنُ قَوۡمٞ مَّسۡحُورُونَ"
+    },
+    {
+      "id": "15:16",
+      "surah": 15,
+      "ayahNum": 16,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ جَعَلۡنَا فِي ٱلسَّمَآءِ بُرُوجٗا وَزَيَّنَّـٰهَا لِلنَّـٰظِرِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "brj",
+          "jEl",
+          "nZr",
+          "smw",
+          "zyn"
+        ],
+        "lemmas_present": [
+          "buruwj",
+          "fiY",
+          "jaEala",
+          "na`Ziriyn",
+          "qad",
+          "samaA^'",
+          "zay~ana"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ جَعَلۡنَا فِي ٱلسَّمَآءِ بُرُوجٗا وَزَيَّنَّـٰهَا لِلنَّـٰظِرِينَ"
+    },
+    {
+      "id": "15:17",
+      "surah": 15,
+      "ayahNum": 17,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَحَفِظۡنٰهَا مِن كُلِّ شَيۡطٰنٖ رَّجِيمٍ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 70,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "$Tn",
+          "HfZ",
+          "kll",
+          "rjm"
+        ],
+        "lemmas_present": [
+          "$ayoTa`n",
+          "HafiZa",
+          "kul~",
+          "min",
+          "rajiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَحَفِظۡنَٰهَا مِن كُلِّ شَيۡطَٰنٖ رَّجِيمٍ"
+    },
+    {
+      "id": "15:18",
+      "surah": 15,
+      "ayahNum": 18,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابٞ مُّبِينٞ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "$hb",
+          "byn",
+          "smE",
+          "srq",
+          "tbE"
+        ],
+        "lemmas_present": [
+          "$ihaAb",
+          "<il~aA",
+          ">atobaEa",
+          "man",
+          "m~ubiyn",
+          "samoE",
+          "{sotaraqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابٞ مُّبِينٞ"
+    },
+    {
+      "id": "15:19",
+      "surah": 15,
+      "ayahNum": 19,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَٱلۡأَرۡضَ مَدَدۡنٰهَا وَأَلۡقَيۡنَا فِيهَا رَوٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ شَيۡءٖ مَّوۡزُونٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 8,
+        "type_token_ratio": 0.9091,
+        "verb_count": 3,
+        "verb_pct": 27.3,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "$yA",
+          "ArD",
+          "kll",
+          "lqy",
+          "mdd",
+          "nbt",
+          "rsw",
+          "wzn"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          ">aloqaY`^",
+          ">an[bata",
+          ">aroD",
+          "fiY",
+          "kul~",
+          "mad~a",
+          "min",
+          "m~awozuwn",
+          "rawa`siY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ شَيۡءٖ مَّوۡزُونٖ"
+    },
+    {
+      "id": "15:20",
+      "surah": 15,
+      "ayahNum": 20,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَجَعَلۡنَا لَكُمۡ فِيهَا مَعٰيِشَ وَمَن لَّسۡتُمۡ لَهُۥ بِرٰزِقِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ey$",
+          "jEl",
+          "lys",
+          "rzq"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "hu,",
+          "jaEala",
+          "kumo",
+          "l~ayosa",
+          "maEa`yi$",
+          "man",
+          "r~a`ziqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَ وَمَن لَّسۡتُمۡ لَهُۥ بِرَٰزِقِينَ"
+    },
+    {
+      "id": "15:21",
+      "surah": 15,
+      "ayahNum": 21,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِن مِّن شَيۡءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٖ مَّعۡلُومٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 0.9091,
+        "verb_count": 1,
+        "verb_pct": 9.1,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "Elm",
+          "End",
+          "nzl",
+          "qdr",
+          "xzn"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "<il~aA",
+          "<in",
+          "Eind",
+          "maA",
+          "min",
+          "m~aEoluwm",
+          "naz~ala",
+          "qadar",
+          "xazaA^}in"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِن مِّن شَيۡءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٖ مَّعۡلُومٖ"
+    },
+    {
+      "id": "15:22",
+      "surah": 15,
+      "ayahNum": 22,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَأَرۡسَلۡنَا ٱلرِّيٰحَ لَوٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ فَأَسۡقَيۡنٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخٰزِنِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 12,
+        "unique_surface_forms": 12,
+        "unique_lemmas": 12,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 25,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "lqH",
+          "mwh",
+          "nzl",
+          "rsl",
+          "rwH",
+          "smw",
+          "sqy",
+          "xzn"
+        ],
+        "lemmas_present": [
+          ">antumo",
+          ">anzala",
+          ">arosala",
+          ">asoqayo",
+          "hu,",
+          "lawa`qiH",
+          "maA",
+          "maA^'",
+          "min",
+          "riyH",
+          "samaA^'",
+          "xa`ziniyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَأَرۡسَلۡنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ فَأَسۡقَيۡنَٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخَٰزِنِينَ"
+    },
+    {
+      "id": "15:23",
+      "surah": 15,
+      "ayahNum": 23,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوٰرِثُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hyy",
+          "mwt",
+          "wrv"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aHoyaA",
+          ">amaAta",
+          "naHonu",
+          "waAriv"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوَٰرِثُونَ"
+    },
+    {
+      "id": "15:24",
+      "surah": 15,
+      "ayahNum": 24,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَقۡدِمِينَ مِنكُمۡ وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَـٔۡخِرِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 0.7143,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Axr",
+          "Elm",
+          "qdm"
+        ],
+        "lemmas_present": [
+          "Ealima",
+          "min",
+          "musota_#oxiriyn",
+          "musotaqodimiyn",
+          "qad"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَقۡدِمِينَ مِنكُمۡ وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَـٔۡخِرِينَ"
+    },
+    {
+      "id": "15:25",
+      "surah": 15,
+      "ayahNum": 25,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Elm",
+          "H$r",
+          "Hkm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ealiym",
+          "Ha$ara",
+          "Hakiym",
+          "huwa",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ"
+    },
+    {
+      "id": "15:26",
+      "surah": 15,
+      "ayahNum": 26,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسٰنَ مِن صَلۡصٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Ans",
+          "HmA",
+          "SlSl",
+          "snn",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "Hama<",
+          "SaloSa`l",
+          "min",
+          "m~asonuwn",
+          "qad",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ"
+    },
+    {
+      "id": "15:27",
+      "surah": 15,
+      "ayahNum": 27,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَٱلۡجَآنَّ خَلَقۡنٰهُ مِن قَبۡلُ مِن نَّارِ ٱلسَّمُومِ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 0.8571,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "jnn",
+          "nwr",
+          "qbl",
+          "smm",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "jaA^n~",
+          "min",
+          "naAr",
+          "qabol",
+          "samuwm",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَٱلۡجَآنَّ خَلَقۡنَٰهُ مِن قَبۡلُ مِن نَّارِ ٱلسَّمُومِ"
+    },
+    {
+      "id": "15:28",
+      "surah": 15,
+      "ayahNum": 28,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي خٰلِقُۢ بَشَرٗا مِّن صَلۡصٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 12,
+        "unique_surface_forms": 12,
+        "unique_lemmas": 11,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 8.3,
+        "noun_count": 7,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 4,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "HmA",
+          "SlSl",
+          "b$r",
+          "mlk",
+          "qwl",
+          "rbb",
+          "snn",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "<in~",
+          "Hama<",
+          "SaloSa`l",
+          "ba$ar",
+          "malak",
+          "min",
+          "m~asonuwn",
+          "qaAla",
+          "rab~",
+          "xa`liq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ"
+    },
+    {
+      "id": "15:29",
+      "surah": 15,
+      "ayahNum": 29,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سٰجِدِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "nfx",
+          "rwH",
+          "sjd",
+          "swy",
+          "wqE"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "fiY",
+          "hu,",
+          "min",
+          "nafaxa",
+          "ruwH",
+          "saAjid",
+          "saw~aY`",
+          "waqaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ"
+    },
+    {
+      "id": "15:30",
+      "surah": 15,
+      "ayahNum": 30,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَسَجَدَ ٱلۡمَلَـٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "jmE",
+          "kll",
+          "mlk",
+          "sjd"
+        ],
+        "lemmas_present": [
+          ">ajomaEiyn",
+          "kul~",
+          "malak",
+          "sajada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَسَجَدَ ٱلۡمَلَـٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ"
+    },
+    {
+      "id": "15:31",
+      "surah": 15,
+      "ayahNum": 31,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّـٰجِدِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aby",
+          "kwn",
+          "sjd"
+        ],
+        "lemmas_present": [
+          "<iboliys",
+          "<il~aA",
+          ">abaY",
+          ">an",
+          "kaAna",
+          "maE",
+          "saAjid"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّـٰجِدِينَ"
+    },
+    {
+      "id": "15:32",
+      "surah": 15,
+      "ayahNum": 32,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ يَـٰٓإِبۡلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّـٰجِدِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kwn",
+          "qwl",
+          "sjd"
+        ],
+        "lemmas_present": [
+          "<iboliys",
+          ">an",
+          "ka",
+          "kaAna",
+          "maA",
+          "maE",
+          "qaAla",
+          "saAjid"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ يَـٰٓإِبۡلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّـٰجِدِينَ"
+    },
+    {
+      "id": "15:33",
+      "surah": 15,
+      "ayahNum": 33,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ لَمۡ أَكُن لِّأَسۡجُدَ لِبَشَرٍ خَلَقۡتَهُۥ مِن صَلۡصٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 10,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 36.4,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4
+        },
+        "roots_present": [
+          "HmA",
+          "SlSl",
+          "b$r",
+          "kwn",
+          "qwl",
+          "sjd",
+          "snn",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "Hama<",
+          "SaloSa`l",
+          "ba$ar",
+          "kaAna",
+          "lam",
+          "min",
+          "m~asonuwn",
+          "qaAla",
+          "sajada",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ لَمۡ أَكُن لِّأَسۡجُدَ لِبَشَرٍ خَلَقۡتَهُۥ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ"
+    },
+    {
+      "id": "15:34",
+      "surah": 15,
+      "ayahNum": 34,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qwl",
+          "rjm",
+          "xrj"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "min",
+          "qaAla",
+          "rajiym",
+          "xaraja"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ"
+    },
+    {
+      "id": "15:35",
+      "surah": 15,
+      "ayahNum": 35,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِنَّ عَلَيۡكَ ٱللَّعۡنَةَ إِلَىٰ يَوۡمِ ٱلدِّينِ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "dyn",
+          "lEn",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          "EalaY`",
+          "diyn",
+          "laEonap",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِنَّ عَلَيۡكَ ٱللَّعۡنَةَ إِلَىٰ يَوۡمِ ٱلدِّينِ"
+    },
+    {
+      "id": "15:36",
+      "surah": 15,
+      "ayahNum": 36,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bEv",
+          "nZr",
+          "qwl",
+          "rbb",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "baEava",
+          "qaAla",
+          "rab~",
+          "yawom",
+          "yunZaru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ"
+    },
+    {
+      "id": "15:37",
+      "surah": 15,
+      "ayahNum": 37,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "nZr",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "min",
+          "munZaruwn",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ"
+    },
+    {
+      "id": "15:38",
+      "surah": 15,
+      "ayahNum": 38,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Elm",
+          "wqt",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "m~aEoluwm",
+          "waqot",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ"
+    },
+    {
+      "id": "15:39",
+      "surah": 15,
+      "ayahNum": 39,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 40,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "gwy",
+          "jmE",
+          "qwl",
+          "rbb",
+          "zyn"
+        ],
+        "lemmas_present": [
+          ">agowayo",
+          ">ajomaEiyn",
+          ">aroD",
+          "fiY",
+          "humo",
+          "maA",
+          "qaAla",
+          "rab~",
+          "zay~ana"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ"
+    },
+    {
+      "id": "15:40",
+      "surah": 15,
+      "ayahNum": 40,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Ebd",
+          "xlS"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "Eabod",
+          "min",
+          "muxolaS"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ"
+    },
+    {
+      "id": "15:41",
+      "surah": 15,
+      "ayahNum": 41,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ هٰذَا صِرٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "SrT",
+          "qwl",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "Sira`T",
+          "ha`*aA",
+          "m~usotaqiym",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ"
+    },
+    {
+      "id": "15:42",
+      "surah": 15,
+      "ayahNum": 42,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 18.2,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ebd",
+          "gwy",
+          "lys",
+          "slT",
+          "tbE"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in~",
+          "Eabod",
+          "EalaY`",
+          "ga`wiyn",
+          "ka",
+          "l~ayosa",
+          "man",
+          "min",
+          "suloTa`n",
+          "{t~abaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِينَ"
+    },
+    {
+      "id": "15:43",
+      "surah": 15,
+      "ayahNum": 43,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 71,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "jmE",
+          "wEd"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">ajomaEiyn",
+          "jahan~am",
+          "m~awoEid"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ"
+    },
+    {
+      "id": "15:44",
+      "surah": 15,
+      "ayahNum": 44,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَهَا سَبۡعَةُ أَبۡوٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "bwb",
+          "jzA",
+          "kll",
+          "qsm",
+          "sbE"
+        ],
+        "lemmas_present": [
+          "baAb",
+          "haA",
+          "juzo'",
+          "kul~",
+          "min",
+          "m~aqosuwm",
+          "saboEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَهَا سَبۡعَةُ أَبۡوَٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ"
+    },
+    {
+      "id": "15:45",
+      "surah": 15,
+      "ayahNum": 45,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "jnn",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eayon",
+          "fiY",
+          "jan~ap",
+          "mut~aqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ"
+    },
+    {
+      "id": "15:46",
+      "surah": 15,
+      "ayahNum": 46,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "ٱدۡخُلُوهَا بِسَلٰمٍ ءَامِنِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Amn",
+          "dxl",
+          "slm"
+        ],
+        "lemmas_present": [
+          "'aAminiyn",
+          "daxala",
+          "sala`m"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "ٱدۡخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ"
+    },
+    {
+      "id": "15:47",
+      "surah": 15,
+      "ayahNum": 47,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَنَزَعۡنَا مَا فِي صُدُورِهِم مِّنۡ غِلٍّ إِخۡوٰنًا عَلَىٰ سُرُرٖ مُّتَقٰبِلِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 10,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Axw",
+          "Sdr",
+          "gll",
+          "nzE",
+          "qbl",
+          "srr"
+        ],
+        "lemmas_present": [
+          ">ax",
+          "EalaY`",
+          "Sador",
+          "fiY",
+          "gil~",
+          "maA",
+          "min",
+          "m~utaqa`biliyn",
+          "nazaEa",
+          "surur"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَنَزَعۡنَا مَا فِي صُدُورِهِم مِّنۡ غِلٍّ إِخۡوَٰنًا عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ"
+    },
+    {
+      "id": "15:48",
+      "surah": 15,
+      "ayahNum": 48,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَا يَمَسُّهُمۡ فِيهَا نَصَبٞ وَمَا هُم مِّنۡهَا بِمُخۡرَجِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "mss",
+          "nSb",
+          "xrj"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "hum",
+          "laA",
+          "maA",
+          "mas~a",
+          "min",
+          "muxoraj",
+          "naSab"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَا يَمَسُّهُمۡ فِيهَا نَصَبٞ وَمَا هُم مِّنۡهَا بِمُخۡرَجِينَ"
+    },
+    {
+      "id": "15:49",
+      "surah": 15,
+      "ayahNum": 49,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "۞نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Ebd",
+          "gfr",
+          "nbA",
+          "rHm"
+        ],
+        "lemmas_present": [
+          ">anaA",
+          ">an~",
+          "Eabod",
+          "gafuwr",
+          "nab~a>a",
+          "r~aHiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "۞نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ"
+    },
+    {
+      "id": "15:50",
+      "surah": 15,
+      "ayahNum": 50,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Alm",
+          "E*b"
+        ],
+        "lemmas_present": [
+          ">aliym",
+          ">an~",
+          "Ea*aAb",
+          "huwa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ"
+    },
+    {
+      "id": "15:51",
+      "surah": 15,
+      "ayahNum": 51,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرٰهِيمَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Dyf",
+          "nbA"
+        ],
+        "lemmas_present": [
+          "<iboraAhiym",
+          "Dayof",
+          "Ean",
+          "nab~a>a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرَٰهِيمَ"
+    },
+    {
+      "id": "15:52",
+      "surah": 15,
+      "ayahNum": 52,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلٰمٗا قَالَ إِنَّا مِنكُمۡ وَجِلُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dxl",
+          "qwl",
+          "slm",
+          "wjl"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "<in~",
+          "EalaY`",
+          "daxala",
+          "min",
+          "qaAla",
+          "sala`m",
+          "wajiluwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗا قَالَ إِنَّا مِنكُمۡ وَجِلُونَ"
+    },
+    {
+      "id": "15:53",
+      "surah": 15,
+      "ayahNum": 53,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالُواْ لَا تَوۡجَلۡ إِنَّا نُبَشِّرُكَ بِغُلٰمٍ عَلِيمٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "b$r",
+          "glm",
+          "qwl",
+          "wjl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ealiym",
+          "bu$~ira",
+          "gula`m",
+          "laA",
+          "qaAla",
+          "wajilato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالُواْ لَا تَوۡجَلۡ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٖ"
+    },
+    {
+      "id": "15:54",
+      "surah": 15,
+      "ayahNum": 54,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "b$r",
+          "kbr",
+          "mss",
+          "qwl"
+        ],
+        "lemmas_present": [
+          ">an",
+          "EalaY`",
+          "bu$~ira",
+          "kibar",
+          "maA",
+          "mas~a",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ"
+    },
+    {
+      "id": "15:55",
+      "surah": 15,
+      "ayahNum": 55,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالُواْ بَشَّرۡنٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقٰنِطِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hqq",
+          "b$r",
+          "kwn",
+          "qnT",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "Haq~",
+          "bu$~ira",
+          "kaAna",
+          "laA",
+          "min",
+          "qaAla",
+          "qa`niTiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ"
+    },
+    {
+      "id": "15:56",
+      "surah": 15,
+      "ayahNum": 56,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ وَمَن يَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Dll",
+          "qnT",
+          "qwl",
+          "rHm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "DaA^l~",
+          "man",
+          "min",
+          "qaAla",
+          "qanaTu",
+          "raHomap",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ وَمَن يَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ"
+    },
+    {
+      "id": "15:57",
+      "surah": 15,
+      "ayahNum": 57,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "qwl",
+          "rsl",
+          "xTb"
+        ],
+        "lemmas_present": [
+          ">ay~uhaA",
+          "maA",
+          "m~urosal",
+          "qaAla",
+          "xaTob"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ"
+    },
+    {
+      "id": "15:58",
+      "surah": 15,
+      "ayahNum": 58,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jrm",
+          "qwl",
+          "qwm",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          ">arosala",
+          "mujorim",
+          "qaAla",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ"
+    },
+    {
+      "id": "15:59",
+      "surah": 15,
+      "ayahNum": 59,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Awl",
+          "jmE",
+          "njw"
+        ],
+        "lemmas_present": [
+          "'aAl",
+          "<il~aA",
+          "<in~",
+          ">ajomaEiyn",
+          "luwT",
+          "munaj~uw"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ"
+    },
+    {
+      "id": "15:60",
+      "surah": 15,
+      "ayahNum": 60,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ إِنَّهَا لَمِنَ ٱلۡغٰبِرِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "gbr",
+          "mrA",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in~",
+          "ga`biriyn",
+          "min",
+          "qad~ara",
+          "{mora>at"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ"
+    },
+    {
+      "id": "15:61",
+      "surah": 15,
+      "ayahNum": 61,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلۡمُرۡسَلُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Awl",
+          "jyA",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "'aAl",
+          "jaA^'a",
+          "lam~aA",
+          "luwT",
+          "m~urosal"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلۡمُرۡسَلُونَ"
+    },
+    {
+      "id": "15:62",
+      "surah": 15,
+      "ayahNum": 62,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "nkr",
+          "qwl",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "munkar",
+          "qaAla",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ"
+    },
+    {
+      "id": "15:63",
+      "surah": 15,
+      "ayahNum": 63,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالُواْ بَلۡ جِئۡنٰكَ بِمَا كَانُواْ فِيهِ يَمۡتَرُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 57.1,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "jyA",
+          "kwn",
+          "mry",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "bal",
+          "fiY",
+          "jaA^'a",
+          "kaAna",
+          "maA",
+          "qaAla",
+          "yamotaru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالُواْ بَلۡ جِئۡنَٰكَ بِمَا كَانُواْ فِيهِ يَمۡتَرُونَ"
+    },
+    {
+      "id": "15:64",
+      "surah": 15,
+      "ayahNum": 64,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَأَتَيۡنٰكَ بِٱلۡحَقِّ وَإِنَّا لَصٰدِقُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Hqq",
+          "Sdq"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">ataY",
+          "Haq~",
+          "SaAdiq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَأَتَيۡنَٰكَ بِٱلۡحَقِّ وَإِنَّا لَصَٰدِقُونَ"
+    },
+    {
+      "id": "15:65",
+      "surah": 15,
+      "ayahNum": 65,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 14,
+        "unique_surface_forms": 14,
+        "unique_lemmas": 13,
+        "unique_roots": 11,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 35.7,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "Ahl",
+          "Amr",
+          "Hyv",
+          "dbr",
+          "lft",
+          "lyl",
+          "mDy",
+          "qTE",
+          "sry",
+          "tbE"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          ">ahol",
+          ">amara",
+          ">asoraY`",
+          "Hayov",
+          "dubur",
+          "laA",
+          "layol",
+          "maDaY`",
+          "min",
+          "qiToE",
+          "yalotafito",
+          "{t~abaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ"
+    },
+    {
+      "id": "15:66",
+      "surah": 15,
+      "ayahNum": 66,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَقَضَيۡنَآ إِلَيۡهِ ذٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقۡطُوعٞ مُّصۡبِحِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Amr",
+          "SbH",
+          "dbr",
+          "qDy",
+          "qTE"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<ilaY`",
+          ">amor",
+          ">an~",
+          "daAbir",
+          "ha`*aA",
+          "maqoTuwE",
+          "muSobiHiyn",
+          "qaDaY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَقَضَيۡنَآ إِلَيۡهِ ذَٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقۡطُوعٞ مُّصۡبِحِينَ"
+    },
+    {
+      "id": "15:67",
+      "surah": 15,
+      "ayahNum": 67,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ahl",
+          "b$r",
+          "jyA",
+          "mdn"
+        ],
+        "lemmas_present": [
+          ">ahol",
+          "jaA^'a",
+          "madiynap",
+          "yasotabo$iru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ"
+    },
+    {
+      "id": "15:68",
+      "surah": 15,
+      "ayahNum": 68,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ إِنَّ هَـٰٓؤُلَآءِ ضَيۡفِي فَلَا تَفۡضَحُونِ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Dyf",
+          "fDH",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Dayof",
+          "ha`*aA",
+          "laA",
+          "qaAla",
+          "tafoDaHu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ إِنَّ هَـٰٓؤُلَآءِ ضَيۡفِي فَلَا تَفۡضَحُونِ"
+    },
+    {
+      "id": "15:69",
+      "surah": 15,
+      "ayahNum": 69,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَٱتَّقُواْ ٱللّٰهَ وَلَا تُخۡزُونِ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 18,
+      "hizbQuarter": 72,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Alh",
+          "wqy",
+          "xzy"
+        ],
+        "lemmas_present": [
+          ">axozayo",
+          "laA",
+          "{ll~ah",
+          "{t~aqaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ"
+    },
+    {
+      "id": "15:70",
+      "surah": 15,
+      "ayahNum": 70,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعٰلَمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Elm",
+          "nhy",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "Ea`lamiyn",
+          "Ean",
+          "lam",
+          "nahaY`",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعَٰلَمِينَ"
+    },
+    {
+      "id": "15:71",
+      "surah": 15,
+      "ayahNum": 71,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "قَالَ هَـٰٓؤُلَآءِ بَنَاتِيٓ إِن كُنتُمۡ فٰعِلِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "bny",
+          "fEl",
+          "kwn",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in",
+          "banaAt",
+          "faAEil",
+          "ha`*aA",
+          "kaAna",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "قَالَ هَـٰٓؤُلَآءِ بَنَاتِيٓ إِن كُنتُمۡ فَٰعِلِينَ"
+    },
+    {
+      "id": "15:72",
+      "surah": 15,
+      "ayahNum": 72,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَعَمۡرُكَ إِنَّهُمۡ لَفِي سَكۡرَتِهِمۡ يَعۡمَهُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Emh",
+          "Emr",
+          "skr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eamor",
+          "fiY",
+          "sakorap",
+          "yaEomahu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَعَمۡرُكَ إِنَّهُمۡ لَفِي سَكۡرَتِهِمۡ يَعۡمَهُونَ"
+    },
+    {
+      "id": "15:73",
+      "surah": 15,
+      "ayahNum": 73,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُشۡرِقِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rq",
+          "Ax*",
+          "SyH"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          "SayoHap",
+          "m~u$oriqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُشۡرِقِينَ"
+    },
+    {
+      "id": "15:74",
+      "surah": 15,
+      "ayahNum": 74,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَجَعَلۡنَا عٰلِيَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَيۡهِمۡ حِجَارَةٗ مِّن سِجِّيلٍ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Elw",
+          "Hjr",
+          "jEl",
+          "mTr",
+          "sfl",
+          "sjl"
+        ],
+        "lemmas_present": [
+          ">umoTirato",
+          "EaAliy",
+          "EalaY`",
+          "HijaArap",
+          "jaEala",
+          "min",
+          "saAfil",
+          "sij~iyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَجَعَلۡنَا عَٰلِيَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَيۡهِمۡ حِجَارَةٗ مِّن سِجِّيلٍ"
+    },
+    {
+      "id": "15:75",
+      "surah": 15,
+      "ayahNum": 75,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّ فِي ذٰلِكَ لَأٓيٰتٖ لِّلۡمُتَوَسِّمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ayy",
+          "wsm"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "*a`lik",
+          "<in~",
+          "fiY",
+          "mutawas~imiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡمُتَوَسِّمِينَ"
+    },
+    {
+      "id": "15:76",
+      "surah": 15,
+      "ayahNum": 76,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِنَّهَا لَبِسَبِيلٖ مُّقِيمٍ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "qwm",
+          "sbl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "m~uqiym",
+          "sabiyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِنَّهَا لَبِسَبِيلٖ مُّقِيمٍ"
+    },
+    {
+      "id": "15:77",
+      "surah": 15,
+      "ayahNum": 77,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّ فِي ذٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Ayy"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "*a`lik",
+          "<in~",
+          "fiY",
+          "mu&omin"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ"
+    },
+    {
+      "id": "15:78",
+      "surah": 15,
+      "ayahNum": 78,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَإِن كَانَ أَصۡحٰبُ ٱلۡأَيۡكَةِ لَظٰلِمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "SHb",
+          "Zlm",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">aSoHa`b",
+          ">ayokap",
+          "ZaAlim",
+          "kaAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ"
+    },
+    {
+      "id": "15:79",
+      "surah": 15,
+      "ayahNum": 79,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Amm",
+          "byn",
+          "nqm"
+        ],
+        "lemmas_present": [
+          "<imaAm",
+          "<in~",
+          "min",
+          "m~ubiyn",
+          "{ntaqamo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ"
+    },
+    {
+      "id": "15:80",
+      "surah": 15,
+      "ayahNum": 80,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ كَذَّبَ أَصۡحٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hjr",
+          "SHb",
+          "k*b",
+          "rsl"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "Hijor",
+          "ka*~aba",
+          "m~urosal",
+          "qad"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ"
+    },
+    {
+      "id": "15:81",
+      "surah": 15,
+      "ayahNum": 81,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَءَاتَيۡنٰهُمۡ ءَايٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Ayy",
+          "ErD",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "A^taY",
+          "Ean",
+          "kaAna",
+          "m~uEoriDuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَءَاتَيۡنَٰهُمۡ ءَايَٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ"
+    },
+    {
+      "id": "15:82",
+      "surah": 15,
+      "ayahNum": 82,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَكَانُواْ يَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتًا ءَامِنِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Amn",
+          "byt",
+          "jbl",
+          "kwn",
+          "nHt"
+        ],
+        "lemmas_present": [
+          "'aAminiyn",
+          "bayot",
+          "jabal",
+          "kaAna",
+          "min",
+          "yanoHitu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَكَانُواْ يَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتًا ءَامِنِينَ"
+    },
+    {
+      "id": "15:83",
+      "surah": 15,
+      "ayahNum": 83,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ax*",
+          "SbH",
+          "SyH"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          "SayoHap",
+          "muSobiHiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ"
+    },
+    {
+      "id": "15:84",
+      "surah": 15,
+      "ayahNum": 84,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "gny",
+          "ksb",
+          "kwn"
+        ],
+        "lemmas_present": [
+          ">agonaY`",
+          "Ean",
+          "kaAna",
+          "kasaba",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ"
+    },
+    {
+      "id": "15:85",
+      "surah": 15,
+      "ayahNum": 85,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَمَا خَلَقۡنَا ٱلسَّمٰوٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّۗ وَإِنَّ ٱلسَّاعَةَ لَأٓتِيَةٞۖ فَٱصۡفَحِ ٱلصَّفۡحَ ٱلۡجَمِيلَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 14,
+        "unique_surface_forms": 13,
+        "unique_lemmas": 13,
+        "unique_roots": 9,
+        "type_token_ratio": 0.9286,
+        "verb_count": 2,
+        "verb_pct": 14.3,
+        "noun_count": 6,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 5,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "Aty",
+          "Hqq",
+          "SfH",
+          "byn",
+          "jml",
+          "smw",
+          "swE",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in~",
+          ">aroD",
+          "A^tiy",
+          "Haq~",
+          "SafoH",
+          "bayon",
+          "jamiyl",
+          "maA",
+          "saAEap",
+          "samaA^'",
+          "xalaqa",
+          "yaSofaHu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّۗ وَإِنَّ ٱلسَّاعَةَ لَأٓتِيَةٞۖ فَٱصۡفَحِ ٱلصَّفۡحَ ٱلۡجَمِيلَ"
+    },
+    {
+      "id": "15:86",
+      "surah": 15,
+      "ayahNum": 86,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّـٰقُ ٱلۡعَلِيمُ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Elm",
+          "rbb",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ealiym",
+          "huwa",
+          "rab~",
+          "xal~a`q"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّـٰقُ ٱلۡعَلِيمُ"
+    },
+    {
+      "id": "15:87",
+      "surah": 15,
+      "ayahNum": 87,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ ءَاتَيۡنٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "EZm",
+          "qrA",
+          "sbE",
+          "vny"
+        ],
+        "lemmas_present": [
+          "A^taY",
+          "EaZiym",
+          "min",
+          "m~avaAniY",
+          "qad",
+          "quro'aAn",
+          "saboE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ"
+    },
+    {
+      "id": "15:88",
+      "surah": 15,
+      "ayahNum": 88,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "لَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوٰجٗا مِّنۡهُمۡ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 15,
+        "unique_surface_forms": 15,
+        "unique_lemmas": 14,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 26.7,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Eyn",
+          "Hzn",
+          "jnH",
+          "mdd",
+          "mtE",
+          "xfD",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "EalaY`",
+          "Eayon",
+          "hi.^",
+          "janaAH",
+          "laA",
+          "maA",
+          "mad~a",
+          "min",
+          "mu&omin",
+          "m~at~aEo",
+          "yaHozun",
+          "zawoj",
+          "{xofiDo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "لَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِينَ"
+    },
+    {
+      "id": "15:89",
+      "surah": 15,
+      "ayahNum": 89,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "byn",
+          "n*r",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">anaA",
+          "m~ubiyn",
+          "na*iyr",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ"
+    },
+    {
+      "id": "15:90",
+      "surah": 15,
+      "ayahNum": 90,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "nzl",
+          "qsm"
+        ],
+        "lemmas_present": [
+          ">anzala",
+          "EalaY`",
+          "maA",
+          "muqotasimiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ"
+    },
+    {
+      "id": "15:91",
+      "surah": 15,
+      "ayahNum": 91,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "EDw",
+          "jEl",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "EiDiyn",
+          "jaEala",
+          "quro'aAn",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ"
+    },
+    {
+      "id": "15:92",
+      "surah": 15,
+      "ayahNum": 92,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَوَرَبِّكَ لَنَسۡـَٔلَنَّهُمۡ أَجۡمَعِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jmE",
+          "rbb",
+          "sAl"
+        ],
+        "lemmas_present": [
+          ">ajomaEiyn",
+          "rab~",
+          "sa>ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَوَرَبِّكَ لَنَسۡـَٔلَنَّهُمۡ أَجۡمَعِينَ"
+    },
+    {
+      "id": "15:93",
+      "surah": 15,
+      "ayahNum": 93,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "عَمَّا كَانُواْ يَعۡمَلُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Eml",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "Eamila",
+          "Ean",
+          "kaAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "عَمَّا كَانُواْ يَعۡمَلُونَ"
+    },
+    {
+      "id": "15:94",
+      "surah": 15,
+      "ayahNum": 94,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rk",
+          "Amr",
+          "ErD",
+          "SdE"
+        ],
+        "lemmas_present": [
+          ">aEoraDa",
+          ">amara",
+          "Ean",
+          "maA",
+          "mu$orik",
+          "{SodaEo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ"
+    },
+    {
+      "id": "15:95",
+      "surah": 15,
+      "ayahNum": 95,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "إِنَّا كَفَيۡنٰكَ ٱلۡمُسۡتَهۡزِءِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 73,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "hzA",
+          "kfy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kafaY`",
+          "musotahozi'uwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "إِنَّا كَفَيۡنَٰكَ ٱلۡمُسۡتَهۡزِءِينَ"
+    },
+    {
+      "id": "15:96",
+      "surah": 15,
+      "ayahNum": 96,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "ٱلَّذِينَ يَجۡعَلُونَ مَعَ ٱللّٰهِ إِلٰهًا ءَاخَرَۚ فَسَوۡفَ يَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 74,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "Axr",
+          "Elm",
+          "jEl"
+        ],
+        "lemmas_present": [
+          "<ila`h",
+          "A^xar",
+          "Ealima",
+          "jaEala",
+          "maE",
+          "sawof",
+          "{ll~ah",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ يَجۡعَلُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۚ فَسَوۡفَ يَعۡلَمُونَ"
+    },
+    {
+      "id": "15:97",
+      "surah": 15,
+      "ayahNum": 97,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 74,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Dyq",
+          "Elm",
+          "Sdr",
+          "qwl"
+        ],
+        "lemmas_present": [
+          ">an~",
+          "DaAqa",
+          "Ealima",
+          "Sador",
+          "maA",
+          "qaAla",
+          "qad"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ"
+    },
+    {
+      "id": "15:98",
+      "surah": 15,
+      "ayahNum": 98,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 74,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Hmd",
+          "kwn",
+          "rbb",
+          "sbH",
+          "sjd"
+        ],
+        "lemmas_present": [
+          "Hamod",
+          "kaAna",
+          "min",
+          "rab~",
+          "saAjid",
+          "sab~aHa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ"
+    },
+    {
+      "id": "15:99",
+      "surah": 15,
+      "ayahNum": 99,
+      "surahName": "Al-Hijr",
+      "surahNameArabic": "الحجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rocky Tract",
+      "arabicText": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ",
+      "transliteration": "",
+      "juz": 14,
+      "hizb": 19,
+      "hizbQuarter": 74,
+      "manzil": 4,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Ebd",
+          "rbb",
+          "yqn"
+        ],
+        "lemmas_present": [
+          ">ataY",
+          "Eabada",
+          "Hat~aY`",
+          "rab~",
+          "yaqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 54,
+      "learnedState": "new",
+      "text": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ"
+    }
+  ]
+}

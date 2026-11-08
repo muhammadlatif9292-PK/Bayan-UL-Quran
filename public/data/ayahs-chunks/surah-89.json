@@ -1,0 +1,1641 @@
+{
+  "ayahs": [
+    {
+      "id": "89:1",
+      "surah": 89,
+      "ayahNum": 1,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَٱلۡفَجۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fjr"
+        ],
+        "lemmas_present": [
+          "fajor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَٱلۡفَجۡرِ"
+    },
+    {
+      "id": "89:2",
+      "surah": 89,
+      "ayahNum": 2,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَلَيَالٍ عَشۡرٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "E$r",
+          "lyl"
+        ],
+        "lemmas_present": [
+          "Ea$or",
+          "layol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَلَيَالٍ عَشۡرٖ"
+    },
+    {
+      "id": "89:3",
+      "surah": 89,
+      "ayahNum": 3,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$fE",
+          "wtr"
+        ],
+        "lemmas_present": [
+          "$~afoE",
+          "wator"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ"
+    },
+    {
+      "id": "89:4",
+      "surah": 89,
+      "ayahNum": 4,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "lyl",
+          "sry"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "layol",
+          "yasori"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَٱلَّيۡلِ إِذَا يَسۡرِ"
+    },
+    {
+      "id": "89:5",
+      "surah": 89,
+      "ayahNum": 5,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "هَلۡ فِي ذٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hjr",
+          "qsm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "*uw",
+          "Hijor",
+          "fiY",
+          "hal",
+          "qasam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ"
+    },
+    {
+      "id": "89:6",
+      "surah": 89,
+      "ayahNum": 6,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ewd",
+          "fEl",
+          "kyf",
+          "rAy",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "EaAd2",
+          "faEala",
+          "kayof",
+          "lam",
+          "ra'aA",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ"
+    },
+    {
+      "id": "89:7",
+      "surah": 89,
+      "ayahNum": 7,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Emd"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "<iram",
+          "EimaAd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ"
+    },
+    {
+      "id": "89:8",
+      "surah": 89,
+      "ayahNum": 8,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلٰدِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bld",
+          "mvl",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "balad",
+          "fiY",
+          "lam",
+          "mivol",
+          "xalaqa",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ"
+    },
+    {
+      "id": "89:9",
+      "surah": 89,
+      "ayahNum": 9,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Sxr",
+          "jwb",
+          "wdy"
+        ],
+        "lemmas_present": [
+          "S~axor",
+          "jaAbu",
+          "vamuwd",
+          "waAd",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ"
+    },
+    {
+      "id": "89:10",
+      "surah": 89,
+      "ayahNum": 10,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "wtd"
+        ],
+        "lemmas_present": [
+          "*uw",
+          ">awotaAd",
+          "firoEawon"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ"
+    },
+    {
+      "id": "89:11",
+      "surah": 89,
+      "ayahNum": 11,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلٰدِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Tgy",
+          "bld"
+        ],
+        "lemmas_present": [
+          "TagaY`",
+          "balad",
+          "fiY",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ"
+    },
+    {
+      "id": "89:12",
+      "surah": 89,
+      "ayahNum": 12,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "fsd",
+          "kvr"
+        ],
+        "lemmas_present": [
+          ">akovaru",
+          "fasaAd",
+          "fiY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ"
+    },
+    {
+      "id": "89:13",
+      "surah": 89,
+      "ayahNum": 13,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "E*b",
+          "Sbb",
+          "rbb",
+          "swT"
+        ],
+        "lemmas_present": [
+          "Ea*aAb",
+          "EalaY`",
+          "Sab~a",
+          "rab~",
+          "sawoT"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ"
+    },
+    {
+      "id": "89:14",
+      "surah": 89,
+      "ayahNum": 14,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "rSd",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "miroSaAd",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ"
+    },
+    {
+      "id": "89:15",
+      "surah": 89,
+      "ayahNum": 15,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "فَأَمَّا ٱلۡإِنسٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 45.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Ans",
+          "blw",
+          "krm",
+          "nEm",
+          "qwl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "<insa`n",
+          ">akorama",
+          ">am~aA",
+          "maA",
+          "naE~ama",
+          "qaAla",
+          "rab~",
+          "{botalaY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ"
+    },
+    {
+      "id": "89:16",
+      "surah": 89,
+      "ayahNum": 16,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهٰنَنِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "blw",
+          "hwn",
+          "qdr",
+          "qwl",
+          "rbb",
+          "rzq"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">aha`na",
+          ">am~aA",
+          "EalaY`",
+          "maA",
+          "qaAla",
+          "qadara",
+          "rab~",
+          "rizoq",
+          "{botalaY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ"
+    },
+    {
+      "id": "89:17",
+      "surah": 89,
+      "ayahNum": 17,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "krm",
+          "ytm"
+        ],
+        "lemmas_present": [
+          ">akorama",
+          "bal",
+          "kal~aA",
+          "laA",
+          "yatiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ"
+    },
+    {
+      "id": "89:18",
+      "surah": 89,
+      "ayahNum": 18,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "HDD",
+          "TEm",
+          "skn"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "TaEaAm",
+          "laA",
+          "misokiyn",
+          "taHa`^D~u"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
+    },
+    {
+      "id": "89:19",
+      "surah": 89,
+      "ayahNum": 19,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Akl",
+          "lmm",
+          "wrv"
+        ],
+        "lemmas_present": [
+          ">akala",
+          ">akol",
+          "l~am~",
+          "t~uraAv"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا"
+    },
+    {
+      "id": "89:20",
+      "surah": 89,
+      "ayahNum": 20,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Hbb",
+          "jmm",
+          "mwl"
+        ],
+        "lemmas_present": [
+          ">aHobabo",
+          "Hub~",
+          "jam~",
+          "maAl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا"
+    },
+    {
+      "id": "89:21",
+      "surah": 89,
+      "ayahNum": 21,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 0.8333,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "ArD",
+          "dkk"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">aroD",
+          "dak~",
+          "duk~ati",
+          "kal~aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا"
+    },
+    {
+      "id": "89:22",
+      "surah": 89,
+      "ayahNum": 22,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 0.8,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Sff",
+          "jyA",
+          "mlk",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Saf~",
+          "jaA^'a",
+          "malak",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا"
+    },
+    {
+      "id": "89:23",
+      "surah": 89,
+      "ayahNum": 23,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "*kr",
+          "Ans",
+          "Any",
+          "jyA"
+        ],
+        "lemmas_present": [
+          "*ikoraY`",
+          "<insa`n",
+          ">an~aY`",
+          "hu",
+          "jaA^'a",
+          "jahan~am",
+          "ta*ak~ara",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ"
+    },
+    {
+      "id": "89:24",
+      "surah": 89,
+      "ayahNum": 24,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "يَقُولُ يٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hyy",
+          "qdm",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "Hayaw`p",
+          "layot",
+          "qaAla",
+          "qad~ama"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي"
+    },
+    {
+      "id": "89:25",
+      "surah": 89,
+      "ayahNum": 25,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "E*b"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          "Ea*aAb",
+          "Ea*~aba",
+          "laA",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ"
+    },
+    {
+      "id": "89:26",
+      "surah": 89,
+      "ayahNum": 26,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "wvq"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          "laA",
+          "wavaAq",
+          "yuwviqu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ"
+    },
+    {
+      "id": "89:27",
+      "surah": 89,
+      "ayahNum": 27,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Tmn",
+          "nfs"
+        ],
+        "lemmas_present": [
+          ">ay~atuhaA",
+          "m~uToma}in~ap",
+          "nafos"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ"
+    },
+    {
+      "id": "89:28",
+      "surah": 89,
+      "ayahNum": 28,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "rDw",
+          "rbb",
+          "rjE"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "m~aroDiy~ap",
+          "raADiyap",
+          "rab~",
+          "rajaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ"
+    },
+    {
+      "id": "89:29",
+      "surah": 89,
+      "ayahNum": 29,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "فَٱدۡخُلِي فِي عِبٰدِي",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ebd",
+          "dxl"
+        ],
+        "lemmas_present": [
+          "Eabod",
+          "daxala",
+          "fiY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "فَٱدۡخُلِي فِي عِبَٰدِي"
+    },
+    {
+      "id": "89:30",
+      "surah": 89,
+      "ayahNum": 30,
+      "surahName": "Al-Fajr",
+      "surahNameArabic": "الفجر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Dawn",
+      "arabicText": "وَٱدۡخُلِي جَنَّتِي",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "dxl",
+          "jnn"
+        ],
+        "lemmas_present": [
+          "daxala",
+          "jan~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 10,
+      "learnedState": "new",
+      "text": "وَٱدۡخُلِي جَنَّتِي"
+    }
+  ]
+}

@@ -1,0 +1,1377 @@
+{
+  "ayahs": [
+    {
+      "id": "88:1",
+      "surah": 88,
+      "ayahNum": 1,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغٰشِيَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Hdv",
+          "g$w"
+        ],
+        "lemmas_present": [
+          ">ataY",
+          "Hadiyv",
+          "ga`$iyap",
+          "hal"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ"
+    },
+    {
+      "id": "88:2",
+      "surah": 88,
+      "ayahNum": 2,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وُجُوهٞ يَوۡمَئِذٍ خٰشِعَةٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "wjh",
+          "x$E"
+        ],
+        "lemmas_present": [
+          "wajoh",
+          "xaA$iE",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ"
+    },
+    {
+      "id": "88:3",
+      "surah": 88,
+      "ayahNum": 3,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "عَامِلَةٞ نَّاصِبَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 0,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Eml",
+          "nSb"
+        ],
+        "lemmas_present": [
+          "EaAmilap",
+          "n~aASibap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "عَامِلَةٞ نَّاصِبَةٞ"
+    },
+    {
+      "id": "88:4",
+      "surah": 88,
+      "ayahNum": 4,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "تَصۡلَىٰ نَارًا حَامِيَةٗ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Hmy",
+          "Sly",
+          "nwr"
+        ],
+        "lemmas_present": [
+          "HaAmiyap",
+          "naAr",
+          "yaSolaY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "تَصۡلَىٰ نَارًا حَامِيَةٗ"
+    },
+    {
+      "id": "88:5",
+      "surah": 88,
+      "ayahNum": 5,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Any",
+          "Eyn",
+          "sqy"
+        ],
+        "lemmas_present": [
+          "'aAniyap",
+          "Eayon",
+          "min",
+          "saqaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ"
+    },
+    {
+      "id": "88:6",
+      "surah": 88,
+      "ayahNum": 6,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "DrE",
+          "TEm",
+          "lys"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "DariyE",
+          "TaEaAm",
+          "humo",
+          "l~ayosa",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ"
+    },
+    {
+      "id": "88:7",
+      "surah": 88,
+      "ayahNum": 7,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "gny",
+          "jwE",
+          "smn"
+        ],
+        "lemmas_present": [
+          ">agonato",
+          "juwE",
+          "laA",
+          "min",
+          "yusominu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ"
+    },
+    {
+      "id": "88:8",
+      "surah": 88,
+      "ayahNum": 8,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "nEm",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "n~aAEimap",
+          "wajoh",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ"
+    },
+    {
+      "id": "88:9",
+      "surah": 88,
+      "ayahNum": 9,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "لِّسَعۡيِهَا رَاضِيَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rDw",
+          "sEy"
+        ],
+        "lemmas_present": [
+          "raADiyap",
+          "saEoy"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "لِّسَعۡيِهَا رَاضِيَةٞ"
+    },
+    {
+      "id": "88:10",
+      "surah": 88,
+      "ayahNum": 10,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "فِي جَنَّةٍ عَالِيَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elw",
+          "jnn"
+        ],
+        "lemmas_present": [
+          "EaAliyap",
+          "fiY",
+          "jan~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "فِي جَنَّةٍ عَالِيَةٖ"
+    },
+    {
+      "id": "88:11",
+      "surah": 88,
+      "ayahNum": 11,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "لَّا تَسۡمَعُ فِيهَا لٰغِيَةٗ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "lgw",
+          "smE"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "laA",
+          "la`giyap",
+          "samiEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ"
+    },
+    {
+      "id": "88:12",
+      "surah": 88,
+      "ayahNum": 12,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "فِيهَا عَيۡنٞ جَارِيَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "jry"
+        ],
+        "lemmas_present": [
+          "Eayon",
+          "fiY",
+          "jaAriyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "فِيهَا عَيۡنٞ جَارِيَةٞ"
+    },
+    {
+      "id": "88:13",
+      "surah": 88,
+      "ayahNum": 13,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "فِيهَا سُرُرٞ مَّرۡفُوعَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "rfE",
+          "srr"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "m~arofuwEap",
+          "surur"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "فِيهَا سُرُرٞ مَّرۡفُوعَةٞ"
+    },
+    {
+      "id": "88:14",
+      "surah": 88,
+      "ayahNum": 14,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "kwb",
+          "wDE"
+        ],
+        "lemmas_present": [
+          ">akowaAb",
+          "m~awoDuwEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ"
+    },
+    {
+      "id": "88:15",
+      "surah": 88,
+      "ayahNum": 15,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وَنَمَارِقُ مَصۡفُوفَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Sff"
+        ],
+        "lemmas_present": [
+          "maSofuwfap",
+          "namaAriq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وَنَمَارِقُ مَصۡفُوفَةٞ"
+    },
+    {
+      "id": "88:16",
+      "surah": 88,
+      "ayahNum": 16,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وَزَرَابِيُّ مَبۡثُوثَةٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "bvv"
+        ],
+        "lemmas_present": [
+          "mabovuwvap",
+          "zaraAbiY~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وَزَرَابِيُّ مَبۡثُوثَةٌ"
+    },
+    {
+      "id": "88:17",
+      "surah": 88,
+      "ayahNum": 17,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Abl",
+          "kyf",
+          "nZr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<ibil",
+          "<ilaY`",
+          "kayof",
+          "laA",
+          "n~aZara",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ"
+    },
+    {
+      "id": "88:18",
+      "surah": 88,
+      "ayahNum": 18,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kyf",
+          "rfE",
+          "smw"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "kayof",
+          "rafaEa",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ"
+    },
+    {
+      "id": "88:19",
+      "surah": 88,
+      "ayahNum": 19,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jbl",
+          "kyf",
+          "nSb"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "jabal",
+          "kayof",
+          "nuSibato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ"
+    },
+    {
+      "id": "88:20",
+      "surah": 88,
+      "ayahNum": 20,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ArD",
+          "kyf",
+          "sTH"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">aroD",
+          "kayof",
+          "suTiHato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ"
+    },
+    {
+      "id": "88:21",
+      "surah": 88,
+      "ayahNum": 21,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr"
+        ],
+        "lemmas_present": [
+          "*uk~ira",
+          "<in~",
+          ">anta",
+          "mu*ak~ir"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ"
+    },
+    {
+      "id": "88:22",
+      "surah": 88,
+      "ayahNum": 22,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "lys",
+          "sTr"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "l~ayosa",
+          "muSayoTir"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ"
+    },
+    {
+      "id": "88:23",
+      "surah": 88,
+      "ayahNum": 23,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "kfr",
+          "wly"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "kafara",
+          "man",
+          "tawal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
+    },
+    {
+      "id": "88:24",
+      "surah": 88,
+      "ayahNum": 24,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "فَيُعَذِّبُهُ ٱللّٰهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "E*b",
+          "kbr"
+        ],
+        "lemmas_present": [
+          ">akobar",
+          "Ea*aAb",
+          "Ea*~aba",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ"
+    },
+    {
+      "id": "88:25",
+      "surah": 88,
+      "ayahNum": 25,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Awb"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          "<iyaAb"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ"
+    },
+    {
+      "id": "88:26",
+      "surah": 88,
+      "ayahNum": 26,
+      "surahName": "Al-Ghashiya",
+      "surahNameArabic": "الغاشية",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Overwhelming",
+      "arabicText": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 231,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hsb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EalaY`",
+          "HisaAb",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 68,
+      "learnedState": "new",
+      "text": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم"
+    }
+  ]
+}

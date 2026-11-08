@@ -1,0 +1,3430 @@
+{
+  "ayahs": [
+    {
+      "id": "51:1",
+      "surah": 51,
+      "ayahNum": 1,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَٱلذَّـٰرِيٰتِ ذَرۡوٗا",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 45,
+      "hizbQuarter": 180,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*rw"
+        ],
+        "lemmas_present": [
+          "*arow",
+          "*~a`riya`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَٱلذَّـٰرِيَٰتِ ذَرۡوٗا"
+    },
+    {
+      "id": "51:2",
+      "surah": 51,
+      "ayahNum": 2,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَٱلۡحٰمِلٰتِ وِقۡرٗا",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 45,
+      "hizbQuarter": 180,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hml",
+          "wqr"
+        ],
+        "lemmas_present": [
+          "Ha`mila`t",
+          "wiqor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا"
+    },
+    {
+      "id": "51:3",
+      "surah": 51,
+      "ayahNum": 3,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَٱلۡجٰرِيٰتِ يُسۡرٗا",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jry",
+          "ysr"
+        ],
+        "lemmas_present": [
+          "ja`riya`t",
+          "yusor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا"
+    },
+    {
+      "id": "51:4",
+      "surah": 51,
+      "ayahNum": 4,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَٱلۡمُقَسِّمٰتِ أَمۡرًا",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Amr",
+          "qsm"
+        ],
+        "lemmas_present": [
+          ">amor",
+          "muqas~ima`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا"
+    },
+    {
+      "id": "51:5",
+      "surah": 51,
+      "ayahNum": 5,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Sdq",
+          "wEd"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "SaAdiq",
+          "waEada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ"
+    },
+    {
+      "id": "51:6",
+      "surah": 51,
+      "ayahNum": 6,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَإِنَّ ٱلدِّينَ لَوٰقِعٞ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dyn",
+          "wqE"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "diyn",
+          "waAqiE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ"
+    },
+    {
+      "id": "51:7",
+      "surah": 51,
+      "ayahNum": 7,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hbk",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "Hubuk",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ"
+    },
+    {
+      "id": "51:8",
+      "surah": 51,
+      "ayahNum": 8,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "qwl",
+          "xlf"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "fiY",
+          "m~uxotalif",
+          "qawol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ"
+    },
+    {
+      "id": "51:9",
+      "surah": 51,
+      "ayahNum": 9,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Afk"
+        ],
+        "lemmas_present": [
+          ">ufika",
+          "Ean",
+          "man"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ"
+    },
+    {
+      "id": "51:10",
+      "surah": 51,
+      "ayahNum": 10,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "قُتِلَ ٱلۡخَرَّـٰصُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qtl",
+          "xrS"
+        ],
+        "lemmas_present": [
+          "qatala",
+          "xar~a`Suwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "قُتِلَ ٱلۡخَرَّـٰصُونَ"
+    },
+    {
+      "id": "51:11",
+      "surah": 51,
+      "ayahNum": 11,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "gmr",
+          "shw"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "gamorap",
+          "humo",
+          "saAhuwn",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ"
+    },
+    {
+      "id": "51:12",
+      "surah": 51,
+      "ayahNum": 12,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dyn",
+          "sAl",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">ay~aAn",
+          "diyn",
+          "sa>ala",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ"
+    },
+    {
+      "id": "51:13",
+      "surah": 51,
+      "ayahNum": 13,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ftn",
+          "nwr",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "fatanu",
+          "humo",
+          "naAr",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ"
+    },
+    {
+      "id": "51:14",
+      "surah": 51,
+      "ayahNum": 14,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "ذُوقُواْ فِتۡنَتَكُمۡ هٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*wq",
+          "Ejl",
+          "ftn",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "*aAqu",
+          "fitonap",
+          "ha`*aA",
+          "hi.",
+          "kaAna",
+          "{l~a*iY",
+          "{sotaEojala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ"
+    },
+    {
+      "id": "51:15",
+      "surah": 51,
+      "ayahNum": 15,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "jnn",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eayon",
+          "fiY",
+          "jan~ap",
+          "mut~aqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ"
+    },
+    {
+      "id": "51:16",
+      "surah": 51,
+      "ayahNum": 16,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذٰلِكَ مُحۡسِنِينَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Ax*",
+          "Hsn",
+          "kwn",
+          "qbl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          "A^taY",
+          "A^xi*",
+          "kaAna",
+          "maA",
+          "muHosin",
+          "qabol",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ"
+    },
+    {
+      "id": "51:17",
+      "surah": 51,
+      "ayahNum": 17,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "hjE",
+          "kwn",
+          "lyl",
+          "qll"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "layol",
+          "maA",
+          "min",
+          "qaliyl",
+          "yahojaEu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ"
+    },
+    {
+      "id": "51:18",
+      "surah": 51,
+      "ayahNum": 18,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "gfr",
+          "sHr"
+        ],
+        "lemmas_present": [
+          "humo",
+          "saHar",
+          "{sotagofara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ"
+    },
+    {
+      "id": "51:19",
+      "surah": 51,
+      "ayahNum": 19,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِيٓ أَمۡوٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hqq",
+          "Hrm",
+          "mwl",
+          "sAl"
+        ],
+        "lemmas_present": [
+          "Haq~",
+          "fiY",
+          "maAl",
+          "maHoruwm",
+          "saA^}il"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ"
+    },
+    {
+      "id": "51:20",
+      "surah": 51,
+      "ayahNum": 20,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِي ٱلۡأَرۡضِ ءَايٰتٞ لِّلۡمُوقِنِينَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "Ayy",
+          "yqn"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          ">aroD",
+          "fiY",
+          "m~uwqiniyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ"
+    },
+    {
+      "id": "51:21",
+      "surah": 51,
+      "ayahNum": 21,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bSr",
+          "nfs"
+        ],
+        "lemmas_present": [
+          ">aboSara",
+          "fiY",
+          "laA",
+          "nafos"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ"
+    },
+    {
+      "id": "51:22",
+      "surah": 51,
+      "ayahNum": 22,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rzq",
+          "smw",
+          "wEd"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "maA",
+          "rizoq",
+          "samaA^'",
+          "waEada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ"
+    },
+    {
+      "id": "51:23",
+      "surah": 51,
+      "ayahNum": 23,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 11.1,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "Hqq",
+          "mvl",
+          "nTq",
+          "rbb",
+          "smw"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">an~",
+          ">aroD",
+          "Haq~",
+          "maA",
+          "mivol",
+          "rab~",
+          "samaA^'",
+          "yanTiqu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ"
+    },
+    {
+      "id": "51:24",
+      "surah": 51,
+      "ayahNum": 24,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرٰهِيمَ ٱلۡمُكۡرَمِينَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Aty",
+          "Dyf",
+          "Hdv",
+          "krm"
+        ],
+        "lemmas_present": [
+          "<iboraAhiym",
+          ">ataY",
+          "Dayof",
+          "Hadiyv",
+          "hal",
+          "m~ukoramuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ"
+    },
+    {
+      "id": "51:25",
+      "surah": 51,
+      "ayahNum": 25,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلٰمٗاۖ قَالَ سَلٰمٞ قَوۡمٞ مُّنكَرُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 3
+        },
+        "roots_present": [
+          "dxl",
+          "nkr",
+          "qwl",
+          "qwm",
+          "slm"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "EalaY`",
+          "daxala",
+          "munkar",
+          "qaAla",
+          "qawom",
+          "sala`m"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ"
+    },
+    {
+      "id": "51:26",
+      "surah": 51,
+      "ayahNum": 26,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Ahl",
+          "Ejl",
+          "jyA",
+          "rwg",
+          "smn"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">ahol",
+          "Eijol",
+          "jaA^'a",
+          "raAga",
+          "samiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ"
+    },
+    {
+      "id": "51:27",
+      "surah": 51,
+      "ayahNum": 27,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 60,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Akl",
+          "qrb",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">akala",
+          "laA",
+          "qaAla",
+          "qar~aba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ"
+    },
+    {
+      "id": "51:28",
+      "surah": 51,
+      "ayahNum": 28,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلٰمٍ عَلِيمٖ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 181,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 44.4,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "b$r",
+          "glm",
+          "qwl",
+          "wjs",
+          "xwf"
+        ],
+        "lemmas_present": [
+          ">awojasa",
+          "Ealiym",
+          "bu$~ira",
+          "gula`m",
+          "laA",
+          "min",
+          "qaAla",
+          "xaAfa",
+          "xiyfap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ"
+    },
+    {
+      "id": "51:29",
+      "surah": 51,
+      "ayahNum": 29,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ejz",
+          "Eqm",
+          "Skk",
+          "Srr",
+          "mrA",
+          "qbl",
+          "qwl",
+          "wjh"
+        ],
+        "lemmas_present": [
+          ">aqobala",
+          "Eajuwz",
+          "Eaqiym",
+          "Sak~ato",
+          "Sar~ap",
+          "fiY",
+          "qaAla",
+          "wajoh",
+          "{mora>at"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ"
+    },
+    {
+      "id": "51:30",
+      "surah": 51,
+      "ayahNum": 30,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "قَالُواْ كَذٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+      "transliteration": "",
+      "juz": 26,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Elm",
+          "Hkm",
+          "qwl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          "Ealiym",
+          "Hakiym",
+          "huwa",
+          "qaAla",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ"
+    },
+    {
+      "id": "51:31",
+      "surah": 51,
+      "ayahNum": 31,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "qwl",
+          "rsl",
+          "xTb"
+        ],
+        "lemmas_present": [
+          ">ay~uhaA",
+          "maA",
+          "m~urosal",
+          "qaAla",
+          "xaTob"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ"
+    },
+    {
+      "id": "51:32",
+      "surah": 51,
+      "ayahNum": 32,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "jrm",
+          "qwl",
+          "qwm",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          ">arosala",
+          "mujorim",
+          "qaAla",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ"
+    },
+    {
+      "id": "51:33",
+      "surah": 51,
+      "ayahNum": 33,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hjr",
+          "Tyn",
+          "rsl"
+        ],
+        "lemmas_present": [
+          ">arosala",
+          "EalaY`",
+          "HijaArap",
+          "Tiyn",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ"
+    },
+    {
+      "id": "51:34",
+      "surah": 51,
+      "ayahNum": 34,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "End",
+          "rbb",
+          "srf",
+          "swm"
+        ],
+        "lemmas_present": [
+          "Eind",
+          "musorif",
+          "m~usaw~amap",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ"
+    },
+    {
+      "id": "51:35",
+      "surah": 51,
+      "ayahNum": 35,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Amn",
+          "kwn",
+          "xrj"
+        ],
+        "lemmas_present": [
+          ">axoraja",
+          "fiY",
+          "kaAna",
+          "man",
+          "min",
+          "mu&omin"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ"
+    },
+    {
+      "id": "51:36",
+      "surah": 51,
+      "ayahNum": 36,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "byt",
+          "gyr",
+          "slm",
+          "wjd"
+        ],
+        "lemmas_present": [
+          "bayot",
+          "fiY",
+          "gayor",
+          "maA",
+          "min",
+          "musolim",
+          "wajada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ"
+    },
+    {
+      "id": "51:37",
+      "surah": 51,
+      "ayahNum": 37,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Alm",
+          "Ayy",
+          "E*b",
+          "trk",
+          "xwf"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          ">aliym",
+          "Ea*aAb",
+          "fiY",
+          "taraka",
+          "xaAfa",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ"
+    },
+    {
+      "id": "51:38",
+      "surah": 51,
+      "ayahNum": 38,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطٰنٖ مُّبِينٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4
+        },
+        "roots_present": [
+          "byn",
+          "rsl",
+          "slT"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "<ilaY`",
+          ">arosala",
+          "fiY",
+          "firoEawon",
+          "muwsaY`",
+          "m~ubiyn",
+          "suloTa`n"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ"
+    },
+    {
+      "id": "51:39",
+      "surah": 51,
+      "ayahNum": 39,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سٰحِرٌ أَوۡ مَجۡنُونٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "jnn",
+          "qwl",
+          "rkn",
+          "sHr",
+          "wly"
+        ],
+        "lemmas_present": [
+          ">aw",
+          "majonuwn",
+          "qaAla",
+          "rukon",
+          "sa`Hir",
+          "tawal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ"
+    },
+    {
+      "id": "51:40",
+      "surah": 51,
+      "ayahNum": 40,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَأَخَذۡنٰهُ وَجُنُودَهُۥ فَنَبَذۡنٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ax*",
+          "jnd",
+          "lwm",
+          "nb*",
+          "ymm"
+        ],
+        "lemmas_present": [
+          ">axa*a",
+          "fiY",
+          "huwa",
+          "jund",
+          "muliym",
+          "naba*a",
+          "yam~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ"
+    },
+    {
+      "id": "51:41",
+      "surah": 51,
+      "ayahNum": 41,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Eqm",
+          "Ewd",
+          "rsl",
+          "rwH"
+        ],
+        "lemmas_present": [
+          "<i*",
+          ">arosala",
+          "EaAd2",
+          "EalaY`",
+          "Eaqiym",
+          "fiY",
+          "riyH"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ"
+    },
+    {
+      "id": "51:42",
+      "surah": 51,
+      "ayahNum": 42,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$yA",
+          "Aty",
+          "jEl",
+          "rmm",
+          "w*r"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "<il~aA",
+          ">ataY",
+          "EalaY`",
+          "jaEala",
+          "maA",
+          "min",
+          "ramiym",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ"
+    },
+    {
+      "id": "51:43",
+      "surah": 51,
+      "ayahNum": 43,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hyn",
+          "mtE",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "Hat~aY`",
+          "Hiyn",
+          "fiY",
+          "humo",
+          "qaAla",
+          "tamat~aEa",
+          "vamuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ"
+    },
+    {
+      "id": "51:44",
+      "surah": 51,
+      "ayahNum": 44,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 37.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Amr",
+          "Ax*",
+          "Etw",
+          "SEq",
+          "nZr",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">amor",
+          ">axa*a",
+          "Ean",
+          "Eata",
+          "SaAEiqap",
+          "humo",
+          "n~aZara",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ يَنظُرُونَ"
+    },
+    {
+      "id": "51:45",
+      "surah": 51,
+      "ayahNum": 45,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَمَا ٱسۡتَطٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "TwE",
+          "kwn",
+          "nSr",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "maA",
+          "min",
+          "m~untaSir",
+          "qaA^}im",
+          "{sotaTaAEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ"
+    },
+    {
+      "id": "51:46",
+      "surah": 51,
+      "ayahNum": 46,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فٰسِقِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "fsq",
+          "kwn",
+          "qbl",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "faAsiq",
+          "kaAna",
+          "min",
+          "nuwH",
+          "qabol",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ"
+    },
+    {
+      "id": "51:47",
+      "surah": 51,
+      "ayahNum": 47,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَٱلسَّمَآءَ بَنَيۡنٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ayd",
+          "bny",
+          "smw",
+          "wsE"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">ayoyd",
+          "banaY`",
+          "muwsiE",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ"
+    },
+    {
+      "id": "51:48",
+      "surah": 51,
+      "ayahNum": 48,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَٱلۡأَرۡضَ فَرَشۡنٰهَا فَنِعۡمَ ٱلۡمٰهِدُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "ArD",
+          "fr$",
+          "mhd",
+          "nEm"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          "fara$o",
+          "ma`hiduwn",
+          "niEoma"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ"
+    },
+    {
+      "id": "51:49",
+      "surah": 51,
+      "ayahNum": 49,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "*kr",
+          "kll",
+          "xlq",
+          "zwj"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "kul~",
+          "laEal~",
+          "min",
+          "ta*ak~ara",
+          "xalaqa",
+          "zawoj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ"
+    },
+    {
+      "id": "51:50",
+      "surah": 51,
+      "ayahNum": 50,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَفِرُّوٓاْ إِلَى ٱللّٰهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 12.5,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "byn",
+          "frr",
+          "n*r"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          "far~ato",
+          "kum",
+          "min",
+          "m~ubiyn",
+          "na*iyr",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ"
+    },
+    {
+      "id": "51:51",
+      "surah": 51,
+      "ayahNum": 51,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَلَا تَجۡعَلُواْ مَعَ ٱللّٰهِ إِلٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 9.1,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "Axr",
+          "byn",
+          "jEl",
+          "n*r"
+        ],
+        "lemmas_present": [
+          "<ila`h",
+          "<in~",
+          "A^xar",
+          "jaEala",
+          "kum",
+          "laA",
+          "maE",
+          "min",
+          "m~ubiyn",
+          "na*iyr",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ"
+    },
+    {
+      "id": "51:52",
+      "surah": 51,
+      "ayahNum": 52,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "كَذٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 13,
+        "unique_surface_forms": 13,
+        "unique_lemmas": 12,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 15.4,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Aty",
+          "jnn",
+          "qbl",
+          "qwl",
+          "rsl",
+          "sHr"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<il~aA",
+          ">ataY",
+          ">aw",
+          "maA",
+          "majonuwn",
+          "min",
+          "qaAla",
+          "qabol",
+          "rasuwl",
+          "sa`Hir",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ"
+    },
+    {
+      "id": "51:53",
+      "surah": 51,
+      "ayahNum": 53,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Tgy",
+          "qwm",
+          "wSy"
+        ],
+        "lemmas_present": [
+          "Ta`giyn",
+          "bal",
+          "hi.",
+          "humo",
+          "qawom",
+          "tawaASa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ"
+    },
+    {
+      "id": "51:54",
+      "surah": 51,
+      "ayahNum": 54,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 182,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "lwm",
+          "wly"
+        ],
+        "lemmas_present": [
+          ">anta",
+          "Ean",
+          "maA",
+          "maluwm",
+          "tawal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ"
+    },
+    {
+      "id": "51:55",
+      "surah": 51,
+      "ayahNum": 55,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "*kr",
+          "Amn",
+          "nfE"
+        ],
+        "lemmas_present": [
+          "*ikoraY`",
+          "*uk~ira",
+          "<in~",
+          "mu&omin",
+          "nafaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ"
+    },
+    {
+      "id": "51:56",
+      "surah": 51,
+      "ayahNum": 56,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Ans",
+          "Ebd",
+          "jnn",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<ins",
+          "Eabada",
+          "jin~",
+          "maA",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ"
+    },
+    {
+      "id": "51:57",
+      "surah": 51,
+      "ayahNum": 57,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 0.8889,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "TEm",
+          "rwd",
+          "rzq"
+        ],
+        "lemmas_present": [
+          ">aToEama",
+          ">an",
+          ">araAda",
+          "maA",
+          "min",
+          "rizoq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ"
+    },
+    {
+      "id": "51:58",
+      "surah": 51,
+      "ayahNum": 58,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "إِنَّ ٱللّٰهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "mtn",
+          "qwy",
+          "rzq"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "<in~",
+          "huwa",
+          "matiyn",
+          "quw~ap",
+          "r~az~aAq",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ"
+    },
+    {
+      "id": "51:59",
+      "surah": 51,
+      "ayahNum": 59,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "*nb",
+          "Ejl",
+          "SHb",
+          "Zlm",
+          "mvl"
+        ],
+        "lemmas_present": [
+          "*anuwb",
+          "<in~",
+          ">aSoHa`b",
+          "Zalama",
+          "laA",
+          "mivol",
+          "{l~a*iY",
+          "{sotaEojala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ"
+    },
+    {
+      "id": "51:60",
+      "surah": 51,
+      "ayahNum": 60,
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Winnowing Winds",
+      "arabicText": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+      "transliteration": "",
+      "juz": 27,
+      "hizb": 46,
+      "hizbQuarter": 183,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kfr",
+          "wEd",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "kafara",
+          "min",
+          "waEada",
+          "wayol",
+          "yawom",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 67,
+      "learnedState": "new",
+      "text": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ"
+    }
+  ]
+}

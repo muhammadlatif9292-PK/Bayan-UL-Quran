@@ -1,0 +1,2472 @@
+{
+  "ayahs": [
+    {
+      "id": "79:1",
+      "surah": 79,
+      "ayahNum": 1,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَٱلنَّـٰزِعٰتِ غَرۡقٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 55,
+      "hizbQuarter": 220,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "grq",
+          "nzE"
+        ],
+        "lemmas_present": [
+          "garoq",
+          "n~a`ziEa`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَٱلنَّـٰزِعَٰتِ غَرۡقٗا"
+    },
+    {
+      "id": "79:2",
+      "surah": 79,
+      "ayahNum": 2,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَٱلنَّـٰشِطٰتِ نَشۡطٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 55,
+      "hizbQuarter": 220,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "n$T"
+        ],
+        "lemmas_present": [
+          "na$oT",
+          "n~a`$iTa`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَٱلنَّـٰشِطَٰتِ نَشۡطٗا"
+    },
+    {
+      "id": "79:3",
+      "surah": 79,
+      "ayahNum": 3,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَٱلسَّـٰبِحٰتِ سَبۡحٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 55,
+      "hizbQuarter": 220,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "sbH"
+        ],
+        "lemmas_present": [
+          "saboH",
+          "s~a`biHa`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَٱلسَّـٰبِحَٰتِ سَبۡحٗا"
+    },
+    {
+      "id": "79:4",
+      "surah": 79,
+      "ayahNum": 4,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَٱلسَّـٰبِقٰتِ سَبۡقٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 55,
+      "hizbQuarter": 220,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "sbq"
+        ],
+        "lemmas_present": [
+          "saboq",
+          "s~a`biqa`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَٱلسَّـٰبِقَٰتِ سَبۡقٗا"
+    },
+    {
+      "id": "79:5",
+      "surah": 79,
+      "ayahNum": 5,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَٱلۡمُدَبِّرٰتِ أَمۡرٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 55,
+      "hizbQuarter": 220,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Amr",
+          "dbr"
+        ],
+        "lemmas_present": [
+          ">amor",
+          "mudab~ira`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا"
+    },
+    {
+      "id": "79:6",
+      "surah": 79,
+      "ayahNum": 6,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rjf",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "r~aAjifap",
+          "tarojufu",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ"
+    },
+    {
+      "id": "79:7",
+      "surah": 79,
+      "ayahNum": 7,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rdf",
+          "tbE"
+        ],
+        "lemmas_present": [
+          "r~aAdifap",
+          "tabiEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "تَتۡبَعُهَا ٱلرَّادِفَةُ"
+    },
+    {
+      "id": "79:8",
+      "surah": 79,
+      "ayahNum": 8,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "qlb",
+          "wjf"
+        ],
+        "lemmas_present": [
+          "qalob",
+          "waAjifap",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ"
+    },
+    {
+      "id": "79:9",
+      "surah": 79,
+      "ayahNum": 9,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "أَبۡصٰرُهَا خٰشِعَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "bSr",
+          "x$E"
+        ],
+        "lemmas_present": [
+          "baSar",
+          "xaA$iE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "أَبۡصَٰرُهَا خَٰشِعَةٞ"
+    },
+    {
+      "id": "79:10",
+      "surah": 79,
+      "ayahNum": 10,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hfr",
+          "qwl",
+          "rdd"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "HaAfirap",
+          "fiY",
+          "maroduwd",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ"
+    },
+    {
+      "id": "79:11",
+      "surah": 79,
+      "ayahNum": 11,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "أَءِذَا كُنَّا عِظٰمٗا نَّخِرَةٗ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "EZm",
+          "kwn",
+          "nxr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "EaZiym",
+          "kaAna",
+          "n~axirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "أَءِذَا كُنَّا عِظَٰمٗا نَّخِرَةٗ"
+    },
+    {
+      "id": "79:12",
+      "surah": 79,
+      "ayahNum": 12,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "krr",
+          "qwl",
+          "xsr"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<i*FA",
+          "kar~ap",
+          "qaAla",
+          "xaAsirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ"
+    },
+    {
+      "id": "79:13",
+      "surah": 79,
+      "ayahNum": 13,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَإِنَّمَا هِيَ زَجۡرَةٞ وٰحِدَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "wHd",
+          "zjr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "hiYa",
+          "wa`Hidap",
+          "zajorap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ"
+    },
+    {
+      "id": "79:14",
+      "surah": 79,
+      "ayahNum": 14,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "shr"
+        ],
+        "lemmas_present": [
+          "<i*aA2",
+          "hum",
+          "s~aAhirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَإِذَا هُم بِٱلسَّاهِرَةِ"
+    },
+    {
+      "id": "79:15",
+      "surah": 79,
+      "ayahNum": 15,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Hdv"
+        ],
+        "lemmas_present": [
+          ">ataY",
+          "Hadiyv",
+          "hal",
+          "muwsaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
+    },
+    {
+      "id": "79:16",
+      "surah": 79,
+      "ayahNum": 16,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Twy",
+          "ndw",
+          "qds",
+          "rbb",
+          "wdy"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "TuwFY",
+          "muqad~as",
+          "naAdaY`",
+          "rab~",
+          "waAd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى"
+    },
+    {
+      "id": "79:17",
+      "surah": 79,
+      "ayahNum": 17,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*hb",
+          "Tgy"
+        ],
+        "lemmas_present": [
+          "*ahaba",
+          "<ilaY`",
+          "<in~",
+          "TagaY`",
+          "firoEawon"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ"
+    },
+    {
+      "id": "79:18",
+      "surah": 79,
+      "ayahNum": 18,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "qwl",
+          "zkw"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          ">an",
+          "hal",
+          "ka",
+          "qaAla",
+          "tazak~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ"
+    },
+    {
+      "id": "79:19",
+      "surah": 79,
+      "ayahNum": 19,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَأَهۡدِيَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "hdy",
+          "rbb",
+          "x$y"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "hadaY",
+          "rab~",
+          "xa$iYa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَأَهۡدِيَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ"
+    },
+    {
+      "id": "79:20",
+      "surah": 79,
+      "ayahNum": 20,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَأَرَىٰهُ ٱلۡأٓيَةَ ٱلۡكُبۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Ayy",
+          "kbr",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "kuboraY`",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَأَرَىٰهُ ٱلۡأٓيَةَ ٱلۡكُبۡرَىٰ"
+    },
+    {
+      "id": "79:21",
+      "surah": 79,
+      "ayahNum": 21,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَكَذَّبَ وَعَصَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "ESy",
+          "k*b"
+        ],
+        "lemmas_present": [
+          "EaSaA",
+          "ka*~aba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَكَذَّبَ وَعَصَىٰ"
+    },
+    {
+      "id": "79:22",
+      "surah": 79,
+      "ayahNum": 22,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "ثُمَّ أَدۡبَرَ يَسۡعَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dbr",
+          "sEy"
+        ],
+        "lemmas_present": [
+          ">adobara",
+          "saEaY`",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "ثُمَّ أَدۡبَرَ يَسۡعَىٰ"
+    },
+    {
+      "id": "79:23",
+      "surah": 79,
+      "ayahNum": 23,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَحَشَرَ فَنَادَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "H$r",
+          "ndw"
+        ],
+        "lemmas_present": [
+          "Ha$ara",
+          "naAdaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَحَشَرَ فَنَادَىٰ"
+    },
+    {
+      "id": "79:24",
+      "surah": 79,
+      "ayahNum": 24,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Elw",
+          "qwl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">aEolaY`",
+          ">anaA\"",
+          "qaAla",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ"
+    },
+    {
+      "id": "79:25",
+      "surah": 79,
+      "ayahNum": 25,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَأَخَذَهُ ٱللّٰهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Alh",
+          "Awl",
+          "Ax*",
+          "Axr",
+          "nkl"
+        ],
+        "lemmas_present": [
+          ">aw~al",
+          ">axa*a",
+          "A^xir",
+          "naka`l",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ"
+    },
+    {
+      "id": "79:26",
+      "surah": 79,
+      "ayahNum": 26,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "إِنَّ فِي ذٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ebr",
+          "x$y"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "<in~",
+          "Eiborap",
+          "fiY",
+          "man",
+          "xa$iYa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ"
+    },
+    {
+      "id": "79:27",
+      "surah": 79,
+      "ayahNum": 27,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$dd",
+          "bny",
+          "smw",
+          "xlq"
+        ],
+        "lemmas_present": [
+          ">a$ad~",
+          ">am",
+          ">antumo",
+          "banaY`",
+          "samaA^'",
+          "xaloq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا"
+    },
+    {
+      "id": "79:28",
+      "surah": 79,
+      "ayahNum": 28,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "rfE",
+          "smk",
+          "swy"
+        ],
+        "lemmas_present": [
+          "rafaEa",
+          "samok",
+          "saw~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا"
+    },
+    {
+      "id": "79:29",
+      "surah": 79,
+      "ayahNum": 29,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَأَغۡطَشَ لَيۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "DHw",
+          "gT$",
+          "lyl",
+          "xrj"
+        ],
+        "lemmas_present": [
+          ">agoTa$a",
+          ">axoraja",
+          "DuHFY",
+          "layol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَأَغۡطَشَ لَيۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا"
+    },
+    {
+      "id": "79:30",
+      "surah": 79,
+      "ayahNum": 30,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَٱلۡأَرۡضَ بَعۡدَ ذٰلِكَ دَحَىٰهَآ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "ArD",
+          "bEd",
+          "dHw"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          ">aroD",
+          "baEod",
+          "daHaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ"
+    },
+    {
+      "id": "79:31",
+      "surah": 79,
+      "ayahNum": 31,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 221,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "mwh",
+          "rEy",
+          "xrj"
+        ],
+        "lemmas_present": [
+          ">axoraja",
+          "maA^'",
+          "maroEaY`",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا"
+    },
+    {
+      "id": "79:32",
+      "surah": 79,
+      "ayahNum": 32,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَٱلۡجِبَالَ أَرۡسَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jbl",
+          "rsw"
+        ],
+        "lemmas_present": [
+          ">arosaY`",
+          "jabal"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَٱلۡجِبَالَ أَرۡسَىٰهَا"
+    },
+    {
+      "id": "79:33",
+      "surah": 79,
+      "ayahNum": 33,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "مَتٰعٗا لَّكُمۡ وَلِأَنۡعٰمِكُمۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "mtE",
+          "nEm"
+        ],
+        "lemmas_present": [
+          "kumo",
+          "mata`E",
+          "n~aEam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ"
+    },
+    {
+      "id": "79:34",
+      "surah": 79,
+      "ayahNum": 34,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Tmm",
+          "jyA",
+          "kbr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "T~aA^m~ap",
+          "jaA^'a",
+          "kuboraY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ"
+    },
+    {
+      "id": "79:35",
+      "surah": 79,
+      "ayahNum": 35,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسٰنُ مَا سَعَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "Ans",
+          "sEy",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "maA",
+          "saEaY`",
+          "ta*ak~ara",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ"
+    },
+    {
+      "id": "79:36",
+      "surah": 79,
+      "ayahNum": 36,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "brz",
+          "jHm",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "bur~izati",
+          "jaHiym",
+          "man",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ"
+    },
+    {
+      "id": "79:37",
+      "surah": 79,
+      "ayahNum": 37,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَأَمَّا مَن طَغَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Tgy"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "TagaY`",
+          "man"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَأَمَّا مَن طَغَىٰ"
+    },
+    {
+      "id": "79:38",
+      "surah": 79,
+      "ayahNum": 38,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Avr",
+          "Hyy",
+          "dnw"
+        ],
+        "lemmas_present": [
+          "A^vara",
+          "Hayaw`p",
+          "d~unoyaA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا"
+    },
+    {
+      "id": "79:39",
+      "surah": 79,
+      "ayahNum": 39,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَإِنَّ ٱلۡجَحِيمَ هِيَ ٱلۡمَأۡوَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Awy",
+          "jHm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "hiYa",
+          "jaHiym",
+          "ma>owaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَإِنَّ ٱلۡجَحِيمَ هِيَ ٱلۡمَأۡوَىٰ"
+    },
+    {
+      "id": "79:40",
+      "surah": 79,
+      "ayahNum": 40,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "hwy",
+          "nfs",
+          "nhy",
+          "qwm",
+          "rbb",
+          "xwf"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "Ean",
+          "hawaA^'",
+          "man",
+          "maqaAm",
+          "nafos",
+          "nahaY`",
+          "rab~",
+          "xaAfa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ"
+    },
+    {
+      "id": "79:41",
+      "surah": 79,
+      "ayahNum": 41,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فَإِنَّ ٱلۡجَنَّةَ هِيَ ٱلۡمَأۡوَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Awy",
+          "jnn"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "hiYa",
+          "jan~ap",
+          "ma>owaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فَإِنَّ ٱلۡجَنَّةَ هِيَ ٱلۡمَأۡوَىٰ"
+    },
+    {
+      "id": "79:42",
+      "surah": 79,
+      "ayahNum": 42,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rsw",
+          "sAl",
+          "swE"
+        ],
+        "lemmas_present": [
+          ">ay~aAn",
+          "Ean",
+          "murosaY`",
+          "sa>ala",
+          "saAEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا"
+    },
+    {
+      "id": "79:43",
+      "surah": 79,
+      "ayahNum": 43,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*kr"
+        ],
+        "lemmas_present": [
+          "*ikoraY`",
+          ">anta",
+          "fiY",
+          "min"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ"
+    },
+    {
+      "id": "79:44",
+      "surah": 79,
+      "ayahNum": 44,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "nhy",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "muntahaY`",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ"
+    },
+    {
+      "id": "79:45",
+      "surah": 79,
+      "ayahNum": 45,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "n*r",
+          "x$y"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">anta",
+          "man",
+          "mun*ir",
+          "xa$iYa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا"
+    },
+    {
+      "id": "79:46",
+      "surah": 79,
+      "ayahNum": 46,
+      "surahName": "An-Naziat",
+      "surahNameArabic": "النازعات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Those Who Drag Forth",
+      "arabicText": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "DHw",
+          "E$w",
+          "lbv",
+          "rAy",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">aw",
+          "DuHFY",
+          "Ea$iy~ap",
+          "ka>an~",
+          "labiva",
+          "lam",
+          "ra'aA",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 81,
+      "learnedState": "new",
+      "text": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا"
+    }
+  ]
+}

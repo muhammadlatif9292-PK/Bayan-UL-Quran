@@ -1,0 +1,1968 @@
+{
+  "ayahs": [
+    {
+      "id": "83:1",
+      "surah": 83,
+      "ayahNum": 1,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Tff"
+        ],
+        "lemmas_present": [
+          "muTaf~ifiyn",
+          "wayol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَيۡلٞ لِّلۡمُطَفِّفِينَ"
+    },
+    {
+      "id": "83:2",
+      "surah": 83,
+      "ayahNum": 2,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kyl",
+          "nws",
+          "wfy"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "EalaY`",
+          "n~aAs",
+          "yasotawofu",
+          "{kotaAlu",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ"
+    },
+    {
+      "id": "83:3",
+      "surah": 83,
+      "ayahNum": 3,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 60,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "kyl",
+          "wzn",
+          "xsr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">aw",
+          "kaAlu",
+          "w~azanu",
+          "yuxosiru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ"
+    },
+    {
+      "id": "83:4",
+      "surah": 83,
+      "ayahNum": 4,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "أَلَا يَظُنُّ أُوْلَـٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Znn",
+          "bEv"
+        ],
+        "lemmas_present": [
+          ">an~",
+          ">uwla`^}ik",
+          "Zan~a",
+          "laA",
+          "m~aboEuwvuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "أَلَا يَظُنُّ أُوْلَـٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ"
+    },
+    {
+      "id": "83:5",
+      "surah": 83,
+      "ayahNum": 5,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "لِيَوۡمٍ عَظِيمٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "EZm",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "EaZiym",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "لِيَوۡمٍ عَظِيمٖ"
+    },
+    {
+      "id": "83:6",
+      "surah": 83,
+      "ayahNum": 6,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعٰلَمِينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "nws",
+          "qwm",
+          "rbb",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "Ea`lamiyn",
+          "n~aAs",
+          "qaAma",
+          "rab~",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ"
+    },
+    {
+      "id": "83:7",
+      "surah": 83,
+      "ayahNum": 7,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "كَلَّآ إِنَّ كِتٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "fjr",
+          "ktb",
+          "sjn"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "fiY",
+          "fuj~aAr",
+          "kal~aA",
+          "kita`b",
+          "sij~iyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ"
+    },
+    {
+      "id": "83:8",
+      "surah": 83,
+      "ayahNum": 8,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dry",
+          "sjn"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "maA",
+          "sij~iyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ"
+    },
+    {
+      "id": "83:9",
+      "surah": 83,
+      "ayahNum": 9,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "كِتٰبٞ مَّرۡقُومٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "ktb",
+          "rqm"
+        ],
+        "lemmas_present": [
+          "kita`b",
+          "m~aroquwm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "كِتَٰبٞ مَّرۡقُومٞ"
+    },
+    {
+      "id": "83:10",
+      "surah": 83,
+      "ayahNum": 10,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b"
+        ],
+        "lemmas_present": [
+          "m~uka*~ibiyn",
+          "wayol",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "83:11",
+      "surah": 83,
+      "ayahNum": 11,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "dyn",
+          "k*b",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "diyn",
+          "ka*~aba",
+          "yawom",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ"
+    },
+    {
+      "id": "83:12",
+      "surah": 83,
+      "ayahNum": 12,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Avm",
+          "Edw",
+          "k*b",
+          "kll"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">aviym",
+          "hi.^",
+          "ka*~aba",
+          "kul~",
+          "maA",
+          "muEotad"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ"
+    },
+    {
+      "id": "83:13",
+      "surah": 83,
+      "ayahNum": 13,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايٰتُنَا قَالَ أَسٰطِيرُ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awl",
+          "Ayy",
+          "qwl",
+          "sTr",
+          "tlw"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "<i*aA",
+          ">asa`Tiyr",
+          ">aw~al",
+          "EalaY`",
+          "qaAla",
+          "talaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "83:14",
+      "surah": 83,
+      "ayahNum": 14,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 37.5,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ksb",
+          "kwn",
+          "qlb",
+          "ryn"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "bal",
+          "kaAna",
+          "kal~aA",
+          "kasaba",
+          "maA",
+          "qalob",
+          "raAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ"
+    },
+    {
+      "id": "83:15",
+      "surah": 83,
+      "ayahNum": 15,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hjb",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ean",
+          "kal~aA",
+          "maHojuwbuwn",
+          "rab~",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ"
+    },
+    {
+      "id": "83:16",
+      "surah": 83,
+      "ayahNum": 16,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Sly",
+          "jHm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "SaAluwA",
+          "jaHiym",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ"
+    },
+    {
+      "id": "83:17",
+      "surah": 83,
+      "ayahNum": 17,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "ثُمَّ يُقَالُ هٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "k*b",
+          "kwn",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "ha`*aA",
+          "hi.",
+          "ka*~aba",
+          "kaAna",
+          "qaAla",
+          "vum~",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ"
+    },
+    {
+      "id": "83:18",
+      "surah": 83,
+      "ayahNum": 18,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "كَلَّآ إِنَّ كِتٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elw",
+          "brr",
+          "ktb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eil~iy~iyn",
+          "bar~",
+          "fiY",
+          "kal~aA",
+          "kita`b"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ"
+    },
+    {
+      "id": "83:19",
+      "surah": 83,
+      "ayahNum": 19,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Elw",
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "Eil~iy~iyn",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ"
+    },
+    {
+      "id": "83:20",
+      "surah": 83,
+      "ayahNum": 20,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "كِتٰبٞ مَّرۡقُومٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "ktb",
+          "rqm"
+        ],
+        "lemmas_present": [
+          "kita`b",
+          "m~aroquwm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "كِتَٰبٞ مَّرۡقُومٞ"
+    },
+    {
+      "id": "83:21",
+      "surah": 83,
+      "ayahNum": 21,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$hd",
+          "qrb"
+        ],
+        "lemmas_present": [
+          "$ahida",
+          "muqar~abuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ"
+    },
+    {
+      "id": "83:22",
+      "surah": 83,
+      "ayahNum": 22,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "brr",
+          "nEm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "bar~",
+          "fiY",
+          "naEiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ"
+    },
+    {
+      "id": "83:23",
+      "surah": 83,
+      "ayahNum": 23,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ark",
+          "nZr"
+        ],
+        "lemmas_present": [
+          ">araA^}ik",
+          "EalaY`",
+          "n~aZara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ"
+    },
+    {
+      "id": "83:24",
+      "surah": 83,
+      "ayahNum": 24,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Erf",
+          "nDr",
+          "nEm",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "Earafa",
+          "fiY",
+          "naDorap",
+          "naEiym",
+          "wajoh"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ"
+    },
+    {
+      "id": "83:25",
+      "surah": 83,
+      "ayahNum": 25,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 226,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "rHq",
+          "sqy",
+          "xtm"
+        ],
+        "lemmas_present": [
+          ">asoqayo",
+          "min",
+          "m~axotuwm",
+          "r~aHiyq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ"
+    },
+    {
+      "id": "83:26",
+      "surah": 83,
+      "ayahNum": 26,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "خِتٰمُهُۥ مِسۡكٞۚ وَفِي ذٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنٰفِسُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "msk",
+          "nfs",
+          "xtm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "fiY",
+          "misok",
+          "mutana`fisuwn",
+          "xita`m",
+          "yatanaAfasi"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "خِتَٰمُهُۥ مِسۡكٞۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ"
+    },
+    {
+      "id": "83:27",
+      "surah": 83,
+      "ayahNum": 27,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "mzj",
+          "snm"
+        ],
+        "lemmas_present": [
+          "min",
+          "mizaAj",
+          "tasoniym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ"
+    },
+    {
+      "id": "83:28",
+      "surah": 83,
+      "ayahNum": 28,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$rb",
+          "Eyn",
+          "qrb"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          "Eayon",
+          "haA",
+          "muqar~abuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ"
+    },
+    {
+      "id": "83:29",
+      "surah": 83,
+      "ayahNum": 29,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 0.875,
+        "verb_count": 4,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Amn",
+          "DHk",
+          "jrm",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "<in~",
+          ">ajoramu",
+          "DaHikato",
+          "kaAna",
+          "min",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ"
+    },
+    {
+      "id": "83:30",
+      "surah": 83,
+      "ayahNum": 30,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "gmz",
+          "mrr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "himo",
+          "mar~a",
+          "yatagaAmazu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ"
+    },
+    {
+      "id": "83:31",
+      "surah": 83,
+      "ayahNum": 31,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ahl",
+          "fkh",
+          "qlb"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "<ilaY`",
+          ">ahol",
+          "fakihiyn",
+          "{nqalaba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ"
+    },
+    {
+      "id": "83:32",
+      "surah": 83,
+      "ayahNum": 32,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Dll",
+          "qwl",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "<in~",
+          "DaA^l~",
+          "ha`*aA",
+          "qaAla",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ"
+    },
+    {
+      "id": "83:33",
+      "surah": 83,
+      "ayahNum": 33,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حٰفِظِينَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "HfZ",
+          "rsl"
+        ],
+        "lemmas_present": [
+          ">arosala",
+          "EalaY`",
+          "Ha`fiZ",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ"
+    },
+    {
+      "id": "83:34",
+      "surah": 83,
+      "ayahNum": 34,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Amn",
+          "DHk",
+          "kfr",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "DaHikato",
+          "kaAfir",
+          "min",
+          "yawom",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ"
+    },
+    {
+      "id": "83:35",
+      "surah": 83,
+      "ayahNum": 35,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ark",
+          "nZr"
+        ],
+        "lemmas_present": [
+          ">araA^}ik",
+          "EalaY`",
+          "n~aZara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ"
+    },
+    {
+      "id": "83:36",
+      "surah": 83,
+      "ayahNum": 36,
+      "surahName": "Al-Mutaffifin",
+      "surahNameArabic": "المطففين",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Defrauding",
+      "arabicText": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 227,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "fEl",
+          "kfr",
+          "kwn",
+          "vwb"
+        ],
+        "lemmas_present": [
+          "faEala",
+          "hal",
+          "kaAfir",
+          "kaAna",
+          "maA",
+          "vuw~iba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 86,
+      "learnedState": "new",
+      "text": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "ayahs": [
+    {
+      "id": "94:1",
+      "surah": 94,
+      "ayahNum": 1,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rH",
+          "Sdr"
+        ],
+        "lemmas_present": [
+          "$araHa",
+          "Sador",
+          "ka",
+          "lam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ"
+    },
+    {
+      "id": "94:2",
+      "surah": 94,
+      "ayahNum": 2,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "wDE",
+          "wzr"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "waDaEa",
+          "wizor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ"
+    },
+    {
+      "id": "94:3",
+      "surah": 94,
+      "ayahNum": 3,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Zhr",
+          "nqD"
+        ],
+        "lemmas_present": [
+          ">anqaDa",
+          "Zahor",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ"
+    },
+    {
+      "id": "94:4",
+      "surah": 94,
+      "ayahNum": 4,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "rfE"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "ka",
+          "rafaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ"
+    },
+    {
+      "id": "94:5",
+      "surah": 94,
+      "ayahNum": 5,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Esr",
+          "ysr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eusor",
+          "maE2",
+          "yusor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا"
+    },
+    {
+      "id": "94:6",
+      "surah": 94,
+      "ayahNum": 6,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Esr",
+          "ysr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eusor",
+          "maE2",
+          "yusor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا"
+    },
+    {
+      "id": "94:7",
+      "surah": 94,
+      "ayahNum": 7,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "frg",
+          "nSb"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "farago",
+          "nuSibato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ"
+    },
+    {
+      "id": "94:8",
+      "surah": 94,
+      "ayahNum": 8,
+      "surahName": "Ash-Sharh",
+      "surahNameArabic": "الشرح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Relief",
+      "arabicText": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 235,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "rbb",
+          "rgb"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "rab~",
+          "yarogabu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 12,
+      "learnedState": "new",
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب"
+    }
+  ]
+}

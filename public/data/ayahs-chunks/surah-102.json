@@ -1,0 +1,421 @@
+{
+  "ayahs": [
+    {
+      "id": "102:1",
+      "surah": 102,
+      "ayahNum": 1,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "kvr",
+          "lhw"
+        ],
+        "lemmas_present": [
+          ">alohaY`",
+          "t~akaAvur"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ"
+    },
+    {
+      "id": "102:2",
+      "surah": 102,
+      "ayahNum": 2,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "qbr",
+          "zwr"
+        ],
+        "lemmas_present": [
+          "Hat~aY`",
+          "maqaAbir",
+          "zuro"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ"
+    },
+    {
+      "id": "102:3",
+      "surah": 102,
+      "ayahNum": 3,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Elm"
+        ],
+        "lemmas_present": [
+          "Ealima",
+          "kal~aA",
+          "sawof"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "كَلَّا سَوۡفَ تَعۡلَمُونَ"
+    },
+    {
+      "id": "102:4",
+      "surah": 102,
+      "ayahNum": 4,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Elm"
+        ],
+        "lemmas_present": [
+          "Ealima",
+          "kal~aA",
+          "sawof",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ"
+    },
+    {
+      "id": "102:5",
+      "surah": 102,
+      "ayahNum": 5,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Elm",
+          "yqn"
+        ],
+        "lemmas_present": [
+          "Ealima",
+          "Eilom",
+          "kal~aA",
+          "law",
+          "yaqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ"
+    },
+    {
+      "id": "102:6",
+      "surah": 102,
+      "ayahNum": 6,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jHm",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "jaHiym",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "لَتَرَوُنَّ ٱلۡجَحِيمَ"
+    },
+    {
+      "id": "102:7",
+      "surah": 102,
+      "ayahNum": 7,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Eyn",
+          "rAy",
+          "yqn"
+        ],
+        "lemmas_present": [
+          "Eayon",
+          "ra'aA",
+          "vum~",
+          "yaqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ"
+    },
+    {
+      "id": "102:8",
+      "surah": 102,
+      "ayahNum": 8,
+      "surahName": "At-Takathur",
+      "surahNameArabic": "التكاثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Rivalry in World",
+      "arabicText": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "nEm",
+          "sAl"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "naEiym",
+          "sa>ala",
+          "vum~",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 16,
+      "learnedState": "new",
+      "text": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ"
+    }
+  ]
+}

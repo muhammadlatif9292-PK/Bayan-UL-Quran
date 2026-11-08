@@ -1,0 +1,592 @@
+{
+  "ayahs": [
+    {
+      "id": "100:1",
+      "surah": 100,
+      "ayahNum": 1,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "وَٱلۡعٰدِيٰتِ ضَبۡحٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "DbH",
+          "Edw"
+        ],
+        "lemmas_present": [
+          "DaboH",
+          "Ea`diya`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا"
+    },
+    {
+      "id": "100:2",
+      "surah": 100,
+      "ayahNum": 2,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "فَٱلۡمُورِيٰتِ قَدۡحٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "qdH",
+          "wry"
+        ],
+        "lemmas_present": [
+          "muwriya`t",
+          "qadoH"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "فَٱلۡمُورِيَٰتِ قَدۡحٗا"
+    },
+    {
+      "id": "100:3",
+      "surah": 100,
+      "ayahNum": 3,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "فَٱلۡمُغِيرٰتِ صُبۡحٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "SbH",
+          "gyr"
+        ],
+        "lemmas_present": [
+          "SuboH",
+          "mugiyra`t"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "فَٱلۡمُغِيرَٰتِ صُبۡحٗا"
+    },
+    {
+      "id": "100:4",
+      "surah": 100,
+      "ayahNum": 4,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "nqE",
+          "vwr"
+        ],
+        "lemmas_present": [
+          ">avaAru",
+          "hi.",
+          "naqoE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا"
+    },
+    {
+      "id": "100:5",
+      "surah": 100,
+      "ayahNum": 5,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "jmE",
+          "wsT"
+        ],
+        "lemmas_present": [
+          "hi.",
+          "jamoE",
+          "wasaTo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "فَوَسَطۡنَ بِهِۦ جَمۡعًا"
+    },
+    {
+      "id": "100:6",
+      "surah": 100,
+      "ayahNum": 6,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "إِنَّ ٱلۡإِنسٰنَ لِرَبِّهِۦ لَكَنُودٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "knd",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "<in~",
+          "kanuwd",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ"
+    },
+    {
+      "id": "100:7",
+      "surah": 100,
+      "ayahNum": 7,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "وَإِنَّهُۥ عَلَىٰ ذٰلِكَ لَشَهِيدٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$hd"
+        ],
+        "lemmas_present": [
+          "$ahiyd",
+          "*a`lik",
+          "<in~",
+          "EalaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ"
+    },
+    {
+      "id": "100:8",
+      "surah": 100,
+      "ayahNum": 8,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$dd",
+          "Hbb",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "$adiyd",
+          "<in~",
+          "Hub~",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ"
+    },
+    {
+      "id": "100:9",
+      "surah": 100,
+      "ayahNum": 9,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "۞أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Elm",
+          "bEvr",
+          "qbr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "Ealima",
+          "buEovira",
+          "fiY",
+          "laA",
+          "maA",
+          "qabor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "۞أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ"
+    },
+    {
+      "id": "100:10",
+      "surah": 100,
+      "ayahNum": 10,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "وَحُصِّلَ مَا فِي ٱلصُّدُورِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "HSl",
+          "Sdr"
+        ],
+        "lemmas_present": [
+          "HuS~ila",
+          "Sador",
+          "fiY",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "وَحُصِّلَ مَا فِي ٱلصُّدُورِ"
+    },
+    {
+      "id": "100:11",
+      "surah": 100,
+      "ayahNum": 11,
+      "surahName": "Al-Adiyat",
+      "surahNameArabic": "العاديات",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Courser",
+      "arabicText": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "rbb",
+          "xbr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "himo",
+          "rab~",
+          "xabiyr",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 14,
+      "learnedState": "new",
+      "text": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ"
+    }
+  ]
+}

@@ -1,0 +1,2942 @@
+{
+  "ayahs": [
+    {
+      "id": "68:1",
+      "surah": 68,
+      "ayahNum": 1,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 203,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "qlm",
+          "sTr"
+        ],
+        "lemmas_present": [
+          "maA",
+          "n^",
+          "qalam",
+          "yasoTuru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ"
+    },
+    {
+      "id": "68:2",
+      "surah": 68,
+      "ayahNum": 2,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 203,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "jnn",
+          "nEm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">anta",
+          "maA",
+          "majonuwn",
+          "niEomap",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونٖ"
+    },
+    {
+      "id": "68:3",
+      "surah": 68,
+      "ayahNum": 3,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 203,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ajr",
+          "gyr",
+          "mnn"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">ajor",
+          "gayor",
+          "ka",
+          "mamonuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ"
+    },
+    {
+      "id": "68:4",
+      "surah": 68,
+      "ayahNum": 4,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 203,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "EZm",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EaZiym",
+          "EalaY`",
+          "xuluq"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ"
+    },
+    {
+      "id": "68:5",
+      "surah": 68,
+      "ayahNum": 5,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "bSr"
+        ],
+        "lemmas_present": [
+          ">aboSara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ"
+    },
+    {
+      "id": "68:6",
+      "surah": 68,
+      "ayahNum": 6,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "بِأَييِّكُمُ ٱلۡمَفۡتُونُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "ftn"
+        ],
+        "lemmas_present": [
+          ">aY~",
+          "mafotuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "بِأَييِّكُمُ ٱلۡمَفۡتُونُ"
+    },
+    {
+      "id": "68:7",
+      "surah": 68,
+      "ayahNum": 7,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 0.9091,
+        "verb_count": 1,
+        "verb_pct": 9.1,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Dll",
+          "Elm",
+          "hdy",
+          "rbb",
+          "sbl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aEolam",
+          "Dal~a",
+          "Ean",
+          "huwa",
+          "man",
+          "m~uhotaduwn",
+          "rab~",
+          "sabiyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ"
+    },
+    {
+      "id": "68:8",
+      "surah": 68,
+      "ayahNum": 8,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "TwE",
+          "k*b"
+        ],
+        "lemmas_present": [
+          ">aTaAEa",
+          "laA",
+          "m~uka*~ibiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ"
+    },
+    {
+      "id": "68:9",
+      "surah": 68,
+      "ayahNum": 9,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 75,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dhn",
+          "wdd"
+        ],
+        "lemmas_present": [
+          "law",
+          "wad~a",
+          "yudohinu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ"
+    },
+    {
+      "id": "68:10",
+      "surah": 68,
+      "ayahNum": 10,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hlf",
+          "TwE",
+          "kll",
+          "mhn"
+        ],
+        "lemmas_present": [
+          ">aTaAEa",
+          "Hal~aAf",
+          "kul~",
+          "laA",
+          "m~ahiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ"
+    },
+    {
+      "id": "68:11",
+      "surah": 68,
+      "ayahNum": 11,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "هَمَّازٖ مَّشَّآءِۭ بِنَمِيمٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "hmz",
+          "m$y",
+          "nmm"
+        ],
+        "lemmas_present": [
+          "ham~aAz",
+          "m~a$~aA^'",
+          "namiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "هَمَّازٖ مَّشَّآءِۭ بِنَمِيمٖ"
+    },
+    {
+      "id": "68:12",
+      "surah": 68,
+      "ayahNum": 12,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 3,
+        "case_distribution": {
+          "Genitive": 4
+        },
+        "roots_present": [
+          "Avm",
+          "Edw",
+          "mnE",
+          "xyr"
+        ],
+        "lemmas_present": [
+          ">aviym",
+          "muEotad",
+          "m~an~aAE",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ"
+    },
+    {
+      "id": "68:13",
+      "surah": 68,
+      "ayahNum": 13,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "عُتُلِّۭ بَعۡدَ ذٰلِكَ زَنِيمٍ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Etl",
+          "bEd",
+          "znm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "Eutul~",
+          "baEod",
+          "zaniym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ"
+    },
+    {
+      "id": "68:14",
+      "surah": 68,
+      "ayahNum": 14,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "bny",
+          "kwn",
+          "mwl"
+        ],
+        "lemmas_present": [
+          "*aA",
+          ">an",
+          "bunaY~",
+          "kaAna",
+          "maAl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَن كَانَ ذَا مَالٖ وَبَنِينَ"
+    },
+    {
+      "id": "68:15",
+      "surah": 68,
+      "ayahNum": 15,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايٰتُنَا قَالَ أَسٰطِيرُ ٱلۡأَوَّلِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Awl",
+          "Ayy",
+          "qwl",
+          "sTr",
+          "tlw"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "<i*aA",
+          ">asa`Tiyr",
+          ">aw~al",
+          "EalaY`",
+          "qaAla",
+          "talaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": "68:16",
+      "surah": 68,
+      "ayahNum": 16,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "wsm",
+          "xrTm"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "nasimu",
+          "xuroTuwm"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ"
+    },
+    {
+      "id": "68:17",
+      "surah": 68,
+      "ayahNum": 17,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "إِنَّا بَلَوۡنٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 40,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SHb",
+          "SbH",
+          "Srm",
+          "blw",
+          "jnn",
+          "qsm"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "<in~",
+          ">aSoHa`b",
+          ">aqosamu",
+          "balawo",
+          "jan~ap",
+          "maA",
+          "muSobiHiyn",
+          "yaSorimu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ"
+    },
+    {
+      "id": "68:18",
+      "surah": 68,
+      "ayahNum": 18,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَلَا يَسۡتَثۡنُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "vny"
+        ],
+        "lemmas_present": [
+          "laA",
+          "yasotavonu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَلَا يَسۡتَثۡنُونَ"
+    },
+    {
+      "id": "68:19",
+      "surah": 68,
+      "ayahNum": 19,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَطَافَ عَلَيۡهَا طَآئِفٞ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Twf",
+          "nwm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "TaA^}if",
+          "TaAfa",
+          "humo",
+          "min",
+          "naA^}imuwn",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَطَافَ عَلَيۡهَا طَآئِفٞ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ"
+    },
+    {
+      "id": "68:20",
+      "surah": 68,
+      "ayahNum": 20,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SbH",
+          "Srm"
+        ],
+        "lemmas_present": [
+          ">aSobaHa",
+          "S~ariym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ"
+    },
+    {
+      "id": "68:21",
+      "surah": 68,
+      "ayahNum": 21,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "SbH",
+          "ndw"
+        ],
+        "lemmas_present": [
+          "muSobiHiyn",
+          "tanaAda"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَتَنَادَوۡاْ مُصۡبِحِينَ"
+    },
+    {
+      "id": "68:22",
+      "surah": 68,
+      "ayahNum": 22,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صٰرِمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hrv",
+          "Srm",
+          "gdw",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "<in",
+          ">an",
+          "EalaY`",
+          "Harov",
+          "Sa`rimiyn",
+          "gada",
+          "kaAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَٰرِمِينَ"
+    },
+    {
+      "id": "68:23",
+      "surah": 68,
+      "ayahNum": 23,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَٱنطَلَقُواْ وَهُمۡ يَتَخٰفَتُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Tlq",
+          "xft"
+        ],
+        "lemmas_present": [
+          "humo",
+          "yataxa`fatu",
+          "{nTalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ"
+    },
+    {
+      "id": "68:24",
+      "surah": 68,
+      "ayahNum": 24,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dxl",
+          "skn",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">an",
+          "EalaY`",
+          "daxala",
+          "laA",
+          "misokiyn",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينٞ"
+    },
+    {
+      "id": "68:25",
+      "surah": 68,
+      "ayahNum": 25,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَغَدَوۡاْ عَلَىٰ حَرۡدٖ قٰدِرِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hrd",
+          "gdw",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "Harod",
+          "gada",
+          "qaAdir"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَغَدَوۡاْ عَلَىٰ حَرۡدٖ قَٰدِرِينَ"
+    },
+    {
+      "id": "68:26",
+      "surah": 68,
+      "ayahNum": 26,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Dll",
+          "qwl",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "DaA^l~",
+          "lam~aA",
+          "qaAla",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ"
+    },
+    {
+      "id": "68:27",
+      "surah": 68,
+      "ayahNum": 27,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hrm"
+        ],
+        "lemmas_present": [
+          "bal",
+          "maHoruwm",
+          "naHonu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ"
+    },
+    {
+      "id": "68:28",
+      "surah": 68,
+      "ayahNum": 28,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qwl",
+          "sbH",
+          "wsT"
+        ],
+        "lemmas_present": [
+          ">awosaT",
+          "kumo",
+          "lam",
+          "lawolaA^",
+          "qaAla",
+          "sab~aHa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ"
+    },
+    {
+      "id": "68:29",
+      "surah": 68,
+      "ayahNum": 29,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "قَالُواْ سُبۡحٰنَ رَبِّنَآ إِنَّا كُنَّا ظٰلِمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Zlm",
+          "kwn",
+          "qwl",
+          "rbb",
+          "sbH"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "ZaAlim",
+          "kaAna",
+          "qaAla",
+          "rab~",
+          "suboHa`n"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "قَالُواْ سُبۡحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ"
+    },
+    {
+      "id": "68:30",
+      "surah": 68,
+      "ayahNum": 30,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلٰوَمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 51,
+      "hizbQuarter": 204,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bED",
+          "lwm",
+          "qbl"
+        ],
+        "lemmas_present": [
+          ">aqobala",
+          "EalaY`",
+          "baEoD",
+          "yatala`wamu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ"
+    },
+    {
+      "id": "68:31",
+      "surah": 68,
+      "ayahNum": 31,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "قَالُواْ يٰوَيۡلَنَآ إِنَّا كُنَّا طٰغِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Tgy",
+          "kwn",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ta`giyn",
+          "kaAna",
+          "qaAla",
+          "wayol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ"
+    },
+    {
+      "id": "68:32",
+      "surah": 68,
+      "ayahNum": 32,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرٗا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا رٰغِبُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 20,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Esy",
+          "bdl",
+          "rbb",
+          "rgb",
+          "xyr"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          ">an",
+          "EasaY",
+          "min",
+          "raAgib",
+          "rab~",
+          "xayor",
+          "yubodila"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرٗا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ"
+    },
+    {
+      "id": "68:33",
+      "surah": 68,
+      "ayahNum": 33,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "كَذٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Axr",
+          "E*b",
+          "Elm",
+          "kbr",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          ">akobar",
+          "A^xir",
+          "Ea*aAb",
+          "Ealima",
+          "kaAna",
+          "law"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "كَذَٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ"
+    },
+    {
+      "id": "68:34",
+      "surah": 68,
+      "ayahNum": 34,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّـٰتِ ٱلنَّعِيمِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "End",
+          "jnn",
+          "nEm",
+          "rbb",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eind",
+          "jan~ap",
+          "mut~aqiyn",
+          "naEiym",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّـٰتِ ٱلنَّعِيمِ"
+    },
+    {
+      "id": "68:35",
+      "surah": 68,
+      "ayahNum": 35,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jEl",
+          "jrm",
+          "slm"
+        ],
+        "lemmas_present": [
+          "jaEala",
+          "mujorim",
+          "musolim"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ"
+    },
+    {
+      "id": "68:36",
+      "surah": 68,
+      "ayahNum": 36,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Hkm",
+          "kyf"
+        ],
+        "lemmas_present": [
+          "Hakama",
+          "kayof",
+          "kumo",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ"
+    },
+    {
+      "id": "68:37",
+      "surah": 68,
+      "ayahNum": 37,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَمۡ لَكُمۡ كِتٰبٞ فِيهِ تَدۡرُسُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "drs",
+          "ktb"
+        ],
+        "lemmas_present": [
+          ">am",
+          "darasu",
+          "fiY",
+          "kita`b",
+          "kumo"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَمۡ لَكُمۡ كِتَٰبٞ فِيهِ تَدۡرُسُونَ"
+    },
+    {
+      "id": "68:38",
+      "surah": 68,
+      "ayahNum": 38,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "xyr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "fiY",
+          "kumo",
+          "maA",
+          "yataxay~aru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ"
+    },
+    {
+      "id": "68:39",
+      "surah": 68,
+      "ayahNum": 39,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَمۡ لَكُمۡ أَيۡمٰنٌ عَلَيۡنَا بٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 12,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 5,
+        "type_token_ratio": 0.9167,
+        "verb_count": 1,
+        "verb_pct": 8.3,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hkm",
+          "blg",
+          "qwm",
+          "ymn",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          ">am",
+          "EalaY`",
+          "Hakama",
+          "ba`ligap",
+          "kumo",
+          "maA",
+          "qiya`map",
+          "yamiyn",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَمۡ لَكُمۡ أَيۡمَٰنٌ عَلَيۡنَا بَٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ"
+    },
+    {
+      "id": "68:40",
+      "surah": 68,
+      "ayahNum": 40,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "سَلۡهُمۡ أَيُّهُم بِذٰلِكَ زَعِيمٌ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "sAl",
+          "zEm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          ">aY~",
+          "sa>ala",
+          "zaEiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ"
+    },
+    {
+      "id": "68:41",
+      "surah": 68,
+      "ayahNum": 41,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صٰدِقِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$rk",
+          "Aty",
+          "Sdq",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "$ariyk",
+          "<in",
+          ">am",
+          ">ataY",
+          "SaAdiq",
+          "humo",
+          "kaAna"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ"
+    },
+    {
+      "id": "68:42",
+      "surah": 68,
+      "ayahNum": 42,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "TwE",
+          "dEw",
+          "k$f",
+          "sjd",
+          "swq",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "Ean",
+          "daEaA",
+          "ka$afa",
+          "laA",
+          "saAq",
+          "s~ujuwd",
+          "yawom",
+          "{sotaTaAEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ"
+    },
+    {
+      "id": "68:43",
+      "surah": 68,
+      "ayahNum": 43,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "خٰشِعَةً أَبۡصٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سٰلِمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 27.3,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*ll",
+          "bSr",
+          "dEw",
+          "kwn",
+          "rhq",
+          "sjd",
+          "slm",
+          "x$E"
+        ],
+        "lemmas_present": [
+          "*il~ap",
+          "<ilaY`",
+          "baSar",
+          "daEaA",
+          "humo",
+          "kaAna",
+          "qad",
+          "sa`limuwn",
+          "s~ujuwd",
+          "xaA$iE",
+          "yarohaqu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ"
+    },
+    {
+      "id": "68:44",
+      "surah": 68,
+      "ayahNum": 44,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَذَرۡنِي وَمَن يُكَذِّبُ بِهٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elm",
+          "Hdv",
+          "Hyv",
+          "drj",
+          "k*b",
+          "w*r"
+        ],
+        "lemmas_present": [
+          "Ealima",
+          "Hadiyv",
+          "Hayov",
+          "ha`*aA",
+          "ka*~aba",
+          "laA",
+          "man",
+          "min",
+          "nasotadoriju",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَذَرۡنِي وَمَن يُكَذِّبُ بِهَٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ"
+    },
+    {
+      "id": "68:45",
+      "surah": 68,
+      "ayahNum": 45,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "kyd",
+          "mlw",
+          "mtn"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">amolaY`",
+          "humo",
+          "kayod",
+          "matiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ"
+    },
+    {
+      "id": "68:46",
+      "surah": 68,
+      "ayahNum": 46,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ajr",
+          "grm",
+          "sAl",
+          "vql"
+        ],
+        "lemmas_present": [
+          ">ajor",
+          ">am",
+          "hum",
+          "min",
+          "m~agoram",
+          "m~uvoqaluwn",
+          "sa>ala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ"
+    },
+    {
+      "id": "68:47",
+      "surah": 68,
+      "ayahNum": 47,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "End",
+          "gyb",
+          "ktb"
+        ],
+        "lemmas_present": [
+          ">am",
+          "Eind",
+          "gayob",
+          "humo",
+          "kataba"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ"
+    },
+    {
+      "id": "68:48",
+      "surah": 68,
+      "ayahNum": 48,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 27.3,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 4,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Hkm",
+          "Hwt",
+          "SHb",
+          "Sbr",
+          "kZm",
+          "kwn",
+          "ndw",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "Hukom",
+          "Huwt",
+          "SaAHib",
+          "Sabara",
+          "huwa",
+          "kaAna",
+          "laA",
+          "makoZuwm",
+          "naAdaY`",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ"
+    },
+    {
+      "id": "68:49",
+      "surah": 68,
+      "ayahNum": 49,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "لَّوۡلَآ أَن تَدٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 20,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "*mm",
+          "Ery",
+          "drk",
+          "nEm",
+          "nb*",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">an",
+          "EaraA^'",
+          "huwa",
+          "lawolaA^",
+          "ma*omuwm",
+          "min",
+          "naba*a",
+          "niEomap",
+          "rab~",
+          "{d~a`raka"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ"
+    },
+    {
+      "id": "68:50",
+      "surah": 68,
+      "ayahNum": 50,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "فَٱجۡتَبٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SlH",
+          "jEl",
+          "jby",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Sa`liH",
+          "jaEala",
+          "min",
+          "rab~",
+          "{jotabaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "فَٱجۡتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ"
+    },
+    {
+      "id": "68:51",
+      "surah": 68,
+      "ayahNum": 51,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 12,
+        "unique_surface_forms": 12,
+        "unique_lemmas": 12,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 5,
+        "verb_pct": 41.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "bSr",
+          "jnn",
+          "kfr",
+          "kwd",
+          "qwl",
+          "smE",
+          "zlq"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "<in",
+          "<in~",
+          "baSar",
+          "kaAda",
+          "kafara",
+          "lam~aA",
+          "majonuwn",
+          "qaAla",
+          "samiEa",
+          "yuzoliqu",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ"
+    },
+    {
+      "id": "68:52",
+      "surah": 68,
+      "ayahNum": 52,
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Pen",
+      "arabicText": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعٰلَمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 52,
+      "hizbQuarter": 205,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*kr",
+          "Elm"
+        ],
+        "lemmas_present": [
+          "*ikor",
+          "<il~aA",
+          "Ea`lamiyn",
+          "huwa",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 2,
+      "learnedState": "new",
+      "text": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ"
+    }
+  ]
+}

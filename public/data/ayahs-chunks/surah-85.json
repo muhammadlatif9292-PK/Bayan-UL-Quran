@@ -1,0 +1,1217 @@
+{
+  "ayahs": [
+    {
+      "id": "85:1",
+      "surah": 85,
+      "ayahNum": 1,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "brj",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "buruwj",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ"
+    },
+    {
+      "id": "85:2",
+      "surah": 85,
+      "ayahNum": 2,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "wEd",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "mawoEuwd",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ"
+    },
+    {
+      "id": "85:3",
+      "surah": 85,
+      "ayahNum": 3,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَشَاهِدٖ وَمَشۡهُودٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$hd"
+        ],
+        "lemmas_present": [
+          "$aAhid",
+          "ma$ohuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَشَاهِدٖ وَمَشۡهُودٖ"
+    },
+    {
+      "id": "85:4",
+      "surah": 85,
+      "ayahNum": 4,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "قُتِلَ أَصۡحٰبُ ٱلۡأُخۡدُودِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SHb",
+          "qtl",
+          "xdd"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          ">uxoduwd",
+          "qatala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ"
+    },
+    {
+      "id": "85:5",
+      "surah": 85,
+      "ayahNum": 5,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "nwr",
+          "wqd"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "naAr",
+          "waquwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ"
+    },
+    {
+      "id": "85:6",
+      "surah": 85,
+      "ayahNum": 6,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qEd"
+        ],
+        "lemmas_present": [
+          "<i*",
+          "EalaY`",
+          "humo",
+          "quEuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ"
+    },
+    {
+      "id": "85:7",
+      "surah": 85,
+      "ayahNum": 7,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$hd",
+          "Amn",
+          "fEl"
+        ],
+        "lemmas_present": [
+          "$aAhid",
+          "EalaY`",
+          "faEala",
+          "humo",
+          "maA",
+          "mu&omin"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ"
+    },
+    {
+      "id": "85:8",
+      "surah": 85,
+      "ayahNum": 8,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللّٰهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 1,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Alh",
+          "Amn",
+          "Ezz",
+          "Hmd",
+          "nqm"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "<il~aA",
+          ">an",
+          "Eaziyz",
+          "Hamiyd",
+          "maA",
+          "min",
+          "naqamu",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ"
+    },
+    {
+      "id": "85:9",
+      "surah": 85,
+      "ayahNum": 9,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمٰوٰتِ وَٱلۡأَرۡضِۚ وَٱللّٰهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 7,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 4
+        },
+        "roots_present": [
+          "$hd",
+          "$yA",
+          "Alh",
+          "ArD",
+          "kll",
+          "mlk",
+          "smw"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "$ahiyd",
+          ">aroD",
+          "EalaY`",
+          "hu,",
+          "kul~",
+          "mulok",
+          "samaA^'",
+          "{ll~ah",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ"
+    },
+    {
+      "id": "85:10",
+      "surah": 85,
+      "ayahNum": 10,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 14,
+        "unique_surface_forms": 13,
+        "unique_lemmas": 12,
+        "unique_roots": 5,
+        "type_token_ratio": 0.9286,
+        "verb_count": 2,
+        "verb_pct": 14.3,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Amn",
+          "E*b",
+          "Hrq",
+          "ftn",
+          "twb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Ea*aAb",
+          "Hariyq",
+          "fatanu",
+          "humo",
+          "jahan~am",
+          "lam",
+          "mu&omin",
+          "m~u&omina`t",
+          "taAba",
+          "vum~",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ"
+    },
+    {
+      "id": "85:11",
+      "surah": 85,
+      "ayahNum": 11,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحٰتِ لَهُمۡ جَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهٰرُۚ ذٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 14,
+        "unique_surface_forms": 14,
+        "unique_lemmas": 14,
+        "unique_roots": 9,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 21.4,
+        "noun_count": 5,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 4,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Amn",
+          "Eml",
+          "SlH",
+          "fwz",
+          "jnn",
+          "jry",
+          "kbr",
+          "nhr",
+          "tHt"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "*a`lik",
+          "<in~",
+          "Eamila",
+          "S~a`liHa`t",
+          "fawoz",
+          "humo",
+          "jan~ap",
+          "jarayo",
+          "kabiyr",
+          "min",
+          "nahar",
+          "taHot",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ جَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ"
+    },
+    {
+      "id": "85:12",
+      "surah": 85,
+      "ayahNum": 12,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$dd",
+          "bT$",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "$adiyd",
+          "<in~",
+          "baTo$",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ"
+    },
+    {
+      "id": "85:13",
+      "surah": 85,
+      "ayahNum": 13,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Ewd",
+          "bdA"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">uEiydu",
+          "huwa",
+          "yubodi}u"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ"
+    },
+    {
+      "id": "85:14",
+      "surah": 85,
+      "ayahNum": 14,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "gfr",
+          "wdd"
+        ],
+        "lemmas_present": [
+          "gafuwr",
+          "huwa",
+          "waduwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ"
+    },
+    {
+      "id": "85:15",
+      "surah": 85,
+      "ayahNum": 15,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Er$",
+          "mjd"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "Earo$",
+          "m~ajiyd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ"
+    },
+    {
+      "id": "85:16",
+      "surah": 85,
+      "ayahNum": 16,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "فَعَّالٞ لِّمَا يُرِيدُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 57,
+      "hizbQuarter": 228,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "fEl",
+          "rwd"
+        ],
+        "lemmas_present": [
+          ">araAda",
+          "faE~aAl",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "فَعَّالٞ لِّمَا يُرِيدُ"
+    },
+    {
+      "id": "85:17",
+      "surah": 85,
+      "ayahNum": 17,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Aty",
+          "Hdv",
+          "jnd"
+        ],
+        "lemmas_present": [
+          ">ataY",
+          "Hadiyv",
+          "hal",
+          "jund"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ"
+    },
+    {
+      "id": "85:18",
+      "surah": 85,
+      "ayahNum": 18,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "فِرۡعَوۡنَ وَثَمُودَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 0,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [],
+        "lemmas_present": [
+          "firoEawon",
+          "vamuwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "فِرۡعَوۡنَ وَثَمُودَ"
+    },
+    {
+      "id": "85:19",
+      "surah": 85,
+      "ayahNum": 19,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "k*b",
+          "kfr"
+        ],
+        "lemmas_present": [
+          "bal",
+          "fiY",
+          "kafara",
+          "tako*iyb",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ"
+    },
+    {
+      "id": "85:20",
+      "surah": 85,
+      "ayahNum": 20,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "وَٱللّٰهُ مِن وَرَآئِهِم مُّحِيطُۢ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "HwT",
+          "wry"
+        ],
+        "lemmas_present": [
+          "min",
+          "muHiyT",
+          "waraA^'",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ"
+    },
+    {
+      "id": "85:21",
+      "surah": 85,
+      "ayahNum": 21,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "mjd",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "bal",
+          "huwa",
+          "m~ajiyd",
+          "quro'aAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ"
+    },
+    {
+      "id": "85:22",
+      "surah": 85,
+      "ayahNum": 22,
+      "surahName": "Al-Buruj",
+      "surahNameArabic": "البروج",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Mansions of the Stars",
+      "arabicText": "فِي لَوۡحٖ مَّحۡفُوظِۭ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "HfZ",
+          "lwH"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "lawoH",
+          "m~aHofuwZ"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 27,
+      "learnedState": "new",
+      "text": "فِي لَوۡحٖ مَّحۡفُوظِۭ"
+    }
+  ]
+}

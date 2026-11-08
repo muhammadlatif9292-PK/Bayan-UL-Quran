@@ -1,0 +1,580 @@
+{
+  "ayahs": [
+    {
+      "id": "101:1",
+      "surah": 101,
+      "ayahNum": 1,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "ٱلۡقَارِعَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qrE"
+        ],
+        "lemmas_present": [
+          "qaAriEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "ٱلۡقَارِعَةُ"
+    },
+    {
+      "id": "101:2",
+      "surah": 101,
+      "ayahNum": 2,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "مَا ٱلۡقَارِعَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 237,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qrE"
+        ],
+        "lemmas_present": [
+          "maA",
+          "qaAriEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "مَا ٱلۡقَارِعَةُ"
+    },
+    {
+      "id": "101:3",
+      "surah": 101,
+      "ayahNum": 3,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dry",
+          "qrE"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "maA",
+          "qaAriEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ"
+    },
+    {
+      "id": "101:4",
+      "surah": 101,
+      "ayahNum": 4,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "bvv",
+          "fr$",
+          "kwn",
+          "nws",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "faraA$",
+          "kaAna",
+          "mabovuwv",
+          "n~aAs",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ"
+    },
+    {
+      "id": "101:5",
+      "surah": 101,
+      "ayahNum": 5,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ehn",
+          "jbl",
+          "kwn",
+          "nf$"
+        ],
+        "lemmas_present": [
+          "Eihon",
+          "jabal",
+          "kaAna",
+          "manfuw$"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ"
+    },
+    {
+      "id": "101:6",
+      "surah": 101,
+      "ayahNum": 6,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "فَأَمَّا مَن ثَقُلَتۡ مَوٰزِينُهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "vql",
+          "wzn"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "man",
+          "miyzaAn",
+          "vaqulato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ"
+    },
+    {
+      "id": "101:7",
+      "surah": 101,
+      "ayahNum": 7,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ey$",
+          "rDw"
+        ],
+        "lemmas_present": [
+          "Eiy$ap",
+          "fiY",
+          "huwa",
+          "raADiyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ"
+    },
+    {
+      "id": "101:8",
+      "surah": 101,
+      "ayahNum": 8,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "وَأَمَّا مَنۡ خَفَّتۡ مَوٰزِينُهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "wzn",
+          "xff"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "man",
+          "miyzaAn",
+          "xaf~ato"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ"
+    },
+    {
+      "id": "101:9",
+      "surah": 101,
+      "ayahNum": 9,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "فَأُمُّهُۥ هَاوِيَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Amm",
+          "hwy"
+        ],
+        "lemmas_present": [
+          ">um~",
+          "haAwiyap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "فَأُمُّهُۥ هَاوِيَةٞ"
+    },
+    {
+      "id": "101:10",
+      "surah": 101,
+      "ayahNum": 10,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "hiyaho",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ"
+    },
+    {
+      "id": "101:11",
+      "surah": 101,
+      "ayahNum": 11,
+      "surahName": "Al-Qaria",
+      "surahNameArabic": "القارعة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Calamity",
+      "arabicText": "نَارٌ حَامِيَةُۢ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Hmy",
+          "nwr"
+        ],
+        "lemmas_present": [
+          "HaAmiyap",
+          "naAr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 30,
+      "learnedState": "new",
+      "text": "نَارٌ حَامِيَةُۢ"
+    }
+  ]
+}

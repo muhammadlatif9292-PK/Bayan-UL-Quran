@@ -1,0 +1,482 @@
+{
+  "ayahs": [
+    {
+      "id": "104:1",
+      "surah": 104,
+      "ayahNum": 1,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "hmz",
+          "kll",
+          "lmz"
+        ],
+        "lemmas_present": [
+          "humazap",
+          "kul~",
+          "l~umazap",
+          "wayol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ"
+    },
+    {
+      "id": "104:2",
+      "surah": 104,
+      "ayahNum": 2,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Edd",
+          "jmE",
+          "mwl"
+        ],
+        "lemmas_present": [
+          "Ead~ada",
+          "jamaEa",
+          "maAl",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ"
+    },
+    {
+      "id": "104:3",
+      "surah": 104,
+      "ayahNum": 3,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hsb",
+          "mwl",
+          "xld"
+        ],
+        "lemmas_present": [
+          ">an~",
+          ">axolada",
+          "Hasiba",
+          "maAl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ"
+    },
+    {
+      "id": "104:4",
+      "surah": 104,
+      "ayahNum": 4,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "HTm",
+          "nb*"
+        ],
+        "lemmas_present": [
+          "HuTamap",
+          "fiY",
+          "kal~aA",
+          "naba*a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ"
+    },
+    {
+      "id": "104:5",
+      "surah": 104,
+      "ayahNum": 5,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "HTm",
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "HuTamap",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ"
+    },
+    {
+      "id": "104:6",
+      "surah": 104,
+      "ayahNum": 6,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "نَارُ ٱللّٰهِ ٱلۡمُوقَدَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "nwr",
+          "wqd"
+        ],
+        "lemmas_present": [
+          "muwqadap",
+          "naAr",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ"
+    },
+    {
+      "id": "104:7",
+      "surah": 104,
+      "ayahNum": 7,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "TlE",
+          "fAd"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "T~alaEa",
+          "fu&aAd",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ"
+    },
+    {
+      "id": "104:8",
+      "surah": 104,
+      "ayahNum": 8,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "wSd"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EalaY`",
+          "m~u&oSadap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ"
+    },
+    {
+      "id": "104:9",
+      "surah": 104,
+      "ayahNum": 9,
+      "surahName": "Al-Humaza",
+      "surahNameArabic": "الهمزة",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Traducer",
+      "arabicText": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Emd",
+          "mdd"
+        ],
+        "lemmas_present": [
+          "Eamad",
+          "fiY",
+          "m~umad~adap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 32,
+      "learnedState": "new",
+      "text": "فِي عَمَدٖ مُّمَدَّدَةِۭ"
+    }
+  ]
+}

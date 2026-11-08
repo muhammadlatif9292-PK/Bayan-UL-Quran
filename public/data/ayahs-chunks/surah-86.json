@@ -1,0 +1,904 @@
+{
+  "ayahs": [
+    {
+      "id": "86:1",
+      "surah": 86,
+      "ayahNum": 1,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Trq",
+          "smw"
+        ],
+        "lemmas_present": [
+          "T~aAriq",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءِ وَٱلطَّارِقِ"
+    },
+    {
+      "id": "86:2",
+      "surah": 86,
+      "ayahNum": 2,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Trq",
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "T~aAriq",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ"
+    },
+    {
+      "id": "86:3",
+      "surah": 86,
+      "ayahNum": 3,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "ٱلنَّجۡمُ ٱلثَّاقِبُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "njm",
+          "vqb"
+        ],
+        "lemmas_present": [
+          "n~ajom",
+          "vaAqib"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "ٱلنَّجۡمُ ٱلثَّاقِبُ"
+    },
+    {
+      "id": "86:4",
+      "surah": 86,
+      "ayahNum": 4,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "HfZ",
+          "kll",
+          "nfs"
+        ],
+        "lemmas_present": [
+          "<in",
+          "EalaY`",
+          "Ha`fiZ",
+          "kul~",
+          "l~am~aA",
+          "nafos"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ"
+    },
+    {
+      "id": "86:5",
+      "surah": 86,
+      "ayahNum": 5,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "فَلۡيَنظُرِ ٱلۡإِنسٰنُ مِمَّ خُلِقَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "nZr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "min",
+          "n~aZara",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ"
+    },
+    {
+      "id": "86:6",
+      "surah": 86,
+      "ayahNum": 6,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "dfq",
+          "mwh",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "daAfiq",
+          "maA^'",
+          "min",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "خُلِقَ مِن مَّآءٖ دَافِقٖ"
+    },
+    {
+      "id": "86:7",
+      "surah": 86,
+      "ayahNum": 7,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Slb",
+          "byn",
+          "trb",
+          "xrj"
+        ],
+        "lemmas_present": [
+          "S~ulob",
+          "bayon",
+          "min",
+          "t~araA^}ib",
+          "xaraja"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ"
+    },
+    {
+      "id": "86:8",
+      "surah": 86,
+      "ayahNum": 8,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qdr",
+          "rjE"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EalaY`",
+          "qaAdir",
+          "rajoE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ"
+    },
+    {
+      "id": "86:9",
+      "surah": 86,
+      "ayahNum": 9,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "blw",
+          "srr",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "balawo",
+          "s~araA^}ir",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ"
+    },
+    {
+      "id": "86:10",
+      "surah": 86,
+      "ayahNum": 10,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "nSr",
+          "qwy"
+        ],
+        "lemmas_present": [
+          "hu,",
+          "laA",
+          "maA",
+          "min",
+          "naASir",
+          "quw~ap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ"
+    },
+    {
+      "id": "86:11",
+      "surah": 86,
+      "ayahNum": 11,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "rjE",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "rajoE",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ"
+    },
+    {
+      "id": "86:12",
+      "surah": 86,
+      "ayahNum": 12,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "ArD",
+          "SdE"
+        ],
+        "lemmas_present": [
+          "*uw",
+          ">aroD",
+          "S~adoE"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ"
+    },
+    {
+      "id": "86:13",
+      "surah": 86,
+      "ayahNum": 13,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "fSl",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "faSol",
+          "qawol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ"
+    },
+    {
+      "id": "86:14",
+      "surah": 86,
+      "ayahNum": 14,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "hzl"
+        ],
+        "lemmas_present": [
+          "hazol",
+          "huwa",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "وَمَا هُوَ بِٱلۡهَزۡلِ"
+    },
+    {
+      "id": "86:15",
+      "surah": 86,
+      "ayahNum": 15,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "kyd"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kayod",
+          "kiydu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا"
+    },
+    {
+      "id": "86:16",
+      "surah": 86,
+      "ayahNum": 16,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "وَأَكِيدُ كَيۡدٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "kyd"
+        ],
+        "lemmas_present": [
+          "kayod",
+          "kiydu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "وَأَكِيدُ كَيۡدٗا"
+    },
+    {
+      "id": "86:17",
+      "surah": 86,
+      "ayahNum": 17,
+      "surahName": "At-Tariq",
+      "surahNameArabic": "الطارق",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Morning Star",
+      "arabicText": "فَمَهِّلِ ٱلۡكٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "kfr",
+          "mhl",
+          "rwd"
+        ],
+        "lemmas_present": [
+          ">amohilo",
+          "ka`firuwn",
+          "mah~ili",
+          "ruwayod"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 36,
+      "learnedState": "new",
+      "text": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا"
+    }
+  ]
+}

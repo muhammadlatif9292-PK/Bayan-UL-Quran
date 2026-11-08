@@ -1,0 +1,282 @@
+{
+  "ayahs": [
+    {
+      "id": "105:1",
+      "surah": 105,
+      "ayahNum": 1,
+      "surahName": "Al-Fil",
+      "surahNameArabic": "الفيل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Elephant",
+      "arabicText": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحٰبِ ٱلۡفِيلِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "fEl",
+          "fyl",
+          "kyf",
+          "rAy",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          "faEala",
+          "fiyl",
+          "kayof",
+          "lam",
+          "ra'aA",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 19,
+      "learnedState": "new",
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ"
+    },
+    {
+      "id": "105:2",
+      "surah": 105,
+      "ayahNum": 2,
+      "surahName": "Al-Fil",
+      "surahNameArabic": "الفيل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Elephant",
+      "arabicText": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Dll",
+          "jEl",
+          "kyd"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "jaEala",
+          "kayod",
+          "lam",
+          "taDoliyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 19,
+      "learnedState": "new",
+      "text": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ"
+    },
+    {
+      "id": "105:3",
+      "surah": 105,
+      "ayahNum": 3,
+      "surahName": "Al-Fil",
+      "surahNameArabic": "الفيل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Elephant",
+      "arabicText": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Abl",
+          "Tyr",
+          "rsl"
+        ],
+        "lemmas_present": [
+          ">abaAbiyl",
+          ">arosala",
+          "EalaY`",
+          "Tayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 19,
+      "learnedState": "new",
+      "text": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ"
+    },
+    {
+      "id": "105:4",
+      "surah": 105,
+      "ayahNum": 4,
+      "surahName": "Al-Fil",
+      "surahNameArabic": "الفيل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Elephant",
+      "arabicText": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Hjr",
+          "rmy",
+          "sjl"
+        ],
+        "lemmas_present": [
+          "HijaArap",
+          "min",
+          "ramaY`",
+          "sij~iyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 19,
+      "learnedState": "new",
+      "text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ"
+    },
+    {
+      "id": "105:5",
+      "surah": 105,
+      "ayahNum": 5,
+      "surahName": "Al-Fil",
+      "surahNameArabic": "الفيل",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Elephant",
+      "arabicText": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Akl",
+          "ESf",
+          "jEl"
+        ],
+        "lemmas_present": [
+          "EaSof",
+          "jaEala",
+          "m~a>okuwl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 19,
+      "learnedState": "new",
+      "text": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ"
+    }
+  ]
+}

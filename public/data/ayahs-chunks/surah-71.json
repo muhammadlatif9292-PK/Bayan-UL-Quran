@@ -1,0 +1,1688 @@
+{
+  "ayahs": [
+    {
+      "id": "71:1",
+      "surah": 71,
+      "ayahNum": 1,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "إِنَّآ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ أَنۡ أَنذِرۡ قَوۡمَكَ مِن قَبۡلِ أَن يَأۡتِيَهُمۡ عَذَابٌ أَلِيمٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 14,
+        "unique_surface_forms": 14,
+        "unique_lemmas": 12,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 21.4,
+        "noun_count": 5,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 2,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Alm",
+          "Aty",
+          "E*b",
+          "n*r",
+          "qbl",
+          "qwm",
+          "rsl"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<in~",
+          ">aliym",
+          ">an",
+          ">an*ara",
+          ">arosala",
+          ">ataY",
+          "Ea*aAb",
+          "min",
+          "nuwH",
+          "qabol",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "إِنَّآ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ أَنۡ أَنذِرۡ قَوۡمَكَ مِن قَبۡلِ أَن يَأۡتِيَهُمۡ عَذَابٌ أَلِيمٞ"
+    },
+    {
+      "id": "71:2",
+      "surah": 71,
+      "ayahNum": 2,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "قَالَ يٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "byn",
+          "n*r",
+          "qwl",
+          "qwm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kumo",
+          "m~ubiyn",
+          "na*iyr",
+          "qaAla",
+          "qawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ"
+    },
+    {
+      "id": "71:3",
+      "surah": 71,
+      "ayahNum": 3,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "أَنِ ٱعۡبُدُواْ ٱللّٰهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 60,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Alh",
+          "Ebd",
+          "TwE",
+          "wqy"
+        ],
+        "lemmas_present": [
+          ">aTaAEa",
+          ">an",
+          "Eabada",
+          "{ll~ah",
+          "{t~aqaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ"
+    },
+    {
+      "id": "71:4",
+      "surah": 71,
+      "ayahNum": 4,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللّٰهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 18,
+        "unique_surface_forms": 18,
+        "unique_lemmas": 16,
+        "unique_roots": 9,
+        "type_token_ratio": 1,
+        "verb_count": 6,
+        "verb_pct": 33.3,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 4,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*nb",
+          "Ajl",
+          "Alh",
+          "Axr",
+          "Elm",
+          "gfr",
+          "jyA",
+          "kwn",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*anb",
+          "<i*aA",
+          "<ilaY`",
+          "<in~",
+          ">ajal",
+          ">ax~ara",
+          "Ealima",
+          "gafara",
+          "jaA^'a",
+          "kaAna",
+          "kum",
+          "laA",
+          "law",
+          "min",
+          "m~usam~FY",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ"
+    },
+    {
+      "id": "71:5",
+      "surah": 71,
+      "ayahNum": 5,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "قَالَ رَبِّ إِنِّي دَعَوۡتُ قَوۡمِي لَيۡلٗا وَنَهَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 4
+        },
+        "roots_present": [
+          "dEw",
+          "lyl",
+          "nhr",
+          "qwl",
+          "qwm",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "daEaA",
+          "layol",
+          "nahaAr",
+          "qaAla",
+          "qawom",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "قَالَ رَبِّ إِنِّي دَعَوۡتُ قَوۡمِي لَيۡلٗا وَنَهَارٗا"
+    },
+    {
+      "id": "71:6",
+      "surah": 71,
+      "ayahNum": 6,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "dEw",
+          "frr",
+          "zyd"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "duEaA^'",
+          "firaAr",
+          "lam",
+          "zaAda"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا"
+    },
+    {
+      "id": "71:7",
+      "surah": 71,
+      "ayahNum": 7,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 14,
+        "unique_surface_forms": 14,
+        "unique_lemmas": 14,
+        "unique_roots": 10,
+        "type_token_ratio": 1,
+        "verb_count": 6,
+        "verb_pct": 42.9,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "A*n",
+          "SbE",
+          "Srr",
+          "dEw",
+          "g$w",
+          "gfr",
+          "jEl",
+          "kbr",
+          "kll",
+          "vwb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aSa`biE",
+          ">aSar~u",
+          ">u*unN",
+          "daEaA",
+          "fiY",
+          "gafara",
+          "humo",
+          "jaEala",
+          "kul~amaA",
+          "viyaAb",
+          "{sotago$a",
+          "{sotakobara",
+          "{sotikobaAr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا"
+    },
+    {
+      "id": "71:8",
+      "surah": 71,
+      "ayahNum": 8,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "dEw",
+          "jhr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "daEaA",
+          "jihaAr",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا"
+    },
+    {
+      "id": "71:9",
+      "surah": 71,
+      "ayahNum": 9,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 0.8571,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eln",
+          "srr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "<isoraAr",
+          ">aEolan",
+          ">asar~a",
+          "humo",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا"
+    },
+    {
+      "id": "71:10",
+      "surah": 71,
+      "ayahNum": 10,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "فَقُلۡتُ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "gfr",
+          "kwn",
+          "qwl",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "gaf~aAr",
+          "kaAna",
+          "qaAla",
+          "rab~",
+          "{sotagofara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "فَقُلۡتُ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارٗا"
+    },
+    {
+      "id": "71:11",
+      "surah": 71,
+      "ayahNum": 11,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "drr",
+          "rsl",
+          "smw"
+        ],
+        "lemmas_present": [
+          ">arosala",
+          "EalaY`",
+          "m~idoraAr",
+          "samaA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا"
+    },
+    {
+      "id": "71:12",
+      "surah": 71,
+      "ayahNum": 12,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَيُمۡدِدۡكُم بِأَمۡوٰلٖ وَبَنِينَ وَيَجۡعَل لَّكُمۡ جَنَّـٰتٖ وَيَجۡعَل لَّكُمۡ أَنۡهٰرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 209,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 6,
+        "type_token_ratio": 0.7778,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "bny",
+          "jEl",
+          "jnn",
+          "mdd",
+          "mwl",
+          "nhr"
+        ],
+        "lemmas_present": [
+          ">amad~a",
+          "bunaY~",
+          "jaEala",
+          "jan~ap",
+          "kumo",
+          "maAl",
+          "nahar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَيُمۡدِدۡكُم بِأَمۡوَٰلٖ وَبَنِينَ وَيَجۡعَل لَّكُمۡ جَنَّـٰتٖ وَيَجۡعَل لَّكُمۡ أَنۡهَٰرٗا"
+    },
+    {
+      "id": "71:13",
+      "surah": 71,
+      "ayahNum": 13,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلّٰهِ وَقَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Alh",
+          "rjw",
+          "wqr"
+        ],
+        "lemmas_present": [
+          "kumo",
+          "laA",
+          "maA",
+          "waqaAr",
+          "yarojuwA@",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا"
+    },
+    {
+      "id": "71:14",
+      "surah": 71,
+      "ayahNum": 14,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Twr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          ">aTowaAr",
+          "qad",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا"
+    },
+    {
+      "id": "71:15",
+      "surah": 71,
+      "ayahNum": 15,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "أَلَمۡ تَرَوۡاْ كَيۡفَ خَلَقَ ٱللّٰهُ سَبۡعَ سَمٰوٰتٖ طِبَاقٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Alh",
+          "Tbq",
+          "kyf",
+          "rAy",
+          "sbE",
+          "smw",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "Tabaq",
+          "kayof",
+          "lam",
+          "ra'aA",
+          "saboE",
+          "samaA^'",
+          "xalaqa",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "أَلَمۡ تَرَوۡاْ كَيۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗا"
+    },
+    {
+      "id": "71:16",
+      "surah": 71,
+      "ayahNum": 16,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَجَعَلَ ٱلۡقَمَرَ فِيهِنَّ نُورٗا وَجَعَلَ ٱلشَّمۡسَ سِرَاجٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 0.8571,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 4
+        },
+        "roots_present": [
+          "$ms",
+          "jEl",
+          "nwr",
+          "qmr",
+          "srj"
+        ],
+        "lemmas_present": [
+          "$amos",
+          "fiY",
+          "jaEala",
+          "nuwr",
+          "qamar",
+          "siraAj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَجَعَلَ ٱلۡقَمَرَ فِيهِنَّ نُورٗا وَجَعَلَ ٱلشَّمۡسَ سِرَاجٗا"
+    },
+    {
+      "id": "71:17",
+      "surah": 71,
+      "ayahNum": 17,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَٱللّٰهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Alh",
+          "ArD",
+          "nbt"
+        ],
+        "lemmas_present": [
+          ">an[bata",
+          ">aroD",
+          "min",
+          "nabaAt",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا"
+    },
+    {
+      "id": "71:18",
+      "surah": 71,
+      "ayahNum": 18,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ewd",
+          "xrj"
+        ],
+        "lemmas_present": [
+          "<ixoraAj",
+          ">axoraja",
+          ">uEiydu",
+          "fiY",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا"
+    },
+    {
+      "id": "71:19",
+      "surah": 71,
+      "ayahNum": 19,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَٱللّٰهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "ArD",
+          "bsT",
+          "jEl"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          "bisaAT",
+          "jaEala",
+          "kumu",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطٗا"
+    },
+    {
+      "id": "71:20",
+      "surah": 71,
+      "ayahNum": 20,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "fjj",
+          "sbl",
+          "slk"
+        ],
+        "lemmas_present": [
+          "faj~",
+          "min",
+          "sabiyl",
+          "salaka"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا"
+    },
+    {
+      "id": "71:21",
+      "surah": 71,
+      "ayahNum": 21,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 13,
+        "unique_surface_forms": 13,
+        "unique_lemmas": 13,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 30.8,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "ESy",
+          "mwl",
+          "qwl",
+          "rbb",
+          "tbE",
+          "wld",
+          "xsr",
+          "zyd"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in~",
+          "EaSaA",
+          "lam",
+          "maAl",
+          "man",
+          "nuwH",
+          "qaAla",
+          "rab~",
+          "walad",
+          "xasaAr",
+          "zaAda",
+          "{t~abaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا"
+    },
+    {
+      "id": "71:22",
+      "surah": 71,
+      "ayahNum": 22,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَمَكَرُواْ مَكۡرٗا كُبَّارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "kbr",
+          "mkr"
+        ],
+        "lemmas_present": [
+          "kub~aAr",
+          "makara",
+          "makor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَمَكَرُواْ مَكۡرٗا كُبَّارٗا"
+    },
+    {
+      "id": "71:23",
+      "surah": 71,
+      "ayahNum": 23,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 13,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 0.7692,
+        "verb_count": 3,
+        "verb_pct": 23.1,
+        "noun_count": 6,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 6
+        },
+        "roots_present": [
+          "Alh",
+          "nsr",
+          "qwl",
+          "swE",
+          "w*r",
+          "wdd"
+        ],
+        "lemmas_present": [
+          "<ila`h",
+          "laA",
+          "nasor",
+          "qaAla",
+          "suwaAE",
+          "wad~",
+          "ya*ara",
+          "yaEuwq",
+          "yaguwv"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا"
+    },
+    {
+      "id": "71:24",
+      "surah": 71,
+      "ayahNum": 24,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَقَدۡ أَضَلُّواْ كَثِيرٗاۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلٰلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Dll",
+          "Zlm",
+          "kvr",
+          "zyd"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">aDal~a",
+          "Dala`l",
+          "ZaAlim",
+          "kaviyr",
+          "laA",
+          "qad",
+          "zaAda"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَقَدۡ أَضَلُّواْ كَثِيرٗاۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَٰلٗا"
+    },
+    {
+      "id": "71:25",
+      "surah": 71,
+      "ayahNum": 25,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "مِّمَّا خَطِيٓـٰٔتِهِمۡ أُغۡرِقُواْ فَأُدۡخِلُواْ نَارٗا فَلَمۡ يَجِدُواْ لَهُم مِّن دُونِ ٱللّٰهِ أَنصَارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 12,
+        "unique_surface_forms": 12,
+        "unique_lemmas": 11,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 25,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Alh",
+          "dwn",
+          "dxl",
+          "grq",
+          "nSr",
+          "nwr",
+          "wjd",
+          "xTA"
+        ],
+        "lemmas_present": [
+          ">udoxila",
+          ">ugoriqu",
+          "duwn",
+          "hum",
+          "lam",
+          "min",
+          "naAr",
+          "naSiyr",
+          "wajada",
+          "xaTiy^_#a`t",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "مِّمَّا خَطِيٓـَٰٔتِهِمۡ أُغۡرِقُواْ فَأُدۡخِلُواْ نَارٗا فَلَمۡ يَجِدُواْ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارٗا"
+    },
+    {
+      "id": "71:26",
+      "surah": 71,
+      "ayahNum": 26,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكٰفِرِينَ دَيَّارًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 20,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 2,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "ArD",
+          "dwr",
+          "kfr",
+          "qwl",
+          "rbb",
+          "w*r"
+        ],
+        "lemmas_present": [
+          ">aroD",
+          "EalaY`",
+          "day~aAr",
+          "ka`firuwn",
+          "laA",
+          "min",
+          "nuwH",
+          "qaAla",
+          "rab~",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا"
+    },
+    {
+      "id": "71:27",
+      "surah": 71,
+      "ayahNum": 27,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا كَفَّارٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 30,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Dll",
+          "Ebd",
+          "fjr",
+          "kfr",
+          "w*r",
+          "wld"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in",
+          "<in~",
+          ">aDal~a",
+          "Eabod",
+          "faAjir",
+          "kaf~aAr",
+          "laA",
+          "walada",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا كَفَّارٗا"
+    },
+    {
+      "id": "71:28",
+      "surah": 71,
+      "ayahNum": 28,
+      "surahName": "Nuh",
+      "surahNameArabic": "نوح",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "Noah",
+      "arabicText": "رَّبِّ ٱغۡفِرۡ لِي وَلِوٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنٗا وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنٰتِۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارَۢا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 210,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 15,
+        "unique_surface_forms": 15,
+        "unique_lemmas": 14,
+        "unique_roots": 9,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 20,
+        "noun_count": 8,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 5,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "Amn",
+          "Zlm",
+          "byt",
+          "dxl",
+          "gfr",
+          "rbb",
+          "tbr",
+          "wld",
+          "zyd"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "Y",
+          "ZaAlim",
+          "bayot",
+          "daxala",
+          "gafara",
+          "laA",
+          "man",
+          "mu&omin",
+          "m~u&omina`t",
+          "rab~",
+          "tabaAr",
+          "wa`liday",
+          "zaAda"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 71,
+      "learnedState": "new",
+      "text": "رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنٗا وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارَۢا"
+    }
+  ]
+}

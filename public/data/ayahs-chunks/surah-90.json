@@ -1,0 +1,1082 @@
+{
+  "ayahs": [
+    {
+      "id": "90:1",
+      "surah": 90,
+      "ayahNum": 1,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "لَآ أُقۡسِمُ بِهٰذَا ٱلۡبَلَدِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "bld",
+          "qsm"
+        ],
+        "lemmas_present": [
+          ">aqosamu",
+          "balad",
+          "ha`*aA",
+          "laA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ"
+    },
+    {
+      "id": "90:2",
+      "surah": 90,
+      "ayahNum": 2,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "وَأَنتَ حِلُّۢ بِهٰذَا ٱلۡبَلَدِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Hll",
+          "bld"
+        ],
+        "lemmas_present": [
+          ">anta",
+          "Hil~",
+          "balad",
+          "ha`*aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ"
+    },
+    {
+      "id": "90:3",
+      "surah": 90,
+      "ayahNum": 3,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "وَوَالِدٖ وَمَا وَلَدَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "wld"
+        ],
+        "lemmas_present": [
+          "maA",
+          "waAlid",
+          "walada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "وَوَالِدٖ وَمَا وَلَدَ"
+    },
+    {
+      "id": "90:4",
+      "surah": 90,
+      "ayahNum": 4,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسٰنَ فِي كَبَدٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ans",
+          "kbd",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "fiY",
+          "kabad",
+          "qad",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ"
+    },
+    {
+      "id": "90:5",
+      "surah": 90,
+      "ayahNum": 5,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "Hsb",
+          "qdr"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          ">an",
+          "EalaY`",
+          "Hasiba",
+          "lan",
+          "qadara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ"
+    },
+    {
+      "id": "90:6",
+      "surah": 90,
+      "ayahNum": 6,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 232,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "hlk",
+          "lbd",
+          "mwl",
+          "qwl"
+        ],
+        "lemmas_present": [
+          ">aholaka",
+          "l~ubad",
+          "maAl",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا"
+    },
+    {
+      "id": "90:7",
+      "surah": 90,
+      "ayahNum": 7,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "AHd",
+          "Hsb",
+          "rAy"
+        ],
+        "lemmas_present": [
+          ">aHad",
+          ">an",
+          "Hasiba",
+          "lam",
+          "ra'aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ"
+    },
+    {
+      "id": "90:8",
+      "surah": 90,
+      "ayahNum": 8,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eyn",
+          "jEl"
+        ],
+        "lemmas_present": [
+          "Eayon",
+          "hu,",
+          "jaEala",
+          "lam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ"
+    },
+    {
+      "id": "90:9",
+      "surah": 90,
+      "ayahNum": 9,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "وَلِسَانٗا وَشَفَتَيۡنِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "$fh",
+          "lsn"
+        ],
+        "lemmas_present": [
+          "$afatayon",
+          "lisaAn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "وَلِسَانٗا وَشَفَتَيۡنِ"
+    },
+    {
+      "id": "90:10",
+      "surah": 90,
+      "ayahNum": 10,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "وَهَدَيۡنٰهُ ٱلنَّجۡدَيۡنِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "hdy",
+          "njd"
+        ],
+        "lemmas_present": [
+          "hadaY",
+          "n~ajodayon"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ"
+    },
+    {
+      "id": "90:11",
+      "surah": 90,
+      "ayahNum": 11,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Eqb",
+          "qHm"
+        ],
+        "lemmas_present": [
+          "Eaqabap",
+          "laA",
+          "{qotaHama"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ"
+    },
+    {
+      "id": "90:12",
+      "surah": 90,
+      "ayahNum": 12,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Eqb",
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "Eaqabap",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ"
+    },
+    {
+      "id": "90:13",
+      "surah": 90,
+      "ayahNum": 13,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "فَكُّ رَقَبَةٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fkk",
+          "rqb"
+        ],
+        "lemmas_present": [
+          "fak~",
+          "raqabap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "فَكُّ رَقَبَةٍ"
+    },
+    {
+      "id": "90:14",
+      "surah": 90,
+      "ayahNum": 14,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "أَوۡ إِطۡعٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 3
+        },
+        "roots_present": [
+          "TEm",
+          "sgb",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "*uw",
+          "<iToEa`m",
+          ">aw",
+          "fiY",
+          "masogabap",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ"
+    },
+    {
+      "id": "90:15",
+      "surah": 90,
+      "ayahNum": 15,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "qrb",
+          "ytm"
+        ],
+        "lemmas_present": [
+          "*aA",
+          "maqorabap",
+          "yatiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "يَتِيمٗا ذَا مَقۡرَبَةٍ"
+    },
+    {
+      "id": "90:16",
+      "surah": 90,
+      "ayahNum": 16,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "skn",
+          "trb"
+        ],
+        "lemmas_present": [
+          "*aA",
+          ">aw",
+          "matorabap",
+          "misokiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ"
+    },
+    {
+      "id": "90:17",
+      "surah": 90,
+      "ayahNum": 17,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 0.8889,
+        "verb_count": 4,
+        "verb_pct": 44.4,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Amn",
+          "Sbr",
+          "kwn",
+          "rHm",
+          "wSy"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "Sabor",
+          "kaAna",
+          "maroHamap",
+          "min",
+          "tawaASa",
+          "vum~",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ"
+    },
+    {
+      "id": "90:18",
+      "surah": 90,
+      "ayahNum": 18,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "أُوْلَـٰٓئِكَ أَصۡحٰبُ ٱلۡمَيۡمَنَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SHb",
+          "ymn"
+        ],
+        "lemmas_present": [
+          ">aSoHa`b",
+          ">uwla`^}ik",
+          "mayomanap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ"
+    },
+    {
+      "id": "90:19",
+      "surah": 90,
+      "ayahNum": 19,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايٰتِنَا هُمۡ أَصۡحٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$Am",
+          "Ayy",
+          "SHb",
+          "kfr"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          ">aSoHa`b",
+          "humo",
+          "kafara",
+          "ma$o_#amap",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ"
+    },
+    {
+      "id": "90:20",
+      "surah": 90,
+      "ayahNum": 20,
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The City",
+      "arabicText": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 233,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "nwr",
+          "wSd"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "m~u&oSadap",
+          "naAr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 35,
+      "learnedState": "new",
+      "text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ"
+    }
+  ]
+}

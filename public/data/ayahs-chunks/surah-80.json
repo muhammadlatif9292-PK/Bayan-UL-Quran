@@ -1,0 +1,2178 @@
+{
+  "ayahs": [
+    {
+      "id": "80:1",
+      "surah": 80,
+      "ayahNum": 1,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "عَبَسَ وَتَوَلَّىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Ebs",
+          "wly"
+        ],
+        "lemmas_present": [
+          "Eabasa",
+          "tawal~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "عَبَسَ وَتَوَلَّىٰٓ"
+    },
+    {
+      "id": "80:2",
+      "surah": 80,
+      "ayahNum": 2,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Emy",
+          "jyA"
+        ],
+        "lemmas_present": [
+          ">aEomaY`",
+          ">an",
+          "jaA^'a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ"
+    },
+    {
+      "id": "80:3",
+      "surah": 80,
+      "ayahNum": 3,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dry",
+          "zkw"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "laEal~",
+          "maA",
+          "tazak~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ"
+    },
+    {
+      "id": "80:4",
+      "surah": 80,
+      "ayahNum": 4,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "nfE"
+        ],
+        "lemmas_present": [
+          "*ikoraY`",
+          ">aw",
+          "nafaEa",
+          "ta*ak~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰٓ"
+    },
+    {
+      "id": "80:5",
+      "surah": 80,
+      "ayahNum": 5,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "gny"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "man",
+          "{sotagonaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ"
+    },
+    {
+      "id": "80:6",
+      "surah": 80,
+      "ayahNum": 6,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Sdy"
+        ],
+        "lemmas_present": [
+          ">anta",
+          "hu,",
+          "taSad~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فَأَنتَ لَهُۥ تَصَدَّىٰ"
+    },
+    {
+      "id": "80:7",
+      "surah": 80,
+      "ayahNum": 7,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "zkw"
+        ],
+        "lemmas_present": [
+          ">an",
+          "EalaY`",
+          "maA",
+          "tazak~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ"
+    },
+    {
+      "id": "80:8",
+      "surah": 80,
+      "ayahNum": 8,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "jyA",
+          "sEy"
+        ],
+        "lemmas_present": [
+          ">am~aA",
+          "jaA^'a",
+          "man",
+          "saEaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ"
+    },
+    {
+      "id": "80:9",
+      "surah": 80,
+      "ayahNum": 9,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَهُوَ يَخۡشَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "x$y"
+        ],
+        "lemmas_present": [
+          "huwa",
+          "xa$iYa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَهُوَ يَخۡشَىٰ"
+    },
+    {
+      "id": "80:10",
+      "surah": 80,
+      "ayahNum": 10,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فَأَنتَ عَنۡهُ تَلَهَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "lhw"
+        ],
+        "lemmas_present": [
+          ">anta",
+          "Ean",
+          "talah~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فَأَنتَ عَنۡهُ تَلَهَّىٰ"
+    },
+    {
+      "id": "80:11",
+      "surah": 80,
+      "ayahNum": 11,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "كَلَّآ إِنَّهَا تَذۡكِرَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 222,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kal~aA",
+          "ta*okirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "كَلَّآ إِنَّهَا تَذۡكِرَةٞ"
+    },
+    {
+      "id": "80:12",
+      "surah": 80,
+      "ayahNum": 12,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "$yA",
+          "*kr"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "*akara",
+          "man"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ"
+    },
+    {
+      "id": "80:13",
+      "surah": 80,
+      "ayahNum": 13,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فِي صُحُفٖ مُّكَرَّمَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHf",
+          "krm"
+        ],
+        "lemmas_present": [
+          "SuHuf",
+          "fiY",
+          "m~ukar~amap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فِي صُحُفٖ مُّكَرَّمَةٖ"
+    },
+    {
+      "id": "80:14",
+      "surah": 80,
+      "ayahNum": 14,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "مَّرۡفُوعَةٖ مُّطَهَّرَةِۭ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 0,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Thr",
+          "rfE"
+        ],
+        "lemmas_present": [
+          "m~arofuwEap",
+          "m~uTah~arap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "مَّرۡفُوعَةٖ مُّطَهَّرَةِۭ"
+    },
+    {
+      "id": "80:15",
+      "surah": 80,
+      "ayahNum": 15,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "بِأَيۡدِي سَفَرَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "sfr",
+          "ydy"
+        ],
+        "lemmas_present": [
+          "safarap",
+          "yad"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "بِأَيۡدِي سَفَرَةٖ"
+    },
+    {
+      "id": "80:16",
+      "surah": 80,
+      "ayahNum": 16,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "كِرَامِۭ بَرَرَةٖ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 0,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "brr",
+          "krm"
+        ],
+        "lemmas_present": [
+          "bar~",
+          "kariym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "كِرَامِۭ بَرَرَةٖ"
+    },
+    {
+      "id": "80:17",
+      "surah": 80,
+      "ayahNum": 17,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "قُتِلَ ٱلۡإِنسٰنُ مَآ أَكۡفَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Ans",
+          "kfr",
+          "qtl"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          ">akofara",
+          "maA",
+          "qatala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ"
+    },
+    {
+      "id": "80:18",
+      "surah": 80,
+      "ayahNum": 18,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$yA",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          ">aY~",
+          "min",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ"
+    },
+    {
+      "id": "80:19",
+      "surah": 80,
+      "ayahNum": 19,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "nTf",
+          "qdr",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "min",
+          "n~uTofap",
+          "qad~ara",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ"
+    },
+    {
+      "id": "80:20",
+      "surah": 80,
+      "ayahNum": 20,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "sbl",
+          "ysr"
+        ],
+        "lemmas_present": [
+          "sabiyl",
+          "vum~",
+          "yas~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ"
+    },
+    {
+      "id": "80:21",
+      "surah": 80,
+      "ayahNum": 21,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "mwt",
+          "qbr"
+        ],
+        "lemmas_present": [
+          ">amaAta",
+          ">aqobara",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ"
+    },
+    {
+      "id": "80:22",
+      "surah": 80,
+      "ayahNum": 22,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "$yA",
+          "n$r"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "<i*aA",
+          ">an$ara",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ"
+    },
+    {
+      "id": "80:23",
+      "surah": 80,
+      "ayahNum": 23,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "كَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Amr",
+          "qDy"
+        ],
+        "lemmas_present": [
+          ">amara",
+          "kal~aA",
+          "lam",
+          "maA",
+          "qaDaY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "كَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ"
+    },
+    {
+      "id": "80:24",
+      "surah": 80,
+      "ayahNum": 24,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فَلۡيَنظُرِ ٱلۡإِنسٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ans",
+          "TEm",
+          "nZr"
+        ],
+        "lemmas_present": [
+          "<ilaY`",
+          "<insa`n",
+          "TaEaAm",
+          "n~aZara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ"
+    },
+    {
+      "id": "80:25",
+      "surah": 80,
+      "ayahNum": 25,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Sbb",
+          "mwh"
+        ],
+        "lemmas_present": [
+          ">an~",
+          "Sab~",
+          "Sab~a",
+          "maA^'"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا"
+    },
+    {
+      "id": "80:26",
+      "surah": 80,
+      "ayahNum": 26,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "$qq",
+          "ArD"
+        ],
+        "lemmas_present": [
+          "$aqaqo",
+          "$aq~",
+          ">aroD",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقّٗا"
+    },
+    {
+      "id": "80:27",
+      "surah": 80,
+      "ayahNum": 27,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Hbb",
+          "nbt"
+        ],
+        "lemmas_present": [
+          ">an[bata",
+          "Hab~",
+          "fiY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا"
+    },
+    {
+      "id": "80:28",
+      "surah": 80,
+      "ayahNum": 28,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَعِنَبٗا وَقَضۡبٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Enb",
+          "qDb"
+        ],
+        "lemmas_present": [
+          "Einab",
+          "qaDob"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَعِنَبٗا وَقَضۡبٗا"
+    },
+    {
+      "id": "80:29",
+      "surah": 80,
+      "ayahNum": 29,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَزَيۡتُونٗا وَنَخۡلٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "nxl",
+          "zyt"
+        ],
+        "lemmas_present": [
+          "naxol",
+          "z~ayotuwn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَزَيۡتُونٗا وَنَخۡلٗا"
+    },
+    {
+      "id": "80:30",
+      "surah": 80,
+      "ayahNum": 30,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَحَدَآئِقَ غُلۡبٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Hdq",
+          "glb"
+        ],
+        "lemmas_present": [
+          "HadaA^}iq",
+          "gulob"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَحَدَآئِقَ غُلۡبٗا"
+    },
+    {
+      "id": "80:31",
+      "surah": 80,
+      "ayahNum": 31,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَفٰكِهَةٗ وَأَبّٗا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Abb",
+          "fkh"
+        ],
+        "lemmas_present": [
+          ">ab~",
+          "fa`kihap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَفَٰكِهَةٗ وَأَبّٗا"
+    },
+    {
+      "id": "80:32",
+      "surah": 80,
+      "ayahNum": 32,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "مَّتٰعٗا لَّكُمۡ وَلِأَنۡعٰمِكُمۡ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "mtE",
+          "nEm"
+        ],
+        "lemmas_present": [
+          "kumo",
+          "mata`E",
+          "n~aEam"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "مَّتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ"
+    },
+    {
+      "id": "80:33",
+      "surah": 80,
+      "ayahNum": 33,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Sxx",
+          "jyA"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "S~aA^x~ap",
+          "jaA^'a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ"
+    },
+    {
+      "id": "80:34",
+      "surah": 80,
+      "ayahNum": 34,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Axw",
+          "frr",
+          "mrA",
+          "ywm"
+        ],
+        "lemmas_present": [
+          ">ax",
+          "far~ato",
+          "maro'",
+          "min",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ"
+    },
+    {
+      "id": "80:35",
+      "surah": 80,
+      "ayahNum": 35,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَأُمِّهِۦ وَأَبِيهِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Abw",
+          "Amm"
+        ],
+        "lemmas_present": [
+          ">abN",
+          ">um~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَأُمِّهِۦ وَأَبِيهِ"
+    },
+    {
+      "id": "80:36",
+      "surah": 80,
+      "ayahNum": 36,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَصٰحِبَتِهِۦ وَبَنِيهِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "SHb",
+          "bny"
+        ],
+        "lemmas_present": [
+          "Sa`Hibap",
+          "bunaY~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ"
+    },
+    {
+      "id": "80:37",
+      "surah": 80,
+      "ayahNum": 37,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 223,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$An",
+          "gny",
+          "kll",
+          "mrA"
+        ],
+        "lemmas_present": [
+          "$a>on",
+          ">agonato",
+          "kul~",
+          "min",
+          "yawoma}i*",
+          "{mori}"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ"
+    },
+    {
+      "id": "80:38",
+      "surah": 80,
+      "ayahNum": 38,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 224,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "sfr",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "m~usofirap",
+          "wajoh",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ"
+    },
+    {
+      "id": "80:39",
+      "surah": 80,
+      "ayahNum": 39,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "ضَاحِكَةٞ مُّسۡتَبۡشِرَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 224,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "DHk",
+          "b$r"
+        ],
+        "lemmas_present": [
+          "DaAHikap",
+          "m~usotabo$irap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "ضَاحِكَةٞ مُّسۡتَبۡشِرَةٞ"
+    },
+    {
+      "id": "80:40",
+      "surah": 80,
+      "ayahNum": 40,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 224,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "gbr",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "gabarap",
+          "wajoh",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ"
+    },
+    {
+      "id": "80:41",
+      "surah": 80,
+      "ayahNum": 41,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "تَرۡهَقُهَا قَتَرَةٌ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 224,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "qtr",
+          "rhq"
+        ],
+        "lemmas_present": [
+          "qatarap",
+          "yarohaqu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "تَرۡهَقُهَا قَتَرَةٌ"
+    },
+    {
+      "id": "80:42",
+      "surah": 80,
+      "ayahNum": 42,
+      "surahName": "Abasa",
+      "surahNameArabic": "عبس",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "He Frowned",
+      "arabicText": "أُوْلَـٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 56,
+      "hizbQuarter": 224,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "fjr",
+          "kfr"
+        ],
+        "lemmas_present": [
+          ">uwla`^}ik",
+          "fuj~aAr",
+          "humu",
+          "kaAfir"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 24,
+      "learnedState": "new",
+      "text": "أُوْلَـٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ"
+    }
+  ]
+}

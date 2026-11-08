@@ -1,0 +1,169 @@
+{
+  "ayahs": [
+    {
+      "id": "103:1",
+      "surah": 103,
+      "ayahNum": 1,
+      "surahName": "Al-Asr",
+      "surahNameArabic": "العصر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Declining Day",
+      "arabicText": "وَٱلۡعَصۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 1,
+        "unique_surface_forms": 1,
+        "unique_lemmas": 1,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ESr"
+        ],
+        "lemmas_present": [
+          "EaSor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 13,
+      "learnedState": "new",
+      "text": "وَٱلۡعَصۡرِ"
+    },
+    {
+      "id": "103:2",
+      "surah": 103,
+      "ayahNum": 2,
+      "surahName": "Al-Asr",
+      "surahNameArabic": "العصر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Declining Day",
+      "arabicText": "إِنَّ ٱلۡإِنسٰنَ لَفِي خُسۡرٍ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Ans",
+          "xsr"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "<in~",
+          "fiY",
+          "xusor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 13,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ"
+    },
+    {
+      "id": "103:3",
+      "surah": 103,
+      "ayahNum": 3,
+      "surahName": "Al-Asr",
+      "surahNameArabic": "العصر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Declining Day",
+      "arabicText": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 60,
+      "hizbQuarter": 238,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 0.8889,
+        "verb_count": 4,
+        "verb_pct": 44.4,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Amn",
+          "Eml",
+          "Hqq",
+          "Sbr",
+          "SlH",
+          "wSy"
+        ],
+        "lemmas_present": [
+          "'aAmana",
+          "<il~aA",
+          "Eamila",
+          "Haq~",
+          "Sabor",
+          "S~a`liHa`t",
+          "tawaASa",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 13,
+      "learnedState": "new",
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ"
+    }
+  ]
+}

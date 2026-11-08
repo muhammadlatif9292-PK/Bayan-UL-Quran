@@ -1,0 +1,1005 @@
+{
+  "ayahs": [
+    {
+      "id": "87:1",
+      "surah": 87,
+      "ayahNum": 1,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Elw",
+          "rbb",
+          "sbH",
+          "smw"
+        ],
+        "lemmas_present": [
+          ">aEolaY`",
+          "rab~",
+          "sab~aHa",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى"
+    },
+    {
+      "id": "87:2",
+      "surah": 87,
+      "ayahNum": 2,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "ٱلَّذِي خَلَقَ فَسَوَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "swy",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "saw~aY`",
+          "xalaqa",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "ٱلَّذِي خَلَقَ فَسَوَّىٰ"
+    },
+    {
+      "id": "87:3",
+      "surah": 87,
+      "ayahNum": 3,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "وَٱلَّذِي قَدَّرَ فَهَدَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 229,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "hdy",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "hadaY",
+          "qad~ara",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "وَٱلَّذِي قَدَّرَ فَهَدَىٰ"
+    },
+    {
+      "id": "87:4",
+      "surah": 87,
+      "ayahNum": 4,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "rEy",
+          "xrj"
+        ],
+        "lemmas_present": [
+          ">axoraja",
+          "maroEaY`",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ"
+    },
+    {
+      "id": "87:5",
+      "surah": 87,
+      "ayahNum": 5,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Hwy",
+          "gvw",
+          "jEl"
+        ],
+        "lemmas_present": [
+          ">aHowaY`",
+          "guvaA^'",
+          "jaEala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ"
+    },
+    {
+      "id": "87:6",
+      "surah": 87,
+      "ayahNum": 6,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "nsy",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "laA",
+          "nasiYa",
+          "nuqori}u"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ"
+    },
+    {
+      "id": "87:7",
+      "surah": 87,
+      "ayahNum": 7,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "إِلَّا مَا شَآءَ ٱللّٰهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "Alh",
+          "Elm",
+          "jhr",
+          "xfy"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "<il~aA",
+          "<in~",
+          "Ealima",
+          "jahor",
+          "maA",
+          "yaxofaY`",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ"
+    },
+    {
+      "id": "87:8",
+      "surah": 87,
+      "ayahNum": 8,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "ysr"
+        ],
+        "lemmas_present": [
+          "yas~ara",
+          "yusoraY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ"
+    },
+    {
+      "id": "87:9",
+      "surah": 87,
+      "ayahNum": 9,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "nfE"
+        ],
+        "lemmas_present": [
+          "*ikoraY`",
+          "*uk~ira",
+          "<in",
+          "nafaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ"
+    },
+    {
+      "id": "87:10",
+      "surah": 87,
+      "ayahNum": 10,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "سَيَذَّكَّرُ مَن يَخۡشَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "*kr",
+          "x$y"
+        ],
+        "lemmas_present": [
+          "man",
+          "ta*ak~ara",
+          "xa$iYa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "سَيَذَّكَّرُ مَن يَخۡشَىٰ"
+    },
+    {
+      "id": "87:11",
+      "surah": 87,
+      "ayahNum": 11,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$qw",
+          "jnb"
+        ],
+        "lemmas_present": [
+          ">a$oqaY",
+          "yatajan~abu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى"
+    },
+    {
+      "id": "87:12",
+      "surah": 87,
+      "ayahNum": 12,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Sly",
+          "kbr",
+          "nwr"
+        ],
+        "lemmas_present": [
+          "kuboraY`",
+          "naAr",
+          "yaSolaY",
+          "{l~a*iY"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ"
+    },
+    {
+      "id": "87:13",
+      "surah": 87,
+      "ayahNum": 13,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Hyy",
+          "mwt"
+        ],
+        "lemmas_present": [
+          "HaY~a",
+          "fiY",
+          "laA",
+          "m~aAta",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ"
+    },
+    {
+      "id": "87:14",
+      "surah": 87,
+      "ayahNum": 14,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "flH",
+          "zkw"
+        ],
+        "lemmas_present": [
+          ">afolaHa",
+          "man",
+          "qad",
+          "tazak~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ"
+    },
+    {
+      "id": "87:15",
+      "surah": 87,
+      "ayahNum": 15,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*kr",
+          "Slw",
+          "rbb",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*akara",
+          "Sal~aY`",
+          "rab~",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ"
+    },
+    {
+      "id": "87:16",
+      "surah": 87,
+      "ayahNum": 16,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Avr",
+          "Hyy",
+          "dnw"
+        ],
+        "lemmas_present": [
+          "A^vara",
+          "Hayaw`p",
+          "bal",
+          "d~unoyaA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا"
+    },
+    {
+      "id": "87:17",
+      "surah": 87,
+      "ayahNum": 17,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3
+        },
+        "roots_present": [
+          "Axr",
+          "bqy",
+          "xyr"
+        ],
+        "lemmas_present": [
+          ">aboqaY`^",
+          "A^xir",
+          "xayor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ"
+    },
+    {
+      "id": "87:18",
+      "surah": 87,
+      "ayahNum": 18,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "إِنَّ هٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Awl",
+          "SHf"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aw~al",
+          "SuHuf",
+          "fiY",
+          "ha`*aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ"
+    },
+    {
+      "id": "87:19",
+      "surah": 87,
+      "ayahNum": 19,
+      "surahName": "Al-Ala",
+      "surahNameArabic": "الأعلى",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Most High",
+      "arabicText": "صُحُفِ إِبۡرٰهِيمَ وَمُوسَىٰ",
+      "transliteration": "",
+      "juz": 30,
+      "hizb": 58,
+      "hizbQuarter": 230,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3
+        },
+        "roots_present": [
+          "SHf"
+        ],
+        "lemmas_present": [
+          "<iboraAhiym",
+          "SuHuf",
+          "muwsaY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 8,
+      "learnedState": "new",
+      "text": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ"
+    }
+  ]
+}

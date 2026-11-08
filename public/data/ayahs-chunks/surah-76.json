@@ -1,0 +1,1890 @@
+{
+  "ayahs": [
+    {
+      "id": "76:1",
+      "surah": 76,
+      "ayahNum": 1,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "هَلۡ أَتَىٰ عَلَى ٱلۡإِنسٰنِ حِينٞ مِّنَ ٱلدَّهۡرِ لَمۡ يَكُن شَيۡـٔٗا مَّذۡكُورًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 11,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 18.2,
+        "noun_count": 4,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "$yA",
+          "*kr",
+          "Ans",
+          "Aty",
+          "Hyn",
+          "dhr",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "$aYo'",
+          "<insa`n",
+          ">ataY",
+          "EalaY`",
+          "Hiyn",
+          "d~ahor",
+          "hal",
+          "kaAna",
+          "lam",
+          "min",
+          "m~a*okuwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "هَلۡ أَتَىٰ عَلَى ٱلۡإِنسَٰنِ حِينٞ مِّنَ ٱلدَّهۡرِ لَمۡ يَكُن شَيۡـٔٗا مَّذۡكُورًا"
+    },
+    {
+      "id": "76:2",
+      "surah": 76,
+      "ayahNum": 2,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّا خَلَقۡنَا ٱلۡإِنسٰنَ مِن نُّطۡفَةٍ أَمۡشَاجٖ نَّبۡتَلِيهِ فَجَعَلۡنٰهُ سَمِيعَۢا بَصِيرًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 8,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 30,
+        "noun_count": 3,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "Ans",
+          "bSr",
+          "blw",
+          "jEl",
+          "m$j",
+          "nTf",
+          "smE",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "<insa`n",
+          "<in~",
+          ">amo$aAj",
+          "baSiyr",
+          "jaEala",
+          "min",
+          "n~uTofap",
+          "samiyE",
+          "xalaqa",
+          "{botalaY`^"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّا خَلَقۡنَا ٱلۡإِنسَٰنَ مِن نُّطۡفَةٍ أَمۡشَاجٖ نَّبۡتَلِيهِ فَجَعَلۡنَٰهُ سَمِيعَۢا بَصِيرًا"
+    },
+    {
+      "id": "76:3",
+      "surah": 76,
+      "ayahNum": 3,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّا هَدَيۡنٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرٗا وَإِمَّا كَفُورًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "$kr",
+          "hdy",
+          "kfr",
+          "sbl"
+        ],
+        "lemmas_present": [
+          "$aAkir",
+          "<im~aA",
+          "<in~",
+          "hadaY",
+          "kafuwr",
+          "sabiyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّا هَدَيۡنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرٗا وَإِمَّا كَفُورًا"
+    },
+    {
+      "id": "76:4",
+      "surah": 76,
+      "ayahNum": 4,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّآ أَعۡتَدۡنَا لِلۡكٰفِرِينَ سَلٰسِلَاْ وَأَغۡلٰلٗا وَسَعِيرًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Etd",
+          "gll",
+          "kfr",
+          "sEr",
+          "slsl"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aEotadato",
+          "gil~",
+          "ka`firuwn",
+          "saEiyr",
+          "silosilap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَلَٰسِلَاْ وَأَغۡلَٰلٗا وَسَعِيرًا"
+    },
+    {
+      "id": "76:5",
+      "surah": 76,
+      "ayahNum": 5,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّ ٱلۡأَبۡرَارَ يَشۡرَبُونَ مِن كَأۡسٖ كَانَ مِزَاجُهَا كَافُورًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$rb",
+          "brr",
+          "kAs",
+          "kfr",
+          "kwn",
+          "mzj"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          "<in~",
+          "bar~",
+          "ka>os",
+          "kaAfuwr",
+          "kaAna",
+          "min",
+          "mizaAj"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّ ٱلۡأَبۡرَارَ يَشۡرَبُونَ مِن كَأۡسٖ كَانَ مِزَاجُهَا كَافُورًا"
+    },
+    {
+      "id": "76:6",
+      "surah": 76,
+      "ayahNum": 6,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "عَيۡنٗا يَشۡرَبُ بِهَا عِبَادُ ٱللّٰهِ يُفَجِّرُونَهَا تَفۡجِيرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rb",
+          "Alh",
+          "Ebd",
+          "Eyn",
+          "fjr"
+        ],
+        "lemmas_present": [
+          "$ariba",
+          "Eabod",
+          "Eayon",
+          "fuj~irato",
+          "haA",
+          "tafojiyr",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "عَيۡنٗا يَشۡرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفۡجِيرٗا"
+    },
+    {
+      "id": "76:7",
+      "surah": 76,
+      "ayahNum": 7,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمٗا كَانَ شَرُّهُۥ مُسۡتَطِيرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$rr",
+          "Tyr",
+          "kwn",
+          "n*r",
+          "wfy",
+          "xwf",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          ">awofaY`",
+          "kaAna",
+          "musotaTiyr",
+          "n~a*or",
+          "xaAfa",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمٗا كَانَ شَرُّهُۥ مُسۡتَطِيرٗا"
+    },
+    {
+      "id": "76:8",
+      "surah": 76,
+      "ayahNum": 8,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 4,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Asr",
+          "Hbb",
+          "TEm",
+          "skn",
+          "ytm"
+        ],
+        "lemmas_present": [
+          ">aToEama",
+          ">asiyr",
+          "EalaY`",
+          "Hub~",
+          "TaEaAm",
+          "misokiyn",
+          "yatiym"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا"
+    },
+    {
+      "id": "76:9",
+      "surah": 76,
+      "ayahNum": 9,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللّٰهِ لَا نُرِيدُ مِنكُمۡ جَزَآءٗ وَلَا شُكُورًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 20,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "$kr",
+          "Alh",
+          "TEm",
+          "jzy",
+          "rwd",
+          "wjh"
+        ],
+        "lemmas_present": [
+          "$ukuwr",
+          "<in~",
+          ">aToEama",
+          ">araAda",
+          "jazaA^'",
+          "laA",
+          "min",
+          "wajoh",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِيدُ مِنكُمۡ جَزَآءٗ وَلَا شُكُورًا"
+    },
+    {
+      "id": "76:10",
+      "surah": 76,
+      "ayahNum": 10,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسٗا قَمۡطَرِيرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 14.3,
+        "noun_count": 2,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 3
+        },
+        "roots_present": [
+          "Ebs",
+          "qmTr",
+          "rbb",
+          "xwf",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "Eabuws",
+          "min",
+          "qamoTariyr",
+          "rab~",
+          "xaAfa",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسٗا قَمۡطَرِيرٗا"
+    },
+    {
+      "id": "76:11",
+      "surah": 76,
+      "ayahNum": 11,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "فَوَقَىٰهُمُ ٱللّٰهُ شَرَّ ذٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةٗ وَسُرُورٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$rr",
+          "Alh",
+          "lqy",
+          "nDr",
+          "srr",
+          "wqy",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "$ar~",
+          "*a`lik",
+          "laq~aY`",
+          "naDorap",
+          "suruwr",
+          "waqaY`",
+          "yawom",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةٗ وَسُرُورٗا"
+    },
+    {
+      "id": "76:12",
+      "surah": 76,
+      "ayahNum": 12,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةٗ وَحَرِيرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Hrr",
+          "Sbr",
+          "jnn",
+          "jzy"
+        ],
+        "lemmas_present": [
+          "Hariyr",
+          "Sabara",
+          "jan~ap",
+          "jazaY`",
+          "maA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةٗ وَحَرِيرٗا"
+    },
+    {
+      "id": "76:13",
+      "surah": 76,
+      "ayahNum": 13,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسٗا وَلَا زَمۡهَرِيرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 8,
+        "unique_roots": 5,
+        "type_token_ratio": 0.9,
+        "verb_count": 1,
+        "verb_pct": 10,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$ms",
+          "Ark",
+          "rAy",
+          "wkA",
+          "zmhr"
+        ],
+        "lemmas_present": [
+          "$amos",
+          ">araA^}ik",
+          "EalaY`",
+          "fiY",
+          "laA",
+          "mut~aki_#iyn",
+          "ra'aA",
+          "zamohariyr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسٗا وَلَا زَمۡهَرِيرٗا"
+    },
+    {
+      "id": "76:14",
+      "surah": 76,
+      "ayahNum": 14,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَدَانِيَةً عَلَيۡهِمۡ ظِلٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِيلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 2
+        },
+        "roots_present": [
+          "*ll",
+          "Zll",
+          "dnw",
+          "qTf"
+        ],
+        "lemmas_present": [
+          "*ul~ilato",
+          "EalaY`",
+          "Zil~",
+          "daAniyap",
+          "quTuwf",
+          "ta*oliyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَدَانِيَةً عَلَيۡهِمۡ ظِلَٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِيلٗا"
+    },
+    {
+      "id": "76:15",
+      "surah": 76,
+      "ayahNum": 15,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَيُطَافُ عَلَيۡهِم بِـَٔانِيَةٖ مِّن فِضَّةٖ وَأَكۡوَابٖ كَانَتۡ قَوَارِيرَا۠",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 3,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Any",
+          "Twf",
+          "fDD",
+          "kwb",
+          "kwn",
+          "qrr"
+        ],
+        "lemmas_present": [
+          "'aAniyap",
+          ">akowaAb",
+          "EalaY`",
+          "TaAfa",
+          "fiD~ap",
+          "kaAna",
+          "min",
+          "qawaAriyraA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَيُطَافُ عَلَيۡهِم بِـَٔانِيَةٖ مِّن فِضَّةٖ وَأَكۡوَابٖ كَانَتۡ قَوَارِيرَا۠"
+    },
+    {
+      "id": "76:16",
+      "surah": 76,
+      "ayahNum": 16,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "قَوَارِيرَاْ مِن فِضَّةٖ قَدَّرُوهَا تَقۡدِيرٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "fDD",
+          "qdr",
+          "qrr"
+        ],
+        "lemmas_present": [
+          "fiD~ap",
+          "min",
+          "qad~ara",
+          "qawaAriyraA",
+          "taqodiyr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "قَوَارِيرَاْ مِن فِضَّةٖ قَدَّرُوهَا تَقۡدِيرٗا"
+    },
+    {
+      "id": "76:17",
+      "surah": 76,
+      "ayahNum": 17,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَيُسۡقَوۡنَ فِيهَا كَأۡسٗا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "kAs",
+          "kwn",
+          "mzj",
+          "sqy"
+        ],
+        "lemmas_present": [
+          ">asoqayo",
+          "fiY",
+          "ka>os",
+          "kaAna",
+          "mizaAj",
+          "zanjabiyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَيُسۡقَوۡنَ فِيهَا كَأۡسٗا كَانَ مِزَاجُهَا زَنجَبِيلًا"
+    },
+    {
+      "id": "76:18",
+      "surah": 76,
+      "ayahNum": 18,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "عَيۡنٗا فِيهَا تُسَمَّىٰ سَلۡسَبِيلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Eyn",
+          "smw"
+        ],
+        "lemmas_present": [
+          "Eayon",
+          "fiY",
+          "salosabiyl",
+          "sam~aY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "عَيۡنٗا فِيهَا تُسَمَّىٰ سَلۡسَبِيلٗا"
+    },
+    {
+      "id": "76:19",
+      "surah": 76,
+      "ayahNum": 19,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "۞وَيَطُوفُ عَلَيۡهِمۡ وِلۡدٰنٞ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤٗا مَّنثُورٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 33.3,
+        "noun_count": 2,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Nominative": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Hsb",
+          "Twf",
+          "lAlA",
+          "nvr",
+          "rAy",
+          "wld",
+          "xld"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "EalaY`",
+          "Hasiba",
+          "TaAfa",
+          "lu&olu&",
+          "m~anvuwr",
+          "m~uxal~aduwn",
+          "ra'aA",
+          "waliyd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "۞وَيَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤٗا مَّنثُورٗا"
+    },
+    {
+      "id": "76:20",
+      "surah": 76,
+      "ayahNum": 20,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَإِذَا رَأَيۡتَ ثَمَّ رَأَيۡتَ نَعِيمٗا وَمُلۡكٗا كَبِيرًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 0.8571,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "kbr",
+          "mlk",
+          "nEm",
+          "rAy"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "kabiyr",
+          "mulok",
+          "naEiym",
+          "ra'aA",
+          "vam~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَإِذَا رَأَيۡتَ ثَمَّ رَأَيۡتَ نَعِيمٗا وَمُلۡكٗا كَبِيرًا"
+    },
+    {
+      "id": "76:21",
+      "surah": 76,
+      "ayahNum": 21,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "عٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 13,
+        "unique_surface_forms": 13,
+        "unique_lemmas": 13,
+        "unique_roots": 10,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 15.4,
+        "noun_count": 8,
+        "adjective_count": 2,
+        "case_distribution": {
+          "Accusative": 4,
+          "Nominative": 4,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$rb",
+          "Elw",
+          "Hly",
+          "Thr",
+          "fDD",
+          "rbb",
+          "sqy",
+          "swr",
+          "vwb",
+          "xDr"
+        ],
+        "lemmas_present": [
+          "$araAb",
+          "<isotaboraq",
+          ">asaAwir",
+          "EaAliy",
+          "Hul~u",
+          "Tahuwr",
+          "fiD~ap",
+          "min",
+          "rab~",
+          "saqaY`",
+          "sundus",
+          "viyaAb",
+          "xuDor"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا"
+    },
+    {
+      "id": "76:22",
+      "surah": 76,
+      "ayahNum": 22,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّ هٰذَا كَانَ لَكُمۡ جَزَآءٗ وَكَانَ سَعۡيُكُم مَّشۡكُورًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 216,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 7,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "$kr",
+          "jzy",
+          "kwn",
+          "sEy"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "ha`*aA",
+          "jazaA^'",
+          "kaAna",
+          "kumo",
+          "m~a$okuwr",
+          "saEoy"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّ هَٰذَا كَانَ لَكُمۡ جَزَآءٗ وَكَانَ سَعۡيُكُم مَّشۡكُورًا"
+    },
+    {
+      "id": "76:23",
+      "surah": 76,
+      "ayahNum": 23,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 16.7,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "nzl",
+          "qrA"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "EalaY`",
+          "naHonu",
+          "naz~ala",
+          "quro'aAn",
+          "tanziyl"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلٗا"
+    },
+    {
+      "id": "76:24",
+      "surah": 76,
+      "ayahNum": 24,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ ءَاثِمًا أَوۡ كَفُورٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Avm",
+          "Hkm",
+          "Sbr",
+          "TwE",
+          "kfr",
+          "rbb"
+        ],
+        "lemmas_present": [
+          ">aTaAEa",
+          ">aw",
+          "A^vim",
+          "Hukom",
+          "Sabara",
+          "kafuwr",
+          "laA",
+          "min",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ ءَاثِمًا أَوۡ كَفُورٗا"
+    },
+    {
+      "id": "76:25",
+      "surah": 76,
+      "ayahNum": 25,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةٗ وَأَصِيلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "*kr",
+          "ASl",
+          "bkr",
+          "rbb",
+          "smw"
+        ],
+        "lemmas_present": [
+          "*akara",
+          ">aSiyl",
+          "bukorap",
+          "rab~",
+          "{som"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةٗ وَأَصِيلٗا"
+    },
+    {
+      "id": "76:26",
+      "surah": 76,
+      "ayahNum": 26,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 6,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 28.6,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Twl",
+          "lyl",
+          "sbH",
+          "sjd"
+        ],
+        "lemmas_present": [
+          "Tawiyl",
+          "hu,",
+          "layol",
+          "min",
+          "sab~aHa",
+          "sajada"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا"
+    },
+    {
+      "id": "76:27",
+      "surah": 76,
+      "ayahNum": 27,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّ هَـٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمٗا ثَقِيلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 8,
+        "unique_surface_forms": 8,
+        "unique_lemmas": 8,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 4
+        },
+        "roots_present": [
+          "Ejl",
+          "Hbb",
+          "vql",
+          "w*r",
+          "wry",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "<in~",
+          ">aHobabo",
+          "EaAjilapN",
+          "ha`*aA",
+          "vaqiyl",
+          "waraA^'",
+          "ya*ara",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّ هَـٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمٗا ثَقِيلٗا"
+    },
+    {
+      "id": "76:28",
+      "surah": 76,
+      "ayahNum": 28,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "نَّحۡنُ خَلَقۡنٰهُمۡ وَشَدَدۡنَآ أَسۡرَهُمۡۖ وَإِذَا شِئۡنَا بَدَّلۡنَآ أَمۡثٰلَهُمۡ تَبۡدِيلًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 4,
+        "verb_pct": 44.4,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 3
+        },
+        "roots_present": [
+          "$dd",
+          "$yA",
+          "Asr",
+          "bdl",
+          "mvl",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "$adado",
+          "<i*aA",
+          ">asor",
+          "bad~ala",
+          "maval",
+          "n~aHonu",
+          "tabodiyl",
+          "xalaqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "نَّحۡنُ خَلَقۡنَٰهُمۡ وَشَدَدۡنَآ أَسۡرَهُمۡۖ وَإِذَا شِئۡنَا بَدَّلۡنَآ أَمۡثَٰلَهُمۡ تَبۡدِيلًا"
+    },
+    {
+      "id": "76:29",
+      "surah": 76,
+      "ayahNum": 29,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "إِنَّ هٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "$yA",
+          "*kr",
+          "Ax*",
+          "rbb",
+          "sbl"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "<ilaY`",
+          "<in~",
+          "ha`*aA",
+          "man",
+          "rab~",
+          "sabiyl",
+          "ta*okirap",
+          "{t~axa*a"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا"
+    },
+    {
+      "id": "76:30",
+      "surah": 76,
+      "ayahNum": 30,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللّٰهُۚ إِنَّ ٱللّٰهَ كَانَ عَلِيمًا حَكِيمٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 9,
+        "unique_roots": 5,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 27.3,
+        "noun_count": 4,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Accusative": 3
+        },
+        "roots_present": [
+          "$yA",
+          "Alh",
+          "Elm",
+          "Hkm",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "<il~aA",
+          "<in~",
+          ">an",
+          "Ealiym",
+          "Hakiym",
+          "kaAna",
+          "maA",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا"
+    },
+    {
+      "id": "76:31",
+      "surah": 76,
+      "ayahNum": 31,
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الإنسان",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Human",
+      "arabicText": "يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 55,
+      "hizbQuarter": 217,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 10,
+        "unique_surface_forms": 10,
+        "unique_lemmas": 10,
+        "unique_roots": 7,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 30,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 3
+        },
+        "roots_present": [
+          "$yA",
+          "Alm",
+          "E*b",
+          "Edd",
+          "Zlm",
+          "dxl",
+          "rHm"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          ">aEad~a",
+          ">aliym",
+          ">udoxila",
+          "Ea*aAb",
+          "ZaAlim",
+          "fiY",
+          "humo",
+          "man",
+          "raHomap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Medinan",
+      "revelationOrder": 98,
+      "learnedState": "new",
+      "text": "يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا"
+    }
+  ]
+}

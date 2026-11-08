@@ -1,0 +1,3013 @@
+{
+  "ayahs": [
+    {
+      "id": "74:1",
+      "surah": 74,
+      "ayahNum": 1,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "يَـٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "dvr"
+        ],
+        "lemmas_present": [
+          ">ay~uhaA",
+          "mud~av~ir"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "يَـٰٓأَيُّهَا ٱلۡمُدَّثِّرُ"
+    },
+    {
+      "id": "74:2",
+      "surah": 74,
+      "ayahNum": 2,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "قُمۡ فَأَنذِرۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 100,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "n*r",
+          "qwm"
+        ],
+        "lemmas_present": [
+          ">an*ara",
+          "qaAma"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "قُمۡ فَأَنذِرۡ"
+    },
+    {
+      "id": "74:3",
+      "surah": 74,
+      "ayahNum": 3,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَرَبَّكَ فَكَبِّرۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "kbr",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "kab~iro",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَرَبَّكَ فَكَبِّرۡ"
+    },
+    {
+      "id": "74:4",
+      "surah": 74,
+      "ayahNum": 4,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَثِيَابَكَ فَطَهِّرۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Thr",
+          "vwb"
+        ],
+        "lemmas_present": [
+          "Tah~ara",
+          "viyaAb"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَثِيَابَكَ فَطَهِّرۡ"
+    },
+    {
+      "id": "74:5",
+      "surah": 74,
+      "ayahNum": 5,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَٱلرُّجۡزَ فَٱهۡجُرۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "hjr",
+          "rjz"
+        ],
+        "lemmas_present": [
+          "r~ujoz",
+          "{hojuro"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَٱلرُّجۡزَ فَٱهۡجُرۡ"
+    },
+    {
+      "id": "74:6",
+      "surah": 74,
+      "ayahNum": 6,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "kvr",
+          "mnn"
+        ],
+        "lemmas_present": [
+          "laA",
+          "man~a",
+          "{sotakovaro"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ"
+    },
+    {
+      "id": "74:7",
+      "surah": 74,
+      "ayahNum": 7,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَلِرَبِّكَ فَٱصۡبِرۡ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Sbr",
+          "rbb"
+        ],
+        "lemmas_present": [
+          "Sabara",
+          "rab~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَلِرَبِّكَ فَٱصۡبِرۡ"
+    },
+    {
+      "id": "74:8",
+      "surah": 74,
+      "ayahNum": 8,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "nqr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          "fiY",
+          "nuqira",
+          "n~aAquwr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ"
+    },
+    {
+      "id": "74:9",
+      "surah": 74,
+      "ayahNum": 9,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَذٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Esr",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "*a`lik",
+          "Easiyr",
+          "yawom",
+          "yawoma}i*"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ"
+    },
+    {
+      "id": "74:10",
+      "surah": 74,
+      "ayahNum": 10,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "عَلَى ٱلۡكٰفِرِينَ غَيۡرُ يَسِيرٖ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2,
+          "Nominative": 1
+        },
+        "roots_present": [
+          "gyr",
+          "kfr",
+          "ysr"
+        ],
+        "lemmas_present": [
+          "EalaY`",
+          "gayor",
+          "ka`firuwn",
+          "yasiyr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرٖ"
+    },
+    {
+      "id": "74:11",
+      "surah": 74,
+      "ayahNum": 11,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "w*r",
+          "wHd",
+          "xlq"
+        ],
+        "lemmas_present": [
+          "man",
+          "waHiyd",
+          "xalaqa",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا"
+    },
+    {
+      "id": "74:12",
+      "surah": 74,
+      "ayahNum": 12,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "jEl",
+          "mdd",
+          "mwl"
+        ],
+        "lemmas_present": [
+          "hu,",
+          "jaEala",
+          "maAl",
+          "m~amoduwd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا"
+    },
+    {
+      "id": "74:13",
+      "surah": 74,
+      "ayahNum": 13,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَبَنِينَ شُهُودٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "$hd",
+          "bny"
+        ],
+        "lemmas_present": [
+          "$aAhid",
+          "bunaY~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَبَنِينَ شُهُودٗا"
+    },
+    {
+      "id": "74:14",
+      "surah": 74,
+      "ayahNum": 14,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 53,
+      "hizbQuarter": 212,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "mhd"
+        ],
+        "lemmas_present": [
+          "hu,",
+          "mah~ad",
+          "tamohiyd"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا"
+    },
+    {
+      "id": "74:15",
+      "surah": 74,
+      "ayahNum": 15,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "TmE",
+          "zyd"
+        ],
+        "lemmas_present": [
+          ">an",
+          "vum~",
+          "yaTomaEu",
+          "zaAda"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ"
+    },
+    {
+      "id": "74:16",
+      "surah": 74,
+      "ayahNum": 16,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيٰتِنَا عَنِيدٗا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Ayy",
+          "End",
+          "kwn"
+        ],
+        "lemmas_present": [
+          "'aAyap",
+          "<in~",
+          "Eaniyd",
+          "kaAna",
+          "kal~aA"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدٗا"
+    },
+    {
+      "id": "74:17",
+      "surah": 74,
+      "ayahNum": 17,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "سَأُرۡهِقُهُۥ صَعُودًا",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "SEd",
+          "rhq"
+        ],
+        "lemmas_present": [
+          "SaEuwd",
+          "yurohiqa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "سَأُرۡهِقُهُۥ صَعُودًا"
+    },
+    {
+      "id": "74:18",
+      "surah": 74,
+      "ayahNum": 18,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "fkr",
+          "qdr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "fak~ara",
+          "qad~ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ"
+    },
+    {
+      "id": "74:19",
+      "surah": 74,
+      "ayahNum": 19,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَقُتِلَ كَيۡفَ قَدَّرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "kyf",
+          "qdr",
+          "qtl"
+        ],
+        "lemmas_present": [
+          "kayof",
+          "qad~ara",
+          "qatala"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَقُتِلَ كَيۡفَ قَدَّرَ"
+    },
+    {
+      "id": "74:20",
+      "surah": 74,
+      "ayahNum": 20,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "kyf",
+          "qdr",
+          "qtl"
+        ],
+        "lemmas_present": [
+          "kayof",
+          "qad~ara",
+          "qatala",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ"
+    },
+    {
+      "id": "74:21",
+      "surah": 74,
+      "ayahNum": 21,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "ثُمَّ نَظَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "nZr"
+        ],
+        "lemmas_present": [
+          "n~aZara",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "ثُمَّ نَظَرَ"
+    },
+    {
+      "id": "74:22",
+      "surah": 74,
+      "ayahNum": 22,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "Ebs",
+          "bsr"
+        ],
+        "lemmas_present": [
+          "Eabasa",
+          "basara",
+          "vum~"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "ثُمَّ عَبَسَ وَبَسَرَ"
+    },
+    {
+      "id": "74:23",
+      "surah": 74,
+      "ayahNum": 23,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "dbr",
+          "kbr"
+        ],
+        "lemmas_present": [
+          ">adobara",
+          "vum~",
+          "{sotakobara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ"
+    },
+    {
+      "id": "74:24",
+      "surah": 74,
+      "ayahNum": 24,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَقَالَ إِنۡ هٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 6,
+        "unique_surface_forms": 6,
+        "unique_lemmas": 6,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Avr",
+          "qwl",
+          "sHr"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in",
+          "ha`*aA",
+          "qaAla",
+          "siHor",
+          "yu&ovaru"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ"
+    },
+    {
+      "id": "74:25",
+      "surah": 74,
+      "ayahNum": 25,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "إِنۡ هٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "b$r",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          "<in",
+          "ba$ar",
+          "ha`*aA",
+          "qawol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ"
+    },
+    {
+      "id": "74:26",
+      "surah": 74,
+      "ayahNum": 26,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "سَأُصۡلِيهِ سَقَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Sly"
+        ],
+        "lemmas_present": [
+          ">uSoliy",
+          "saqar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "سَأُصۡلِيهِ سَقَرَ"
+    },
+    {
+      "id": "74:27",
+      "surah": 74,
+      "ayahNum": 27,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "dry"
+        ],
+        "lemmas_present": [
+          ">adoraY`",
+          "maA",
+          "saqar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ"
+    },
+    {
+      "id": "74:28",
+      "surah": 74,
+      "ayahNum": 28,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "لَا تُبۡقِي وَلَا تَذَرُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "bqy",
+          "w*r"
+        ],
+        "lemmas_present": [
+          "laA",
+          "tuboqiY",
+          "ya*ara"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "لَا تُبۡقِي وَلَا تَذَرُ"
+    },
+    {
+      "id": "74:29",
+      "surah": 74,
+      "ayahNum": 29,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "لَوَّاحَةٞ لِّلۡبَشَرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "b$r",
+          "lwH"
+        ],
+        "lemmas_present": [
+          "ba$ar",
+          "law~aAHap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "لَوَّاحَةٞ لِّلۡبَشَرِ"
+    },
+    {
+      "id": "74:30",
+      "surah": 74,
+      "ayahNum": 30,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 2
+        },
+        "roots_present": [
+          "E$r",
+          "tsE"
+        ],
+        "lemmas_present": [
+          "Ea$ar",
+          "EalaY`",
+          "tisoEap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "عَلَيۡهَا تِسۡعَةَ عَشَرَ"
+    },
+    {
+      "id": "74:31",
+      "surah": 74,
+      "ayahNum": 31,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَمَا جَعَلۡنَآ أَصۡحٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكٰفِرُونَ مَاذَآ أَرَادَ ٱللّٰهُ بِهٰذَا مَثَلٗاۚ كَذٰلِكَ يُضِلُّ ٱللّٰهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 57,
+        "unique_surface_forms": 43,
+        "unique_lemmas": 41,
+        "unique_roots": 27,
+        "type_token_ratio": 0.7544,
+        "verb_count": 16,
+        "verb_pct": 28.1,
+        "noun_count": 19,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 9,
+          "Genitive": 4,
+          "Nominative": 6
+        },
+        "roots_present": [
+          "$yA",
+          "*kr",
+          "Alh",
+          "Amn",
+          "Aty",
+          "Dll",
+          "Edd",
+          "Elm",
+          "SHb",
+          "b$r",
+          "ftn",
+          "hdy",
+          "jEl",
+          "jnd",
+          "kfr",
+          "ktb",
+          "mlk",
+          "mrD",
+          "mvl",
+          "nwr",
+          "qlb",
+          "qwl",
+          "rbb",
+          "rwd",
+          "ryb",
+          "yqn",
+          "zyd"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "'aAmana",
+          "*a`lik",
+          "*ikoraY`",
+          "<il~aA",
+          "<iyma`n",
+          ">aDal~a",
+          ">aSoHa`b",
+          ">araAda",
+          "A^taY",
+          "Ealima",
+          "Eid~ap",
+          "ba$ar",
+          "fiY",
+          "fitonap",
+          "ha`*aA",
+          "hadaY",
+          "hiYa",
+          "huwa",
+          "jaEala",
+          "jund",
+          "ka`firuwn",
+          "kafara",
+          "kita`b",
+          "laA",
+          "maA",
+          "maA*aA",
+          "malak",
+          "man",
+          "maval",
+          "mu&omin",
+          "m~araD",
+          "naAr",
+          "qaAla",
+          "qalob",
+          "rab~",
+          "{ll~ah",
+          "{l~a*iY",
+          "{rotaAba",
+          "{sotayoqanato",
+          "{zodaAdu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ"
+    },
+    {
+      "id": "74:32",
+      "surah": 74,
+      "ayahNum": 32,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "كَلَّا وَٱلۡقَمَرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "qmr"
+        ],
+        "lemmas_present": [
+          "kal~aA",
+          "qamar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "كَلَّا وَٱلۡقَمَرِ"
+    },
+    {
+      "id": "74:33",
+      "surah": 74,
+      "ayahNum": 33,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "dbr",
+          "lyl"
+        ],
+        "lemmas_present": [
+          "<i*",
+          ">adobara",
+          "layol"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ"
+    },
+    {
+      "id": "74:34",
+      "surah": 74,
+      "ayahNum": 34,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SbH",
+          "sfr"
+        ],
+        "lemmas_present": [
+          "<i*aA",
+          ">asofara",
+          "SuboH"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ"
+    },
+    {
+      "id": "74:35",
+      "surah": 74,
+      "ayahNum": 35,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "AHd",
+          "kbr"
+        ],
+        "lemmas_present": [
+          "<iHodaY",
+          "<in~",
+          "kuboraY`"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ"
+    },
+    {
+      "id": "74:36",
+      "surah": 74,
+      "ayahNum": 36,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "نَذِيرٗا لِّلۡبَشَرِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "b$r",
+          "n*r"
+        ],
+        "lemmas_present": [
+          "ba$ar",
+          "na*iyr"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "نَذِيرٗا لِّلۡبَشَرِ"
+    },
+    {
+      "id": "74:37",
+      "surah": 74,
+      "ayahNum": 37,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 7,
+        "unique_surface_forms": 7,
+        "unique_lemmas": 7,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 3,
+        "verb_pct": 42.9,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "$yA",
+          "Axr",
+          "qdm"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          ">an",
+          ">aw",
+          "man",
+          "min",
+          "ta>ax~ara",
+          "taqad~ama"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ"
+    },
+    {
+      "id": "74:38",
+      "surah": 74,
+      "ayahNum": 38,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 3,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 2,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kll",
+          "ksb",
+          "nfs",
+          "rhn"
+        ],
+        "lemmas_present": [
+          "kasaba",
+          "kul~",
+          "maA",
+          "nafos",
+          "rahiynap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ"
+    },
+    {
+      "id": "74:39",
+      "surah": 74,
+      "ayahNum": 39,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "إِلَّآ أَصۡحٰبَ ٱلۡيَمِينِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "SHb",
+          "ymn"
+        ],
+        "lemmas_present": [
+          "<il~aA",
+          ">aSoHa`b",
+          "yamiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ"
+    },
+    {
+      "id": "74:40",
+      "surah": 74,
+      "ayahNum": 40,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فِي جَنَّـٰتٖ يَتَسَآءَلُونَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 213,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jnn",
+          "sAl"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "jan~ap",
+          "yatasaA^'alu"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فِي جَنَّـٰتٖ يَتَسَآءَلُونَ"
+    },
+    {
+      "id": "74:41",
+      "surah": 74,
+      "ayahNum": 41,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "عَنِ ٱلۡمُجۡرِمِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 2,
+        "unique_surface_forms": 2,
+        "unique_lemmas": 2,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "jrm"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "mujorim"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "عَنِ ٱلۡمُجۡرِمِينَ"
+    },
+    {
+      "id": "74:42",
+      "surah": 74,
+      "ayahNum": 42,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "مَا سَلَكَكُمۡ فِي سَقَرَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "slk"
+        ],
+        "lemmas_present": [
+          "fiY",
+          "maA",
+          "salaka",
+          "saqar"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "مَا سَلَكَكُمۡ فِي سَقَرَ"
+    },
+    {
+      "id": "74:43",
+      "surah": 74,
+      "ayahNum": 43,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 40,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "Slw",
+          "kwn",
+          "qwl"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "lam",
+          "min",
+          "muSal~iyn",
+          "qaAla"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ"
+    },
+    {
+      "id": "74:44",
+      "surah": 74,
+      "ayahNum": 44,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 3,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "TEm",
+          "kwn",
+          "skn"
+        ],
+        "lemmas_present": [
+          ">aToEama",
+          "kaAna",
+          "lam",
+          "misokiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ"
+    },
+    {
+      "id": "74:45",
+      "surah": 74,
+      "ayahNum": 45,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "kwn",
+          "xwD"
+        ],
+        "lemmas_present": [
+          "kaAna",
+          "maE",
+          "xaADu",
+          "xaA^}iDiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ"
+    },
+    {
+      "id": "74:46",
+      "surah": 74,
+      "ayahNum": 46,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 4,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 50,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 2
+        },
+        "roots_present": [
+          "dyn",
+          "k*b",
+          "kwn",
+          "ywm"
+        ],
+        "lemmas_present": [
+          "diyn",
+          "ka*~aba",
+          "kaAna",
+          "yawom"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ"
+    },
+    {
+      "id": "74:47",
+      "surah": 74,
+      "ayahNum": 47,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "Aty",
+          "yqn"
+        ],
+        "lemmas_present": [
+          ">ataY",
+          "Hat~aY`",
+          "yaqiyn"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ"
+    },
+    {
+      "id": "74:48",
+      "surah": 74,
+      "ayahNum": 48,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَمَا تَنفَعُهُمۡ شَفٰعَةُ ٱلشَّـٰفِعِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 4,
+        "unique_surface_forms": 4,
+        "unique_lemmas": 4,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 25,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1
+        },
+        "roots_present": [
+          "$fE",
+          "nfE"
+        ],
+        "lemmas_present": [
+          "$a`fiEiyn",
+          "$afa`Eap",
+          "maA",
+          "nafaEa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّـٰفِعِينَ"
+    },
+    {
+      "id": "74:49",
+      "surah": 74,
+      "ayahNum": 49,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 2,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1,
+          "Accusative": 1
+        },
+        "roots_present": [
+          "*kr",
+          "ErD"
+        ],
+        "lemmas_present": [
+          "Ean",
+          "humo",
+          "maA",
+          "m~uEoriDuwn",
+          "ta*okirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ"
+    },
+    {
+      "id": "74:50",
+      "surah": 74,
+      "ayahNum": 50,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 2
+        },
+        "roots_present": [
+          "Hmr",
+          "nfr"
+        ],
+        "lemmas_present": [
+          "HimaAr",
+          "ka>an~",
+          "m~usotanfirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ"
+    },
+    {
+      "id": "74:51",
+      "surah": 74,
+      "ayahNum": 51,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَرَّتۡ مِن قَسۡوَرَةِۭ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 33.3,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Genitive": 1
+        },
+        "roots_present": [
+          "frr",
+          "qsr"
+        ],
+        "lemmas_present": [
+          "far~ato",
+          "min",
+          "qasowarap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَرَّتۡ مِن قَسۡوَرَةِۭ"
+    },
+    {
+      "id": "74:52",
+      "surah": 74,
+      "ayahNum": 52,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 9,
+        "unique_surface_forms": 9,
+        "unique_lemmas": 9,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 22.2,
+        "noun_count": 3,
+        "adjective_count": 1,
+        "case_distribution": {
+          "Nominative": 1,
+          "Genitive": 1,
+          "Accusative": 2
+        },
+        "roots_present": [
+          "Aty",
+          "SHf",
+          "kll",
+          "mrA",
+          "n$r",
+          "rwd"
+        ],
+        "lemmas_present": [
+          ">an",
+          ">araAda",
+          "A^taY",
+          "SuHuf",
+          "bal",
+          "kul~",
+          "min",
+          "m~una$~arap",
+          "{mori}"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ"
+    },
+    {
+      "id": "74:53",
+      "surah": 74,
+      "ayahNum": 53,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 5,
+        "unique_surface_forms": 5,
+        "unique_lemmas": 5,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 1,
+        "verb_pct": 20,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Accusative": 1
+        },
+        "roots_present": [
+          "Axr",
+          "xwf"
+        ],
+        "lemmas_present": [
+          "A^xir",
+          "bal",
+          "kal~aA",
+          "laA",
+          "xaAfa"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ"
+    },
+    {
+      "id": "74:54",
+      "surah": 74,
+      "ayahNum": 54,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "كَلَّآ إِنَّهُۥ تَذۡكِرَةٞ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 1,
+        "type_token_ratio": 1,
+        "verb_count": 0,
+        "verb_pct": 0,
+        "noun_count": 1,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 1
+        },
+        "roots_present": [
+          "*kr"
+        ],
+        "lemmas_present": [
+          "<in~",
+          "kal~aA",
+          "ta*okirap"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "كَلَّآ إِنَّهُۥ تَذۡكِرَةٞ"
+    },
+    {
+      "id": "74:55",
+      "surah": 74,
+      "ayahNum": 55,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 3,
+        "unique_surface_forms": 3,
+        "unique_lemmas": 3,
+        "unique_roots": 2,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 66.7,
+        "noun_count": 0,
+        "adjective_count": 0,
+        "case_distribution": {},
+        "roots_present": [
+          "$yA",
+          "*kr"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "*akara",
+          "man"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ"
+    },
+    {
+      "id": "74:56",
+      "surah": 74,
+      "ayahNum": 56,
+      "surahName": "Al-Muddaththir",
+      "surahNameArabic": "المدثر",
+      "surahNameUrdu": "",
+      "surahEnglishMeaning": "The Cloaked One",
+      "arabicText": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللّٰهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+      "transliteration": "",
+      "juz": 29,
+      "hizb": 54,
+      "hizbQuarter": 214,
+      "manzil": 7,
+      "sajda": false,
+      "statistics": {
+        "total_tokens": 11,
+        "unique_surface_forms": 11,
+        "unique_lemmas": 10,
+        "unique_roots": 6,
+        "type_token_ratio": 1,
+        "verb_count": 2,
+        "verb_pct": 18.2,
+        "noun_count": 5,
+        "adjective_count": 0,
+        "case_distribution": {
+          "Nominative": 3,
+          "Genitive": 2
+        },
+        "roots_present": [
+          "$yA",
+          "*kr",
+          "Ahl",
+          "Alh",
+          "gfr",
+          "wqy"
+        ],
+        "lemmas_present": [
+          "$aA^'a",
+          "*akara",
+          "<il~aA",
+          ">ahol",
+          ">an",
+          "huwa",
+          "maA",
+          "m~agofirap",
+          "taqowaY",
+          "{ll~ah"
+        ]
+      },
+      "translations": {
+        "en": "",
+        "ur": "",
+        "tr": "",
+        "id": ""
+      },
+      "wordIds": [],
+      "phraseIds": [],
+      "themes": [],
+      "revelationPeriod": "Meccan",
+      "revelationOrder": 4,
+      "learnedState": "new",
+      "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ"
+    }
+  ]
+}
