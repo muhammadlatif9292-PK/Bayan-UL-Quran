@@ -1,0 +1,8 @@
+{
+  "name": "Bayan Ul Quran",
+  "description": "An elegant, rich-heritage Quranic vocabulary learning application focusing on core vocabulary, root words, phrases, and linguistic context with modular filters and native language elasticity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

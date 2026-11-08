@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Scheherazade+New:wght@400;700&family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-heritage-bg: #FAF6F1;
+  --color-heritage-text-primary: #3E2723;
+  --color-heritage-text-secondary: #795548;
+  --color-heritage-gold: #D4A574;
+  --color-heritage-gold-dark: #BFA36E;
+  --color-heritage-crimson: #8B3A3A;
+  --color-heritage-border: #E8DCC8;
+  
+  --font-arabic: 'Amiri', 'Scheherazade New', 'Noto Naskh Arabic', serif;
+  --font-serif-eng: 'Lora', 'Merriweather', serif;
+  --font-sans-eng: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: #FAF6F1;
+    color: #3E2723;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* Prevent vertical letter-stacking ligatures (e.g. initial double-Meem in مِمَّنِ / مِمَّا)
+   so the Shaddah on the second letter never visually sits above the first letter */
+.font-arabic {
+  font-family: var(--font-arabic);
+  font-variant-ligatures: no-common-ligatures no-contextual;
+  font-feature-settings: "liga" 0, "calt" 0, "dlig" 0;
+}
+
+/* Animations slide up & left */
+@keyframes slideLeft {
+  from {
+    transform: translateX(100%);
+    opacity: 0.9;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(1.5rem);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-slideLeft {
+  animation: slideLeft 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.25s ease-out forwards;
+}
+
+/* GPU accelerated classes to prevent any micro-vibrations or text shaking during auto-scroll */
+.scroll-container-gpu {
+  will-change: scroll-position;
+  -webkit-overflow-scrolling: touch;
+}
+
+.text-stable-gpu {
+  /* Simplified to prevent dynamic text/font rendering and overlapping ghost layer bugs in hardware-accelerated modes */
+}
+
+
