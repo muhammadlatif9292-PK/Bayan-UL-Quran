@@ -1,0 +1,27 @@
+{
+  "name": "quranic-data-transformation",
+  "version": "1.0.0",
+  "description": "Transform Quranic linguistic data into optimized structure for fast loading",
+  "main": "index.js",
+  "scripts": {
+    "transform:words": "node transform-words.js",
+    "transform:murakkabat": "node transform-murakkabat.js",
+    "transform:ayahs": "node transform-ayahs.js",
+    "transform:languages": "node transform-languages.js",
+    "create:index": "node create-master-index.js",
+    "transform:all": "npm run transform:words && npm run transform:murakkabat && npm run transform:ayahs && npm run transform:languages && npm run create:index",
+    "clean": "rm -rf ../data/optimized"
+  },
+  "keywords": [
+    "quran",
+    "arabic",
+    "linguistics",
+    "morphology",
+    "data-transformation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
